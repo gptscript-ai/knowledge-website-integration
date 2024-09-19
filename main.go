@@ -9,6 +9,9 @@ import (
 	"strings"
 	"time"
 
+	"io"
+	"net/http"
+
 	md "github.com/JohannesKaufmann/html-to-markdown"
 	"github.com/gocolly/colly"
 	"github.com/sirupsen/logrus"
@@ -124,7 +127,37 @@ func main() {
 				logrus.Errorf("Invalid link URL %s: %v", link, err)
 				return
 			}
-			if linkURL.Host == "" || baseURL.Host == linkURL.Host {
+			if strings.ToLower(path.Ext(linkURL.Path)) == ".pdf" {
+				logrus.Infof("downloading PDF %s", linkURL.String())
+				filePath := path.Join(workingDir, linkURL.Host, strings.TrimPrefix(linkURL.Path, "/"))
+				dirPath := path.Dir(filePath)
+				err = os.MkdirAll(dirPath, os.ModePerm)
+				if err != nil {
+					logrus.Errorf("Failed to create directories for %s: %v", dirPath, err)
+					return
+				}
+				resp, err := http.Get(linkURL.String())
+				if err != nil {
+					logrus.Errorf("Failed to download PDF %s: %v", linkURL.String(), err)
+					return
+				}
+				defer resp.Body.Close()
+				if resp.StatusCode != http.StatusOK {
+					logrus.Errorf("Failed to download PDF %s: status code %d", linkURL.String(), resp.StatusCode)
+					return
+				}
+				file, err := os.Create(filePath)
+				if err != nil {
+					logrus.Errorf("Failed to create file %s: %v", filePath, err)
+					return
+				}
+				defer file.Close()
+				_, err = io.Copy(file, resp.Body)
+				if err != nil {
+					logrus.Errorf("Failed to save PDF to %s: %v", filePath, err)
+					return
+				}
+			} else if linkURL.Host == "" || baseURL.Host == linkURL.Host {
 				e.Request.Visit(link)
 			}
 		})
