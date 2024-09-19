@@ -1,0 +1,2479 @@
+{
+  "input": {
+    "urls": [
+      "https://coral.org"
+    ]
+  },
+  "output": {
+    "status": "done",
+    "error": "",
+    "scrape_job_id": "",
+    "pages": {
+      "/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/index.md",
+        "url": "https://coral.org/?s=",
+        "last_update": "2024-09-19 00:10:39.290197 -0700 MST m=+105.811094168"
+      },
+      "/about-us": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/about-us.md",
+        "url": "https://www.acorn.io/about-us",
+        "last_update": "2024-09-19 00:07:05.959932 -0700 MST m=+17.871577960"
+      },
+      "/cdn-cgi/l/email-protection": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/cdn-cgi/l/email-protection.md",
+        "url": "https://www.acorn.io/cdn-cgi/l/email-protection",
+        "last_update": "2024-09-19 00:07:06.222077 -0700 MST m=+18.133723335"
+      },
+      "/contact": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/contact.md",
+        "url": "https://www.acorn.io/contact",
+        "last_update": "2024-09-19 00:07:06.19296 -0700 MST m=+18.104606585"
+      },
+      "/en/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en.md",
+        "url": "https://coral.org/en/",
+        "last_update": "2024-09-19 00:13:21.368349 -0700 MST m=+267.887620793"
+      },
+      "/en/blog/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog.md",
+        "url": "https://coral.org/en/blog/",
+        "last_update": "2024-09-19 00:09:52.022793 -0700 MST m=+58.544180835"
+      },
+      "/en/blog/5-surprising-ways-coral-reefs-are-connected-to-our-daily-lives/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/5-surprising-ways-coral-reefs-are-connected-to-our-daily-lives.md",
+        "url": "https://coral.org/en/blog/5-surprising-ways-coral-reefs-are-connected-to-our-daily-lives/",
+        "last_update": "2024-09-19 00:11:18.209541 -0700 MST m=+144.730047251"
+      },
+      "/en/blog/5-ways-to-dive-into-earthday-with-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/5-ways-to-dive-into-earthday-with-coral.md",
+        "url": "https://coral.org/en/blog/5-ways-to-dive-into-earthday-with-coral/",
+        "last_update": "2024-09-19 00:10:56.455844 -0700 MST m=+122.976568043"
+      },
+      "/en/blog/9-game-changing-impacts-of-wastewater-solutions-for-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/9-game-changing-impacts-of-wastewater-solutions-for-coral-reefs.md",
+        "url": "https://coral.org/en/blog/9-game-changing-impacts-of-wastewater-solutions-for-coral-reefs/",
+        "last_update": "2024-09-19 00:11:04.789949 -0700 MST m=+131.310589793"
+      },
+      "/en/blog/a-call-for-sustainable-practices-in-diving-community/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/a-call-for-sustainable-practices-in-diving-community.md",
+        "url": "https://coral.org/en/blog/a-call-for-sustainable-practices-in-diving-community/",
+        "last_update": "2024-09-19 00:09:52.902423 -0700 MST m=+59.423800210"
+      },
+      "/en/blog/advancing-mauis-watershed-restoration-project/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/advancing-mauis-watershed-restoration-project.md",
+        "url": "https://coral.org/en/blog/advancing-mauis-watershed-restoration-project/",
+        "last_update": "2024-09-19 00:13:54.228153 -0700 MST m=+300.744693251"
+      },
+      "/en/blog/allen-coral-atlas-completes-first-global-coral-reef-maps/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/allen-coral-atlas-completes-first-global-coral-reef-maps.md",
+        "url": "https://coral.org/en/blog/allen-coral-atlas-completes-first-global-coral-reef-maps/",
+        "last_update": "2024-09-19 00:13:50.416936 -0700 MST m=+296.935916585"
+      },
+      "/en/blog/allen-coral-atlas/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/allen-coral-atlas.md",
+        "url": "https://coral.org/en/blog/allen-coral-atlas/",
+        "last_update": "2024-09-19 00:14:44.324001 -0700 MST m=+323.042804043"
+      },
+      "/en/blog/aquaculture-an-alternative-to-overfishing-in-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/aquaculture-an-alternative-to-overfishing-in-honduras.md",
+        "url": "https://coral.org/en/blog/aquaculture-an-alternative-to-overfishing-in-honduras/",
+        "last_update": "2024-09-19 00:12:14.585973 -0700 MST m=+201.105914251"
+      },
+      "/en/blog/breaking-the-taboo-around-pee-and-poo-to-help-save-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/breaking-the-taboo-around-pee-and-poo-to-help-save-coral-reefs.md",
+        "url": "https://coral.org/en/blog/breaking-the-taboo-around-pee-and-poo-to-help-save-coral-reefs/",
+        "last_update": "2024-09-19 00:33:08.526172 -0700 MST m=+451.848343543"
+      },
+      "/en/blog/category/case-study/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/case-study.md",
+        "url": "https://coral.org/en/blog/category/case-study/",
+        "last_update": "2024-09-19 00:10:12.220475 -0700 MST m=+78.741646918"
+      },
+      "/en/blog/category/coral-updates/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/coral-updates.md",
+        "url": "https://coral.org/en/blog/category/coral-updates/",
+        "last_update": "2024-09-19 00:09:57.018026 -0700 MST m=+63.539358501"
+      },
+      "/en/blog/category/donor-profiles/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/donor-profiles.md",
+        "url": "https://coral.org/en/blog/category/donor-profiles/",
+        "last_update": "2024-09-19 00:09:59.047379 -0700 MST m=+65.568689751"
+      },
+      "/en/blog/category/guide/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/guide.md",
+        "url": "https://coral.org/en/blog/category/guide/",
+        "last_update": "2024-09-19 00:11:27.010597 -0700 MST m=+153.531015126"
+      },
+      "/en/blog/category/in-the-news/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/in-the-news.md",
+        "url": "https://coral.org/en/blog/category/in-the-news/",
+        "last_update": "2024-09-19 00:10:50.214087 -0700 MST m=+116.734873710"
+      },
+      "/en/blog/category/local-news/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/local-news.md",
+        "url": "https://coral.org/en/blog/category/local-news/",
+        "last_update": "2024-09-19 00:10:07.962019 -0700 MST m=+74.483235626"
+      },
+      "/en/blog/category/partners/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/partners.md",
+        "url": "https://coral.org/en/blog/category/partners/",
+        "last_update": "2024-09-19 00:10:03.487507 -0700 MST m=+70.008769960"
+      },
+      "/en/blog/category/press-release/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/press-release.md",
+        "url": "https://coral.org/en/blog/category/press-release/",
+        "last_update": "2024-09-19 00:10:47.344505 -0700 MST m=+113.865321168"
+      },
+      "/en/blog/category/science-news/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/science-news.md",
+        "url": "https://coral.org/en/blog/category/science-news/",
+        "last_update": "2024-09-19 00:10:12.513454 -0700 MST m=+79.034623043"
+      },
+      "/en/blog/category/staff-profiles/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/staff-profiles.md",
+        "url": "https://coral.org/en/blog/category/staff-profiles/",
+        "last_update": "2024-09-19 00:09:54.078381 -0700 MST m=+60.599745293"
+      },
+      "/en/blog/category/videos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/videos.md",
+        "url": "https://coral.org/en/blog/category/videos/",
+        "last_update": "2024-09-19 00:10:17.208122 -0700 MST m=+83.729242960"
+      },
+      "/en/blog/category/what-you-can-do/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/category/what-you-can-do.md",
+        "url": "https://coral.org/en/blog/category/what-you-can-do/",
+        "last_update": "2024-09-19 00:10:20.403983 -0700 MST m=+86.925071501"
+      },
+      "/en/blog/celebrating-the-success-of-local-partners-who-overcame-challenges-during-covid-19/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/celebrating-the-success-of-local-partners-who-overcame-challenges-during-covid-19.md",
+        "url": "https://coral.org/en/blog/celebrating-the-success-of-local-partners-who-overcame-challenges-during-covid-19/",
+        "last_update": "2024-09-19 00:13:15.372282 -0700 MST m=+261.891614293"
+      },
+      "/en/blog/clean-water-for-reefs-how-your-donation-makes-a-difference/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/clean-water-for-reefs-how-your-donation-makes-a-difference.md",
+        "url": "https://coral.org/en/blog/clean-water-for-reefs-how-your-donation-makes-a-difference/",
+        "last_update": "2024-09-19 00:13:08.422919 -0700 MST m=+254.942320918"
+      },
+      "/en/blog/cleaner-water-farewell-for-coral-disease/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/cleaner-water-farewell-for-coral-disease.md",
+        "url": "https://coral.org/en/blog/cleaner-water-farewell-for-coral-disease/?utm_source=Website\u0026utm_medium=Blog+post\u0026utm_campaign=BPFeb22",
+        "last_update": "2024-09-19 00:14:36.473615 -0700 MST m=+315.194077710"
+      },
+      "/en/blog/community-scientists/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/community-scientists.md",
+        "url": "https://coral.org/en/blog/community-scientists/",
+        "last_update": "2024-09-19 00:12:12.567722 -0700 MST m=+199.087682918"
+      },
+      "/en/blog/coral-creates-first-ever-fish-catalogs-in-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/coral-creates-first-ever-fish-catalogs-in-honduras.md",
+        "url": "https://coral.org/en/blog/coral-creates-first-ever-fish-catalogs-in-honduras/",
+        "last_update": "2024-09-19 00:15:08.948005 -0700 MST m=+347.664597251"
+      },
+      "/en/blog/coral-reefs-can-adapt-to-climate-change-heres-how/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/coral-reefs-can-adapt-to-climate-change-heres-how.md",
+        "url": "https://coral.org/en/blog/coral-reefs-can-adapt-to-climate-change-heres-how/",
+        "last_update": "2024-09-19 00:11:37.307755 -0700 MST m=+163.828069626"
+      },
+      "/en/blog/coral-reefs-in-roatan-thrive-with-clean-water/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/coral-reefs-in-roatan-thrive-with-clean-water.md",
+        "url": "https://coral.org/en/blog/coral-reefs-in-roatan-thrive-with-clean-water/",
+        "last_update": "2024-09-19 00:14:35.716769 -0700 MST m=+314.437436710"
+      },
+      "/en/blog/coral-restoration-likely-wont-be-enough-to-save-coral-reefs-thats-why-we-focus-on-reducing-marine-threats/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/coral-restoration-likely-wont-be-enough-to-save-coral-reefs-thats-why-we-focus-on-reducing-marine-threats.md",
+        "url": "https://coral.org/en/blog/coral-restoration-likely-wont-be-enough-to-save-coral-reefs-thats-why-we-focus-on-reducing-marine-threats/",
+        "last_update": "2024-09-19 00:13:24.71724 -0700 MST m=+271.236478585"
+      },
+      "/en/blog/corals-decoded-animals-or-plants-common-myths-debunked/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/corals-decoded-animals-or-plants-common-myths-debunked.md",
+        "url": "https://coral.org/en/blog/corals-decoded-animals-or-plants-common-myths-debunked/",
+        "last_update": "2024-09-19 00:10:52.256871 -0700 MST m=+118.777637251"
+      },
+      "/en/blog/corals-helps-revitalize-bay-island-economies-in-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/corals-helps-revitalize-bay-island-economies-in-honduras.md",
+        "url": "https://coral.org/en/blog/corals-helps-revitalize-bay-island-economies-in-honduras/",
+        "last_update": "2024-09-19 00:12:00.923308 -0700 MST m=+187.443385918"
+      },
+      "/en/blog/corals-mesoamerica-regional-program-director-was-selected-as-a-global-ambassador-for-panorama/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/corals-mesoamerica-regional-program-director-was-selected-as-a-global-ambassador-for-panorama.md",
+        "url": "https://coral.org/en/blog/corals-mesoamerica-regional-program-director-was-selected-as-a-global-ambassador-for-panorama/",
+        "last_update": "2024-09-19 00:15:02.610114 -0700 MST m=+341.327034960"
+      },
+      "/en/blog/coralvoices-ana-valdez-martinez/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/coralvoices-ana-valdez-martinez.md",
+        "url": "https://coral.org/en/blog/coralvoices-ana-valdez-martinez/",
+        "last_update": "2024-09-19 00:13:51.287359 -0700 MST m=+297.806014210"
+      },
+      "/en/blog/cordelia-banks-a-site-that-offers-hope-to-the-mesoamerican-reef/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/cordelia-banks-a-site-that-offers-hope-to-the-mesoamerican-reef.md",
+        "url": "https://coral.org/en/blog/cordelia-banks-a-site-that-offers-hope-to-the-mesoamerican-reef/",
+        "last_update": "2024-09-19 00:14:38.179996 -0700 MST m=+316.900029043"
+      },
+      "/en/blog/could-satellite-based-technology-save-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/could-satellite-based-technology-save-coral-reefs.md",
+        "url": "https://coral.org/en/blog/could-satellite-based-technology-save-coral-reefs/",
+        "last_update": "2024-09-19 00:14:43.540412 -0700 MST m=+322.259347376"
+      },
+      "/en/blog/empowering-artisanal-fishers-in-micos-lagoon-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/empowering-artisanal-fishers-in-micos-lagoon-honduras.md",
+        "url": "https://coral.org/en/blog/empowering-artisanal-fishers-in-micos-lagoon-honduras/",
+        "last_update": "2024-09-19 00:10:11.274781 -0700 MST m=+77.795962668"
+      },
+      "/en/blog/finding-resilience-in-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/finding-resilience-in-honduras.md",
+        "url": "https://coral.org/en/blog/finding-resilience-in-honduras/",
+        "last_update": "2024-09-19 00:12:10.867756 -0700 MST m=+197.387734168"
+      },
+      "/en/blog/fourth-global-coral-bleaching-event-underscores-urgency-of-action/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/fourth-global-coral-bleaching-event-underscores-urgency-of-action.md",
+        "url": "https://coral.org/en/blog/fourth-global-coral-bleaching-event-underscores-urgency-of-action/",
+        "last_update": "2024-09-19 00:10:49.204924 -0700 MST m=+115.725720876"
+      },
+      "/en/blog/from-thriving-fish-to-spicy-salsa-heres-how-an-aquaponics-system-could-support-coastal-communities/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/from-thriving-fish-to-spicy-salsa-heres-how-an-aquaponics-system-could-support-coastal-communities.md",
+        "url": "https://coral.org/en/blog/from-thriving-fish-to-spicy-salsa-heres-how-an-aquaponics-system-could-support-coastal-communities/",
+        "last_update": "2024-09-19 00:11:48.548863 -0700 MST m=+175.069065168"
+      },
+      "/en/blog/get-to-know-heather-starck-corals-new-executive-director/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/get-to-know-heather-starck-corals-new-executive-director.md",
+        "url": "https://coral.org/en/blog/get-to-know-heather-starck-corals-new-executive-director/",
+        "last_update": "2024-09-19 00:13:22.085881 -0700 MST m=+268.605145668"
+      },
+      "/en/blog/hawaii-county-allocates-1-8-million-to-clean-water-and-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/hawaii-county-allocates-1-8-million-to-clean-water-and-coral-reefs.md",
+        "url": "https://coral.org/en/blog/hawaii-county-allocates-1-8-million-to-clean-water-and-coral-reefs/",
+        "last_update": "2024-09-19 00:33:08.9035 -0700 MST m=+452.225666126"
+      },
+      "/en/blog/heather-starck-joins-coral-as-new-executive-director/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/heather-starck-joins-coral-as-new-executive-director.md",
+        "url": "https://coral.org/en/blog/heather-starck-joins-coral-as-new-executive-director/",
+        "last_update": "2024-09-19 00:13:24.503471 -0700 MST m=+271.022711626"
+      },
+      "/en/blog/how-do-corals-reproduce-and-what-can-we-do-to-keep-them-healthy/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/how-do-corals-reproduce-and-what-can-we-do-to-keep-them-healthy.md",
+        "url": "https://coral.org/en/blog/how-do-corals-reproduce-and-what-can-we-do-to-keep-them-healthy/",
+        "last_update": "2024-09-19 00:13:16.601829 -0700 MST m=+263.121148876"
+      },
+      "/en/blog/inside-corals-action-packed-staff-summit/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/inside-corals-action-packed-staff-summit.md",
+        "url": "https://coral.org/en/blog/inside-corals-action-packed-staff-summit/",
+        "last_update": "2024-09-19 00:13:26.845451 -0700 MST m=+273.364668043"
+      },
+      "/en/blog/inside-our-alliance-fresh-clean-threads/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/inside-our-alliance-fresh-clean-threads.md",
+        "url": "https://coral.org/en/blog/inside-our-alliance-fresh-clean-threads/",
+        "last_update": "2024-09-19 00:10:01.696487 -0700 MST m=+68.217769335"
+      },
+      "/en/blog/inside-our-alliance-painting-utopian-reefscapes-with-nikolina-kovalenko/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/inside-our-alliance-painting-utopian-reefscapes-with-nikolina-kovalenko.md",
+        "url": "https://coral.org/en/blog/inside-our-alliance-painting-utopian-reefscapes-with-nikolina-kovalenko/",
+        "last_update": "2024-09-19 00:32:07.125951 -0700 MST m=+390.449063418"
+      },
+      "/en/blog/inside-our-alliance-revitalizing-the-land-and-ocean-with-kipuka-olowalu/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/inside-our-alliance-revitalizing-the-land-and-ocean-with-kipuka-olowalu.md",
+        "url": "https://coral.org/en/blog/inside-our-alliance-revitalizing-the-land-and-ocean-with-kipuka-olowalu/",
+        "last_update": "2024-09-19 00:10:07.908442 -0700 MST m=+74.429659376"
+      },
+      "/en/blog/inside-our-alliance-serving-the-local-community-with-trudy-hilton/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/inside-our-alliance-serving-the-local-community-with-trudy-hilton.md",
+        "url": "https://coral.org/en/blog/inside-our-alliance-serving-the-local-community-with-trudy-hilton/",
+        "last_update": "2024-09-19 00:14:28.857171 -0700 MST m=+307.580217876"
+      },
+      "/en/blog/introducing-the-team-behind-hawaiis-reef-conservation/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/introducing-the-team-behind-hawaiis-reef-conservation.md",
+        "url": "https://coral.org/en/blog/introducing-the-team-behind-hawaiis-reef-conservation/",
+        "last_update": "2024-09-19 00:10:58.77384 -0700 MST m=+125.294541335"
+      },
+      "/en/blog/ipccreport/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/ipccreport.md",
+        "url": "https://coral.org/en/blog/ipccreport/",
+        "last_update": "2024-09-19 00:10:46.273657 -0700 MST m=+112.794483126"
+      },
+      "/en/blog/local-honduran-committee-takes-action-to-protect-coastal-marine-ecosystems/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/local-honduran-committee-takes-action-to-protect-coastal-marine-ecosystems.md",
+        "url": "https://coral.org/en/blog/local-honduran-committee-takes-action-to-protect-coastal-marine-ecosystems/",
+        "last_update": "2024-09-19 00:12:04.709832 -0700 MST m=+191.229871585"
+      },
+      "/en/blog/local-project-led-by-women-combats-overfishing-in-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/local-project-led-by-women-combats-overfishing-in-honduras.md",
+        "url": "https://coral.org/en/blog/local-project-led-by-women-combats-overfishing-in-honduras/",
+        "last_update": "2024-09-19 00:15:00.583031 -0700 MST m=+339.300081710"
+      },
+      "/en/blog/local-scientists-find-new-coral-reefs-in-trujillo-honduras-heres-what-that-could-mean-for-mesoamerica/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/local-scientists-find-new-coral-reefs-in-trujillo-honduras-heres-what-that-could-mean-for-mesoamerica.md",
+        "url": "https://coral.org/en/blog/local-scientists-find-new-coral-reefs-in-trujillo-honduras-heres-what-that-could-mean-for-mesoamerica/",
+        "last_update": "2024-09-19 00:12:03.535488 -0700 MST m=+190.055540126"
+      },
+      "/en/blog/major-water-quality-issues-plaguing-coral-reefs-today/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/major-water-quality-issues-plaguing-coral-reefs-today.md",
+        "url": "https://coral.org/en/blog/major-water-quality-issues-plaguing-coral-reefs-today/",
+        "last_update": "2024-09-19 00:13:09.681956 -0700 MST m=+256.201344793"
+      },
+      "/en/blog/making-the-case-for-a-biological-corridor/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/making-the-case-for-a-biological-corridor.md",
+        "url": "https://coral.org/en/blog/making-the-case-for-a-biological-corridor/",
+        "last_update": "2024-09-19 00:12:08.076483 -0700 MST m=+194.596488960"
+      },
+      "/en/blog/mariculture-an-innovative-approach-to-coral-conservation/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/mariculture-an-innovative-approach-to-coral-conservation.md",
+        "url": "https://coral.org/en/blog/mariculture-an-innovative-approach-to-coral-conservation/",
+        "last_update": "2024-09-19 00:10:12.684273 -0700 MST m=+79.205440335"
+      },
+      "/en/blog/marine-water-quality-protocol-now-available-for-mesoamerican-reef-system-comprehensive-guide/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/marine-water-quality-protocol-now-available-for-mesoamerican-reef-system-comprehensive-guide.md",
+        "url": "https://coral.org/en/blog/marine-water-quality-protocol-now-available-for-mesoamerican-reef-system-comprehensive-guide/",
+        "last_update": "2024-09-19 00:11:29.598738 -0700 MST m=+156.119129960"
+      },
+      "/en/blog/meet-corals-new-director-of-finance-and-operations/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/meet-corals-new-director-of-finance-and-operations.md",
+        "url": "https://coral.org/en/blog/meet-corals-new-director-of-finance-and-operations/",
+        "last_update": "2024-09-19 00:13:06.599555 -0700 MST m=+253.118974543"
+      },
+      "/en/blog/new-educational-videos-that-focus-on-protecting-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/new-educational-videos-that-focus-on-protecting-coral-reefs.md",
+        "url": "https://coral.org/en/blog/new-educational-videos-that-focus-on-protecting-coral-reefs/",
+        "last_update": "2024-09-19 00:15:06.774452 -0700 MST m=+345.491146126"
+      },
+      "/en/blog/new-management-plan-will-protect-coral-reefs-in-tela-bay-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/new-management-plan-will-protect-coral-reefs-in-tela-bay-honduras.md",
+        "url": "https://coral.org/en/blog/new-management-plan-will-protect-coral-reefs-in-tela-bay-honduras/",
+        "last_update": "2024-09-19 00:11:46.840234 -0700 MST m=+173.360452960"
+      },
+      "/en/blog/new-report-confirms-coral-reefs-are-in-trouble-but-theres-still-hope/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/new-report-confirms-coral-reefs-are-in-trouble-but-theres-still-hope.md",
+        "url": "https://coral.org/en/blog/new-report-confirms-coral-reefs-are-in-trouble-but-theres-still-hope/",
+        "last_update": "2024-09-19 00:32:00.547509 -0700 MST m=+383.870760543"
+      },
+      "/en/blog/new-year-new-habits-your-guide-to-a-greener-2024/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/new-year-new-habits-your-guide-to-a-greener-2024.md",
+        "url": "https://coral.org/en/blog/new-year-new-habits-your-guide-to-a-greener-2024/",
+        "last_update": "2024-09-19 00:31:40.668589 -0700 MST m=+363.992478418"
+      },
+      "/en/blog/our-2022-impact-protecting-coral-reefs-that-can-adapt-to-climate-change/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/our-2022-impact-protecting-coral-reefs-that-can-adapt-to-climate-change.md",
+        "url": "https://coral.org/en/blog/our-2022-impact-protecting-coral-reefs-that-can-adapt-to-climate-change/",
+        "last_update": "2024-09-19 00:32:01.756729 -0700 MST m=+385.079953335"
+      },
+      "/en/blog/reflections-and-resilience-a-year-after-the-lahaina-wildfires/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/reflections-and-resilience-a-year-after-the-lahaina-wildfires.md",
+        "url": "https://coral.org/en/blog/reflections-and-resilience-a-year-after-the-lahaina-wildfires/",
+        "last_update": "2024-09-19 00:09:55.908736 -0700 MST m=+62.430080835"
+      },
+      "/en/blog/resilience-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/resilience-honduras.md",
+        "url": "https://coral.org/en/blog/resilience-honduras/",
+        "last_update": "2024-09-19 00:14:42.216551 -0700 MST m=+320.935726085"
+      },
+      "/en/blog/restoration-2/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/restoration-2.md",
+        "url": "https://coral.org/en/blog/restoration-2/",
+        "last_update": "2024-09-19 00:11:39.541658 -0700 MST m=+166.061950626"
+      },
+      "/en/blog/restoring-native-forest-ecosystems-in-maui-hawaii/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/restoring-native-forest-ecosystems-in-maui-hawaii.md",
+        "url": "https://coral.org/en/blog/restoring-native-forest-ecosystems-in-maui-hawaii/",
+        "last_update": "2024-09-19 00:13:49.540253 -0700 MST m=+296.059242335"
+      },
+      "/en/blog/river-to-reef-how-all-waterways-impact-coral-ecosystems/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/river-to-reef-how-all-waterways-impact-coral-ecosystems.md",
+        "url": "https://coral.org/en/blog/river-to-reef-how-all-waterways-impact-coral-ecosystems/",
+        "last_update": "2024-09-19 00:31:40.332696 -0700 MST m=+363.656600293"
+      },
+      "/en/blog/roatan-marine-park-a-year-of-strength/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/roatan-marine-park-a-year-of-strength.md",
+        "url": "https://coral.org/en/blog/roatan-marine-park-a-year-of-strength/",
+        "last_update": "2024-09-19 00:14:39.970518 -0700 MST m=+318.690143751"
+      },
+      "/en/blog/solar-powered-in-roatan/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/solar-powered-in-roatan.md",
+        "url": "https://coral.org/en/blog/solar-powered-in-roatan/",
+        "last_update": "2024-09-19 00:14:34.282511 -0700 MST m=+313.003597335"
+      },
+      "/en/blog/state-of-the-reef-address-2023-urgent-need-for-action-to-protect-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/state-of-the-reef-address-2023-urgent-need-for-action-to-protect-coral-reefs.md",
+        "url": "https://coral.org/en/blog/state-of-the-reef-address-2023-urgent-need-for-action-to-protect-coral-reefs/",
+        "last_update": "2024-09-19 00:32:13.278993 -0700 MST m=+396.601989960"
+      },
+      "/en/blog/stony-coral-tissue-loss-disease-detected-in-honduras-heres-what-that-means/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/stony-coral-tissue-loss-disease-detected-in-honduras-heres-what-that-means.md",
+        "url": "https://coral.org/en/blog/stony-coral-tissue-loss-disease-detected-in-honduras-heres-what-that-means/?utm_source=Website++\u0026utm_medium=Blog+post\u0026utm_campaign=BPApr22",
+        "last_update": "2024-09-19 00:15:05.660647 -0700 MST m=+344.377397876"
+      },
+      "/en/blog/sunscreen-101-protecting-your-skin-and-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/sunscreen-101-protecting-your-skin-and-coral-reefs.md",
+        "url": "https://coral.org/en/blog/sunscreen-101-protecting-your-skin-and-coral-reefs/",
+        "last_update": "2024-09-19 00:14:46.869335 -0700 MST m=+325.587745543"
+      },
+      "/en/blog/tag/hawaii-island/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/tag/hawaii-island.md",
+        "url": "https://coral.org/en/blog/tag/hawaii-island/",
+        "last_update": "2024-09-19 00:10:58.705208 -0700 MST m=+125.225909793"
+      },
+      "/en/blog/tag/honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/tag/honduras.md",
+        "url": "https://coral.org/en/blog/tag/honduras/",
+        "last_update": "2024-09-19 00:11:03.856521 -0700 MST m=+130.377170918"
+      },
+      "/en/blog/tag/honduras/page/2/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/tag/honduras/page/2.md",
+        "url": "https://coral.org/en/blog/tag/honduras/page/2/",
+        "last_update": "2024-09-19 00:14:57.722824 -0700 MST m=+336.440080543"
+      },
+      "/en/blog/tag/honduras/page/3/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/tag/honduras/page/3.md",
+        "url": "https://coral.org/en/blog/tag/honduras/page/3/",
+        "last_update": "2024-09-19 00:15:06.683867 -0700 MST m=+345.400565668"
+      },
+      "/en/blog/tag/maui/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/tag/maui.md",
+        "url": "https://coral.org/en/blog/tag/maui/",
+        "last_update": "2024-09-19 00:10:55.658957 -0700 MST m=+122.179689126"
+      },
+      "/en/blog/tag/mexico/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/tag/mexico.md",
+        "url": "https://coral.org/en/blog/tag/mexico/",
+        "last_update": "2024-09-19 00:11:00.059177 -0700 MST m=+126.579865585"
+      },
+      "/en/blog/tela-bays-2021-closed-fishing-season-shows-success/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/tela-bays-2021-closed-fishing-season-shows-success.md",
+        "url": "https://coral.org/en/blog/tela-bays-2021-closed-fishing-season-shows-success/",
+        "last_update": "2024-09-19 00:11:52.630548 -0700 MST m=+179.150708876"
+      },
+      "/en/blog/tela-bays-closed-fishing-season-increases-fish-biomass-in-coastal-lagoons/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/tela-bays-closed-fishing-season-increases-fish-biomass-in-coastal-lagoons.md",
+        "url": "https://coral.org/en/blog/tela-bays-closed-fishing-season-increases-fish-biomass-in-coastal-lagoons/",
+        "last_update": "2024-09-19 00:11:51.807765 -0700 MST m=+178.327934085"
+      },
+      "/en/blog/thank-you-for-fighting-stony-coral-tissue-loss-disease/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/thank-you-for-fighting-stony-coral-tissue-loss-disease.md",
+        "url": "https://coral.org/en/blog/thank-you-for-fighting-stony-coral-tissue-loss-disease/",
+        "last_update": "2024-09-19 00:15:04.439501 -0700 MST m=+343.156316710"
+      },
+      "/en/blog/thank-you-for-investing-in-water-and-sanitation/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/thank-you-for-investing-in-water-and-sanitation.md",
+        "url": "https://coral.org/en/blog/thank-you-for-investing-in-water-and-sanitation/",
+        "last_update": "2024-09-19 00:14:37.313154 -0700 MST m=+316.033399710"
+      },
+      "/en/blog/thank-you-for-standing-up-for-coral-reefs-in-2022/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/thank-you-for-standing-up-for-coral-reefs-in-2022.md",
+        "url": "https://coral.org/en/blog/thank-you-for-standing-up-for-coral-reefs-in-2022/",
+        "last_update": "2024-09-19 00:10:18.413227 -0700 MST m=+84.934335710"
+      },
+      "/en/blog/thank-you-for-supporting-coral-heres-how-your-gift-will-make-an-impact-in-2023/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/thank-you-for-supporting-coral-heres-how-your-gift-will-make-an-impact-in-2023.md",
+        "url": "https://coral.org/en/blog/thank-you-for-supporting-coral-heres-how-your-gift-will-make-an-impact-in-2023/",
+        "last_update": "2024-09-19 00:13:53.098819 -0700 MST m=+299.616124460"
+      },
+      "/en/blog/the-community-resilience-fund-in-action/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/the-community-resilience-fund-in-action.md",
+        "url": "https://coral.org/en/blog/the-community-resilience-fund-in-action/",
+        "last_update": "2024-09-19 00:11:20.337926 -0700 MST m=+146.858411168"
+      },
+      "/en/blog/the-importance-of-marine-protected-areas-mpas/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/the-importance-of-marine-protected-areas-mpas.md",
+        "url": "https://coral.org/en/blog/the-importance-of-marine-protected-areas-mpas/",
+        "last_update": "2024-09-19 00:11:18.392295 -0700 MST m=+144.912799126"
+      },
+      "/en/blog/the-mysteries-of-misbehaving-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/the-mysteries-of-misbehaving-coral-reefs.md",
+        "url": "https://coral.org/en/blog/the-mysteries-of-misbehaving-coral-reefs/",
+        "last_update": "2024-09-19 00:11:23.948902 -0700 MST m=+150.469350835"
+      },
+      "/en/blog/the-stench-of-sargassum-season-how-seaweed-is-threatening-mesoamerica/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/the-stench-of-sargassum-season-how-seaweed-is-threatening-mesoamerica.md",
+        "url": "https://coral.org/en/blog/the-stench-of-sargassum-season-how-seaweed-is-threatening-mesoamerica/",
+        "last_update": "2024-09-19 00:11:00.933878 -0700 MST m=+127.454556960"
+      },
+      "/en/blog/theres-nothing-romantic-about-sewage/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/theres-nothing-romantic-about-sewage.md",
+        "url": "https://coral.org/en/blog/theres-nothing-romantic-about-sewage/",
+        "last_update": "2024-09-19 00:33:09.756993 -0700 MST m=+453.079147001"
+      },
+      "/en/blog/this-plastic-free-july-consider-the-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/this-plastic-free-july-consider-the-coral-reefs.md",
+        "url": "https://coral.org/en/blog/this-plastic-free-july-consider-the-coral-reefs/",
+        "last_update": "2024-09-19 00:10:20.456462 -0700 MST m=+86.977549418"
+      },
+      "/en/blog/travel/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/travel.md",
+        "url": "https://coral.org/en/blog/travel/",
+        "last_update": "2024-09-19 00:32:28.485471 -0700 MST m=+411.808219085"
+      },
+      "/en/blog/two-caribbean-reefs-gravely-distressed-from-coral-bleaching-and-climate-change/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/two-caribbean-reefs-gravely-distressed-from-coral-bleaching-and-climate-change.md",
+        "url": "https://coral.org/en/blog/two-caribbean-reefs-gravely-distressed-from-coral-bleaching-and-climate-change/",
+        "last_update": "2024-09-19 00:11:22.784056 -0700 MST m=+149.304516501"
+      },
+      "/en/blog/two-coral-staff-members-were-selected-for-a-conservation-leadership-program/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/two-coral-staff-members-were-selected-for-a-conservation-leadership-program.md",
+        "url": "https://coral.org/en/blog/two-coral-staff-members-were-selected-for-a-conservation-leadership-program/",
+        "last_update": "2024-09-19 00:14:58.626436 -0700 MST m=+337.343624251"
+      },
+      "/en/blog/uniting-a-global-coral-bleaching-response-network/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/uniting-a-global-coral-bleaching-response-network.md",
+        "url": "https://coral.org/en/blog/uniting-a-global-coral-bleaching-response-network/",
+        "last_update": "2024-09-19 00:13:18.750469 -0700 MST m=+265.269766501"
+      },
+      "/en/blog/uniting-for-coral-reefs-the-powerful-partnership-between-coral-reef-alliance-and-aside-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/uniting-for-coral-reefs-the-powerful-partnership-between-coral-reef-alliance-and-aside-honduras.md",
+        "url": "https://coral.org/en/blog/uniting-for-coral-reefs-the-powerful-partnership-between-coral-reef-alliance-and-aside-honduras/",
+        "last_update": "2024-09-19 00:14:55.824428 -0700 MST m=+334.541840043"
+      },
+      "/en/blog/want-to-protect-fisheries-involve-the-community/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/want-to-protect-fisheries-involve-the-community.md",
+        "url": "https://coral.org/en/blog/want-to-protect-fisheries-involve-the-community/",
+        "last_update": "2024-09-19 00:15:12.368153 -0700 MST m=+351.084603293"
+      },
+      "/en/blog/what-is-a-destination-management-organization-and-how-can-a-dmo-protect-coral-reefs-in-cozumel/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/what-is-a-destination-management-organization-and-how-can-a-dmo-protect-coral-reefs-in-cozumel.md",
+        "url": "https://coral.org/en/blog/what-is-a-destination-management-organization-and-how-can-a-dmo-protect-coral-reefs-in-cozumel/",
+        "last_update": "2024-09-19 00:13:27.853638 -0700 MST m=+274.372844251"
+      },
+      "/en/blog/what-is-a-marine-protected-area-mpa/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/what-is-a-marine-protected-area-mpa.md",
+        "url": "https://coral.org/en/blog/what-is-a-marine-protected-area-mpa/",
+        "last_update": "2024-09-19 00:11:26.965195 -0700 MST m=+153.485613751"
+      },
+      "/en/blog/what-is-coral-bleaching-and-why-should-you-care/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/what-is-coral-bleaching-and-why-should-you-care.md",
+        "url": "https://coral.org/en/blog/what-is-coral-bleaching-and-why-should-you-care/",
+        "last_update": "2024-09-19 00:13:51.354419 -0700 MST m=+297.873021751"
+      },
+      "/en/blog/what-is-coral-restoration-and-can-it-save-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/what-is-coral-restoration-and-can-it-save-coral-reefs.md",
+        "url": "https://coral.org/en/blog/what-is-coral-restoration-and-can-it-save-coral-reefs/",
+        "last_update": "2024-09-19 00:11:39.110613 -0700 MST m=+165.630909710"
+      },
+      "/en/blog/where-we-work-the-inside-scoop-on-our-reef-conservation-sites/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/where-we-work-the-inside-scoop-on-our-reef-conservation-sites.md",
+        "url": "https://coral.org/en/blog/where-we-work-the-inside-scoop-on-our-reef-conservation-sites/",
+        "last_update": "2024-09-19 00:09:58.914561 -0700 MST m=+65.435872876"
+      },
+      "/en/blog/why-clean-water-is-vital-for-the-future-of-our-oceans/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/why-clean-water-is-vital-for-the-future-of-our-oceans.md",
+        "url": "https://coral.org/en/blog/why-clean-water-is-vital-for-the-future-of-our-oceans/",
+        "last_update": "2024-09-19 00:13:11.010912 -0700 MST m=+257.530287293"
+      },
+      "/en/blog/with-healthy-fisheries-everyone-wins/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/blog/with-healthy-fisheries-everyone-wins.md",
+        "url": "https://coral.org/en/blog/with-healthy-fisheries-everyone-wins/",
+        "last_update": "2024-09-19 00:12:06.62673 -0700 MST m=+193.146751251"
+      },
+      "/en/clean-water-for-reefs-introduction/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/clean-water-for-reefs-introduction.md",
+        "url": "https://coral.org/en/clean-water-for-reefs-introduction/",
+        "last_update": "2024-09-19 00:11:17.194319 -0700 MST m=+143.714835043"
+      },
+      "/en/contact/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/contact.md",
+        "url": "https://coral.org/en/contact/",
+        "last_update": "2024-09-19 00:10:39.046452 -0700 MST m=+105.567350960"
+      },
+      "/en/coral-bleaching/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-bleaching.md",
+        "url": "https://coral.org/en/coral-bleaching/",
+        "last_update": "2024-09-19 00:08:56.105018 -0700 MST m=+2.627599376"
+      },
+      "/en/coral-bleaching/how-to-mobilize-and-protect/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-bleaching/how-to-mobilize-and-protect.md",
+        "url": "https://coral.org/en/coral-bleaching/how-to-mobilize-and-protect/",
+        "last_update": "2024-09-19 00:11:34.969754 -0700 MST m=+161.490091585"
+      },
+      "/en/coral-bleaching/on-site-monitoring-tools/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-bleaching/on-site-monitoring-tools.md",
+        "url": "https://coral.org/en/coral-bleaching/on-site-monitoring-tools/",
+        "last_update": "2024-09-19 00:11:32.409457 -0700 MST m=+158.929820335"
+      },
+      "/en/coral-bleaching/online-apps-for-coral-bleaching/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-bleaching/online-apps-for-coral-bleaching.md",
+        "url": "https://coral.org/en/coral-bleaching/online-apps-for-coral-bleaching/",
+        "last_update": "2024-09-19 00:11:33.300077 -0700 MST m=+159.820432085"
+      },
+      "/en/coral-bleaching/overview/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-bleaching/overview.md",
+        "url": "https://coral.org/en/coral-bleaching/overview/",
+        "last_update": "2024-09-19 00:11:23.882824 -0700 MST m=+150.403273335"
+      },
+      "/en/coral-bleaching/remote-sensing-tools/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-bleaching/remote-sensing-tools.md",
+        "url": "https://coral.org/en/coral-bleaching/remote-sensing-tools/",
+        "last_update": "2024-09-19 00:11:30.343064 -0700 MST m=+156.863448793"
+      },
+      "/en/coral-bleaching/the-future-of-corals/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-bleaching/the-future-of-corals.md",
+        "url": "https://coral.org/en/coral-bleaching/the-future-of-corals/",
+        "last_update": "2024-09-19 00:11:36.524667 -0700 MST m=+163.044989460"
+      },
+      "/en/coral-bleaching/ways-you-can-help/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-bleaching/ways-you-can-help.md",
+        "url": "https://coral.org/en/coral-bleaching/ways-you-can-help/",
+        "last_update": "2024-09-19 00:14:44.604905 -0700 MST m=+323.323660543"
+      },
+      "/en/coral-reefs-101/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101.md",
+        "url": "https://coral.org/en/coral-reefs-101/",
+        "last_update": "2024-09-19 00:09:00.072984 -0700 MST m=+6.595378376"
+      },
+      "/en/coral-reefs-101/coral-polyps/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/coral-polyps.md",
+        "url": "https://coral.org/en/coral-reefs-101/coral-polyps/",
+        "last_update": "2024-09-19 00:10:23.143318 -0700 MST m=+89.664378043"
+      },
+      "/en/coral-reefs-101/direct-threats/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/direct-threats.md",
+        "url": "https://coral.org/en/coral-reefs-101/direct-threats/",
+        "last_update": "2024-09-19 00:33:10.019021 -0700 MST m=+453.341171501"
+      },
+      "/en/coral-reefs-101/geography/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/geography.md",
+        "url": "https://coral.org/en/coral-reefs-101/geography/",
+        "last_update": "2024-09-19 00:10:27.154568 -0700 MST m=+93.675587710"
+      },
+      "/en/coral-reefs-101/global-threats/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/global-threats.md",
+        "url": "https://coral.org/en/coral-reefs-101/global-threats/",
+        "last_update": "2024-09-19 00:10:21.920143 -0700 MST m=+88.441215668"
+      },
+      "/en/coral-reefs-101/hard-corals/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/hard-corals.md",
+        "url": "https://coral.org/en/coral-reefs-101/hard-corals/",
+        "last_update": "2024-09-19 00:10:24.108208 -0700 MST m=+90.629258501"
+      },
+      "/en/coral-reefs-101/how-coral-reefs-grow/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/how-coral-reefs-grow.md",
+        "url": "https://coral.org/en/coral-reefs-101/how-coral-reefs-grow/",
+        "last_update": "2024-09-19 00:09:00.1212 -0700 MST m=+6.643592085"
+      },
+      "/en/coral-reefs-101/how-corals-reproduce/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/how-corals-reproduce.md",
+        "url": "https://coral.org/en/coral-reefs-101/how-corals-reproduce/",
+        "last_update": "2024-09-19 00:10:27.229482 -0700 MST m=+93.750501001"
+      },
+      "/en/coral-reefs-101/how-reefs-are-made/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/how-reefs-are-made.md",
+        "url": "https://coral.org/en/coral-reefs-101/how-reefs-are-made/",
+        "last_update": "2024-09-19 00:10:25.796916 -0700 MST m=+92.317949668"
+      },
+      "/en/coral-reefs-101/reef-threats/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/reef-threats.md",
+        "url": "https://coral.org/en/coral-reefs-101/reef-threats/",
+        "last_update": "2024-09-19 00:14:48.273599 -0700 MST m=+326.991817751"
+      },
+      "/en/coral-reefs-101/soft-corals/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/soft-corals.md",
+        "url": "https://coral.org/en/coral-reefs-101/soft-corals/",
+        "last_update": "2024-09-19 00:10:25.687427 -0700 MST m=+92.208461626"
+      },
+      "/en/coral-reefs-101/types-of-coral-reef-formations/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/types-of-coral-reef-formations.md",
+        "url": "https://coral.org/en/coral-reefs-101/types-of-coral-reef-formations/",
+        "last_update": "2024-09-19 00:10:28.499544 -0700 MST m=+95.020549626"
+      },
+      "/en/coral-reefs-101/what-do-corals-reefs-need-to-survive/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/what-do-corals-reefs-need-to-survive.md",
+        "url": "https://coral.org/en/coral-reefs-101/what-do-corals-reefs-need-to-survive/",
+        "last_update": "2024-09-19 00:09:00.355036 -0700 MST m=+6.877418460"
+      },
+      "/en/coral-reefs-101/why-care-about-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/why-care-about-reefs.md",
+        "url": "https://coral.org/en/coral-reefs-101/why-care-about-reefs/",
+        "last_update": "2024-09-19 00:31:46.235289 -0700 MST m=+369.558949668"
+      },
+      "/en/coral-reefs-101/why-care-about-reefs/biodiversity/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/why-care-about-reefs/biodiversity.md",
+        "url": "https://coral.org/en/coral-reefs-101/why-care-about-reefs/biodiversity/",
+        "last_update": "2024-09-19 00:10:29.802503 -0700 MST m=+96.323495793"
+      },
+      "/en/coral-reefs-101/why-care-about-reefs/coastal-protection/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/why-care-about-reefs/coastal-protection.md",
+        "url": "https://coral.org/en/coral-reefs-101/why-care-about-reefs/coastal-protection/",
+        "last_update": "2024-09-19 00:10:31.357927 -0700 MST m=+97.878904460"
+      },
+      "/en/coral-reefs-101/why-care-about-reefs/food/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/why-care-about-reefs/food.md",
+        "url": "https://coral.org/en/coral-reefs-101/why-care-about-reefs/food/",
+        "last_update": "2024-09-19 00:10:31.465835 -0700 MST m=+97.986810585"
+      },
+      "/en/coral-reefs-101/why-care-about-reefs/medicine/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/why-care-about-reefs/medicine.md",
+        "url": "https://coral.org/en/coral-reefs-101/why-care-about-reefs/medicine/",
+        "last_update": "2024-09-19 00:10:33.260657 -0700 MST m=+99.781614335"
+      },
+      "/en/coral-reefs-101/why-care-about-reefs/tourism/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/coral-reefs-101/why-care-about-reefs/tourism.md",
+        "url": "https://coral.org/en/coral-reefs-101/why-care-about-reefs/tourism/",
+        "last_update": "2024-09-19 00:10:33.378154 -0700 MST m=+99.899110626"
+      },
+      "/en/corporate-partners/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/corporate-partners.md",
+        "url": "https://coral.org/en/corporate-partners/",
+        "last_update": "2024-09-19 00:09:02.191508 -0700 MST m=+8.713817210"
+      },
+      "/en/donate/community-resilience-fund/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/donate/community-resilience-fund.md",
+        "url": "https://coral.org/en/donate/community-resilience-fund/",
+        "last_update": "2024-09-19 00:09:02.080288 -0700 MST m=+8.602601168"
+      },
+      "/en/donate/other/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/donate/other.md",
+        "url": "https://coral.org/en/donate/other/",
+        "last_update": "2024-09-19 00:09:02.025308 -0700 MST m=+8.547623418"
+      },
+      "/en/donate/planned-giving/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/donate/planned-giving.md",
+        "url": "https://coral.org/en/donate/planned-giving/",
+        "last_update": "2024-09-19 00:09:01.939715 -0700 MST m=+8.462033626"
+      },
+      "/en/how-can-you-help/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/how-can-you-help.md",
+        "url": "https://coral.org/en/how-can-you-help/",
+        "last_update": "2024-09-19 00:09:00.468222 -0700 MST m=+6.990600418"
+      },
+      "/en/how-coral-reefs-can-adapt-to-climate-change/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/how-coral-reefs-can-adapt-to-climate-change.md",
+        "url": "https://coral.org/en/how-coral-reefs-can-adapt-to-climate-change/",
+        "last_update": "2024-09-19 00:13:38.861698 -0700 MST m=+285.380794710"
+      },
+      "/en/how-we-work/community-engagement/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/how-we-work/community-engagement.md",
+        "url": "https://coral.org/en/how-we-work/community-engagement/",
+        "last_update": "2024-09-19 00:08:56.820717 -0700 MST m=+3.343262293"
+      },
+      "/en/how-we-work/key-alliances/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/how-we-work/key-alliances.md",
+        "url": "https://coral.org/en/how-we-work/key-alliances/",
+        "last_update": "2024-09-19 00:08:56.962693 -0700 MST m=+3.485231335"
+      },
+      "/en/how-we-work/scientific-leadership/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/how-we-work/scientific-leadership.md",
+        "url": "https://coral.org/en/how-we-work/scientific-leadership/",
+        "last_update": "2024-09-19 00:13:38.021256 -0700 MST m=+284.540360626"
+      },
+      "/en/job-opportunities/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/job-opportunities.md",
+        "url": "https://coral.org/en/job-opportunities/",
+        "last_update": "2024-09-19 00:10:36.189187 -0700 MST m=+102.710115126"
+      },
+      "/en/job-opportunities/copy-strategic-director/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/job-opportunities/copy-strategic-director.md",
+        "url": "https://coral.org/en/job-opportunities/copy-strategic-director/",
+        "last_update": "2024-09-19 00:10:36.550192 -0700 MST m=+103.071116418"
+      },
+      "/en/job-opportunities/maui-nui-field-service-technician/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/job-opportunities/maui-nui-field-service-technician.md",
+        "url": "https://coral.org/en/job-opportunities/maui-nui-field-service-technician/",
+        "last_update": "2024-09-19 00:10:42.705318 -0700 MST m=+109.226180251"
+      },
+      "/en/news/announcements/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/news/announcements.md",
+        "url": "https://coral.org/en/news/announcements/",
+        "last_update": "2024-09-19 00:09:51.216448 -0700 MST m=+57.737844126"
+      },
+      "/en/news/in-the-news/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/news/in-the-news.md",
+        "url": "https://coral.org/en/news/in-the-news/",
+        "last_update": "2024-09-19 00:09:01.3337 -0700 MST m=+7.856042668"
+      },
+      "/en/news/press-releases/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/news/press-releases.md",
+        "url": "https://coral.org/en/news/press-releases/",
+        "last_update": "2024-09-19 00:09:01.435664 -0700 MST m=+7.958002460"
+      },
+      "/en/newsletter/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/newsletter.md",
+        "url": "https://coral.org/en/newsletter/",
+        "last_update": "2024-09-19 00:09:02.335127 -0700 MST m=+8.857430710"
+      },
+      "/en/policiesanddisclosures/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/policiesanddisclosures.md",
+        "url": "https://coral.org/en/policiesanddisclosures/",
+        "last_update": "2024-09-19 00:10:41.62929 -0700 MST m=+108.150163501"
+      },
+      "/en/resource/assessing-the-potential-for-demographic-restoration-and-assisted-evolution-to-build-climate-resilience-in-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/resource/assessing-the-potential-for-demographic-restoration-and-assisted-evolution-to-build-climate-resilience-in-coral-reefs.md",
+        "url": "https://coral.org/en/resource/assessing-the-potential-for-demographic-restoration-and-assisted-evolution-to-build-climate-resilience-in-coral-reefs/",
+        "last_update": "2024-09-19 00:13:42.134279 -0700 MST m=+288.653342793"
+      },
+      "/en/resource/can-the-allen-coral-atlas-indicate-adaptive-capacity-of-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/resource/can-the-allen-coral-atlas-indicate-adaptive-capacity-of-coral-reefs.md",
+        "url": "https://coral.org/en/resource/can-the-allen-coral-atlas-indicate-adaptive-capacity-of-coral-reefs/",
+        "last_update": "2024-09-19 00:13:48.647773 -0700 MST m=+295.166770960"
+      },
+      "/en/resource/coral-conservation-in-a-warming-world-must-harness-evolutionary-adaptation/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/resource/coral-conservation-in-a-warming-world-must-harness-evolutionary-adaptation.md",
+        "url": "https://coral.org/en/resource/coral-conservation-in-a-warming-world-must-harness-evolutionary-adaptation/",
+        "last_update": "2024-09-19 00:13:40.561785 -0700 MST m=+287.080864418"
+      },
+      "/en/resource/hotelstewardship/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/resource/hotelstewardship.md",
+        "url": "https://coral.org/en/resource/hotelstewardship/",
+        "last_update": "2024-09-19 00:32:57.385799 -0700 MST m=+440.708126918"
+      },
+      "/en/resource/participation-and-patrols-promote-sustainable-fisheries-in-the-mesoamerican-reef-region/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/resource/participation-and-patrols-promote-sustainable-fisheries-in-the-mesoamerican-reef-region.md",
+        "url": "https://coral.org/en/resource/participation-and-patrols-promote-sustainable-fisheries-in-the-mesoamerican-reef-region/",
+        "last_update": "2024-09-19 00:13:46.58947 -0700 MST m=+293.108489001"
+      },
+      "/en/resource/seasonal-cycles-of-phytoplankton-biomass-and-primary-production-in-a-tropical-temporarily-open-close-estuarine-lagoon-the-effect-of-an-extreme-climatic-event/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/resource/seasonal-cycles-of-phytoplankton-biomass-and-primary-production-in-a-tropical-temporarily-open-close-estuarine-lagoon-the-effect-of-an-extreme-climatic-event.md",
+        "url": "https://coral.org/en/resource/seasonal-cycles-of-phytoplankton-biomass-and-primary-production-in-a-tropical-temporarily-open-close-estuarine-lagoon-the-effect-of-an-extreme-climatic-event/",
+        "last_update": "2024-09-19 00:11:55.495407 -0700 MST m=+182.015538918"
+      },
+      "/en/resource/trainthetrainers/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/resource/trainthetrainers.md",
+        "url": "https://coral.org/en/resource/trainthetrainers/",
+        "last_update": "2024-09-19 00:13:30.526631 -0700 MST m=+277.045811210"
+      },
+      "/en/resource/whitepaper-forecasting-climate-sanctuaries-for-securing-the-future-of-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/resource/whitepaper-forecasting-climate-sanctuaries-for-securing-the-future-of-coral-reefs.md",
+        "url": "https://coral.org/en/resource/whitepaper-forecasting-climate-sanctuaries-for-securing-the-future-of-coral-reefs/",
+        "last_update": "2024-09-19 00:13:44.55275 -0700 MST m=+291.071789668"
+      },
+      "/en/resources/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/resources.md",
+        "url": "https://coral.org/en/resources/",
+        "last_update": "2024-09-19 00:08:59.861097 -0700 MST m=+6.383501168"
+      },
+      "/en/science-of-adaptation/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/science-of-adaptation.md",
+        "url": "https://coral.org/en/science-of-adaptation/",
+        "last_update": "2024-09-19 00:31:46.384984 -0700 MST m=+369.708639251"
+      },
+      "/en/team/allie-coleman/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/allie-coleman.md",
+        "url": "https://coral.org/en/team/allie-coleman/",
+        "last_update": "2024-09-19 00:13:00.623341 -0700 MST m=+247.142820668"
+      },
+      "/en/team/ana-bessy-valdes-martinez/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/ana-bessy-valdes-martinez.md",
+        "url": "https://coral.org/en/team/ana-bessy-valdes-martinez/",
+        "last_update": "2024-09-19 00:12:45.572175 -0700 MST m=+232.091805085"
+      },
+      "/en/team/andrea-rivera-sosa/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/andrea-rivera-sosa.md",
+        "url": "https://coral.org/en/team/andrea-rivera-sosa/",
+        "last_update": "2024-09-19 00:12:54.720363 -0700 MST m=+241.239902251"
+      },
+      "/en/team/ben-charo/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/ben-charo.md",
+        "url": "https://coral.org/en/team/ben-charo/",
+        "last_update": "2024-09-19 00:12:53.717384 -0700 MST m=+240.236932418"
+      },
+      "/en/team/brian-kastl/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/brian-kastl.md",
+        "url": "https://coral.org/en/team/brian-kastl/",
+        "last_update": "2024-09-19 00:12:52.836463 -0700 MST m=+239.356020751"
+      },
+      "/en/team/dr-antonella-rivera/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/dr-antonella-rivera.md",
+        "url": "https://coral.org/en/team/dr-antonella-rivera/",
+        "last_update": "2024-09-19 00:12:38.481827 -0700 MST m=+225.001528126"
+      },
+      "/en/team/dr-helen-fox/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/dr-helen-fox.md",
+        "url": "https://coral.org/en/team/dr-helen-fox/",
+        "last_update": "2024-09-19 00:12:20.241171 -0700 MST m=+206.761055293"
+      },
+      "/en/team/emilio-pacheco/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/emilio-pacheco.md",
+        "url": "https://coral.org/en/team/emilio-pacheco/",
+        "last_update": "2024-09-19 00:12:36.2768 -0700 MST m=+222.796523501"
+      },
+      "/en/team/erica-perez/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/erica-perez.md",
+        "url": "https://coral.org/en/team/erica-perez/",
+        "last_update": "2024-09-19 00:12:47.516658 -0700 MST m=+234.036269501"
+      },
+      "/en/team/greissi-villatoro/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/greissi-villatoro.md",
+        "url": "https://coral.org/en/team/greissi-villatoro/",
+        "last_update": "2024-09-19 00:12:43.525256 -0700 MST m=+230.044906835"
+      },
+      "/en/team/heather-rowan/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/heather-rowan.md",
+        "url": "https://coral.org/en/team/heather-rowan/",
+        "last_update": "2024-09-19 00:13:03.654006 -0700 MST m=+250.173454918"
+      },
+      "/en/team/heather-starck/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/heather-starck.md",
+        "url": "https://coral.org/en/team/heather-starck/",
+        "last_update": "2024-09-19 00:12:19.91606 -0700 MST m=+206.435947876"
+      },
+      "/en/team/javier-pizana-alonso/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/javier-pizana-alonso.md",
+        "url": "https://coral.org/en/team/javier-pizana-alonso/",
+        "last_update": "2024-09-19 00:12:36.656932 -0700 MST m=+223.176652168"
+      },
+      "/en/team/jenny-myton/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/jenny-myton.md",
+        "url": "https://coral.org/en/team/jenny-myton/",
+        "last_update": "2024-09-19 00:12:21.911466 -0700 MST m=+208.431333251"
+      },
+      "/en/team/julio-san-martin-chicas/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/julio-san-martin-chicas.md",
+        "url": "https://coral.org/en/team/julio-san-martin-chicas/",
+        "last_update": "2024-09-19 00:12:40.144152 -0700 MST m=+226.663836876"
+      },
+      "/en/team/kate-beebe/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/kate-beebe.md",
+        "url": "https://coral.org/en/team/kate-beebe/",
+        "last_update": "2024-09-19 00:12:56.552316 -0700 MST m=+243.071836126"
+      },
+      "/en/team/kathryn-kelly/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/kathryn-kelly.md",
+        "url": "https://coral.org/en/team/kathryn-kelly/",
+        "last_update": "2024-09-19 00:13:02.378929 -0700 MST m=+248.898391335"
+      },
+      "/en/team/kristi-jones/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/kristi-jones.md",
+        "url": "https://coral.org/en/team/kristi-jones/",
+        "last_update": "2024-09-19 00:13:04.88057 -0700 MST m=+251.400007418"
+      },
+      "/en/team/kristy-ives/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/kristy-ives.md",
+        "url": "https://coral.org/en/team/kristy-ives/",
+        "last_update": "2024-09-19 00:12:24.675647 -0700 MST m=+211.195486418"
+      },
+      "/en/team/makayla-rickard/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/makayla-rickard.md",
+        "url": "https://coral.org/en/team/makayla-rickard/",
+        "last_update": "2024-09-19 00:12:49.287216 -0700 MST m=+235.806809376"
+      },
+      "/en/team/mandy-norman/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/mandy-norman.md",
+        "url": "https://coral.org/en/team/mandy-norman/",
+        "last_update": "2024-09-19 00:12:23.607292 -0700 MST m=+210.127142960"
+      },
+      "/en/team/manuel-mejia/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/manuel-mejia.md",
+        "url": "https://coral.org/en/team/manuel-mejia/",
+        "last_update": "2024-09-19 00:12:57.64758 -0700 MST m=+244.167089126"
+      },
+      "/en/team/maria-mcdonough/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/maria-mcdonough.md",
+        "url": "https://coral.org/en/team/maria-mcdonough/",
+        "last_update": "2024-09-19 00:12:58.776696 -0700 MST m=+245.296193751"
+      },
+      "/en/team/mayra-johnson/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/mayra-johnson.md",
+        "url": "https://coral.org/en/team/mayra-johnson/",
+        "last_update": "2024-09-19 00:12:27.462168 -0700 MST m=+213.981979960"
+      },
+      "/en/team/mayra-nunez/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/mayra-nunez.md",
+        "url": "https://coral.org/en/team/mayra-nunez/",
+        "last_update": "2024-09-19 00:12:32.9173 -0700 MST m=+219.437057168"
+      },
+      "/en/team/monica-urrutia/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/monica-urrutia.md",
+        "url": "https://coral.org/en/team/monica-urrutia/",
+        "last_update": "2024-09-19 00:12:41.880869 -0700 MST m=+228.400536710"
+      },
+      "/en/team/pamela-ortega/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/pamela-ortega.md",
+        "url": "https://coral.org/en/team/pamela-ortega/",
+        "last_update": "2024-09-19 00:12:34.172753 -0700 MST m=+220.692498085"
+      },
+      "/en/team/paolo-guardiola/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/paolo-guardiola.md",
+        "url": "https://coral.org/en/team/paolo-guardiola/",
+        "last_update": "2024-09-19 00:12:29.145892 -0700 MST m=+215.665687335"
+      },
+      "/en/team/sarah-severino/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/sarah-severino.md",
+        "url": "https://coral.org/en/team/sarah-severino/",
+        "last_update": "2024-09-19 00:12:50.915645 -0700 MST m=+237.435222418"
+      },
+      "/en/team/sheyla-maldonado/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/sheyla-maldonado.md",
+        "url": "https://coral.org/en/team/sheyla-maldonado/",
+        "last_update": "2024-09-19 00:12:31.061016 -0700 MST m=+217.580792251"
+      },
+      "/en/team/tanya-amaya/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/team/tanya-amaya.md",
+        "url": "https://coral.org/en/team/tanya-amaya/",
+        "last_update": "2024-09-19 00:12:26.312849 -0700 MST m=+212.832672210"
+      },
+      "/en/terms-conditions/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/terms-conditions.md",
+        "url": "https://coral.org/en/terms-conditions/",
+        "last_update": "2024-09-19 00:10:41.719399 -0700 MST m=+108.240271043"
+      },
+      "/en/tools/case-studies/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/tools/case-studies.md",
+        "url": "https://coral.org/en/tools/case-studies/",
+        "last_update": "2024-09-19 00:09:00.574476 -0700 MST m=+7.096850001"
+      },
+      "/en/tools/guides/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/tools/guides.md",
+        "url": "https://coral.org/en/tools/guides/",
+        "last_update": "2024-09-19 00:09:00.756677 -0700 MST m=+7.279043210"
+      },
+      "/en/tools/scientific-articles/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/tools/scientific-articles.md",
+        "url": "https://coral.org/en/tools/scientific-articles/",
+        "last_update": "2024-09-19 00:09:00.886758 -0700 MST m=+7.409118626"
+      },
+      "/en/tools/trainings/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/tools/trainings.md",
+        "url": "https://coral.org/en/tools/trainings/",
+        "last_update": "2024-09-19 00:09:00.995536 -0700 MST m=+7.517892126"
+      },
+      "/en/tools/videos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/tools/videos.md",
+        "url": "https://coral.org/en/tools/videos/",
+        "last_update": "2024-09-19 00:09:01.120301 -0700 MST m=+7.642652168"
+      },
+      "/en/what-we-do/global-conservation/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/global-conservation.md",
+        "url": "https://coral.org/en/what-we-do/global-conservation/",
+        "last_update": "2024-09-19 00:08:56.516172 -0700 MST m=+3.038732501"
+      },
+      "/en/what-we-do/global-conservation/coral-bleaching/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/global-conservation/coral-bleaching.md",
+        "url": "https://coral.org/en/what-we-do/global-conservation/coral-bleaching/",
+        "last_update": "2024-09-19 00:13:44.609568 -0700 MST m=+291.128606376"
+      },
+      "/en/what-we-do/local-engagement/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/",
+        "last_update": "2024-09-19 00:09:48.901993 -0700 MST m=+55.423415210"
+      },
+      "/en/what-we-do/local-engagement/clean-water-for-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/clean-water-for-reefs.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/",
+        "last_update": "2024-09-19 00:08:54.838812 -0700 MST m=+1.361461668"
+      },
+      "/en/what-we-do/local-engagement/clean-water-for-reefs/clean-water-for-reefs-toolkit/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/clean-water-for-reefs-toolkit.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/clean-water-for-reefs-toolkit/",
+        "last_update": "2024-09-19 00:11:06.887117 -0700 MST m=+133.407736626"
+      },
+      "/en/what-we-do/local-engagement/clean-water-for-reefs/how-you-can-help/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/how-you-can-help.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/how-you-can-help/",
+        "last_update": "2024-09-19 00:11:15.488478 -0700 MST m=+142.009010960"
+      },
+      "/en/what-we-do/local-engagement/clean-water-for-reefs/inclusive-community-and-partnership-collaboration/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/inclusive-community-and-partnership-collaboration.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/inclusive-community-and-partnership-collaboration/",
+        "last_update": "2024-09-19 00:11:11.762756 -0700 MST m=+138.283326668"
+      },
+      "/en/what-we-do/local-engagement/clean-water-for-reefs/long-term-sustainability/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/long-term-sustainability.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/long-term-sustainability/",
+        "last_update": "2024-09-19 00:11:12.696062 -0700 MST m=+139.216623876"
+      },
+      "/en/what-we-do/local-engagement/clean-water-for-reefs/marine-water-quality-monitoring/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/marine-water-quality-monitoring.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/marine-water-quality-monitoring/",
+        "last_update": "2024-09-19 00:11:07.903883 -0700 MST m=+134.424492501"
+      },
+      "/en/what-we-do/local-engagement/clean-water-for-reefs/overview-of-clean-water-for-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/overview-of-clean-water-for-reefs.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/overview-of-clean-water-for-reefs/",
+        "last_update": "2024-09-19 00:11:05.940739 -0700 MST m=+132.461368376"
+      },
+      "/en/what-we-do/local-engagement/clean-water-for-reefs/sustainable-financing-models/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/sustainable-financing-models.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/sustainable-financing-models/",
+        "last_update": "2024-09-19 00:11:09.93868 -0700 MST m=+136.459268918"
+      },
+      "/en/what-we-do/local-engagement/clean-water-for-reefs/wastewater-treatment-facility-tour/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/wastewater-treatment-facility-tour.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/clean-water-for-reefs/wastewater-treatment-facility-tour/",
+        "last_update": "2024-09-19 00:11:14.506325 -0700 MST m=+141.026868293"
+      },
+      "/en/what-we-do/local-engagement/habitat-protection/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/habitat-protection.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/habitat-protection/",
+        "last_update": "2024-09-19 00:08:55.89765 -0700 MST m=+2.420242960"
+      },
+      "/en/what-we-do/local-engagement/healthy-fisheries/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/local-engagement/healthy-fisheries.md",
+        "url": "https://coral.org/en/what-we-do/local-engagement/healthy-fisheries/",
+        "last_update": "2024-09-19 00:13:13.152841 -0700 MST m=+259.672194668"
+      },
+      "/en/what-we-do/regional-coordination/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/what-we-do/regional-coordination.md",
+        "url": "https://coral.org/en/what-we-do/regional-coordination/",
+        "last_update": "2024-09-19 00:08:56.442275 -0700 MST m=+2.964839085"
+      },
+      "/en/where-we-work/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work.md",
+        "url": "https://coral.org/en/where-we-work/",
+        "last_update": "2024-09-19 00:09:50.957745 -0700 MST m=+57.479144751"
+      },
+      "/en/where-we-work/coral-triangle/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/coral-triangle.md",
+        "url": "https://coral.org/en/where-we-work/coral-triangle/",
+        "last_update": "2024-09-19 00:08:59.747033 -0700 MST m=+6.269442085"
+      },
+      "/en/where-we-work/hawaiian-islands/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/hawaiian-islands.md",
+        "url": "https://coral.org/en/where-we-work/hawaiian-islands/",
+        "last_update": "2024-09-19 00:31:47.385144 -0700 MST m=+370.708763543"
+      },
+      "/en/where-we-work/hawaiian-islands/hawaii-island/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/hawaiian-islands/hawaii-island.md",
+        "url": "https://coral.org/en/where-we-work/hawaiian-islands/hawaii-island/",
+        "last_update": "2024-09-19 00:08:57.089413 -0700 MST m=+3.611944501"
+      },
+      "/en/where-we-work/hawaiian-islands/maui/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/hawaiian-islands/maui.md",
+        "url": "https://coral.org/en/where-we-work/hawaiian-islands/maui/",
+        "last_update": "2024-09-19 00:08:57.2191 -0700 MST m=+3.741625376"
+      },
+      "/en/where-we-work/western-caribbean/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/western-caribbean.md",
+        "url": "https://coral.org/en/where-we-work/western-caribbean/",
+        "last_update": "2024-09-19 00:08:57.385611 -0700 MST m=+3.908128460"
+      },
+      "/en/where-we-work/western-caribbean/belize/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/western-caribbean/belize.md",
+        "url": "https://coral.org/en/where-we-work/western-caribbean/belize/",
+        "last_update": "2024-09-19 00:08:57.497844 -0700 MST m=+4.020356126"
+      },
+      "/en/where-we-work/western-caribbean/honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/western-caribbean/honduras.md",
+        "url": "https://coral.org/en/where-we-work/western-caribbean/honduras/",
+        "last_update": "2024-09-19 00:08:58.288977 -0700 MST m=+4.811450668"
+      },
+      "/en/where-we-work/western-caribbean/honduras/roatan/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/western-caribbean/honduras/roatan.md",
+        "url": "https://coral.org/en/where-we-work/western-caribbean/honduras/roatan/",
+        "last_update": "2024-09-19 00:14:27.033343 -0700 MST m=+305.757213585"
+      },
+      "/en/where-we-work/western-caribbean/honduras/tela/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/western-caribbean/honduras/tela.md",
+        "url": "https://coral.org/en/where-we-work/western-caribbean/honduras/tela/",
+        "last_update": "2024-09-19 00:11:43.623131 -0700 MST m=+170.143382710"
+      },
+      "/en/where-we-work/western-caribbean/honduras/trujillo/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/western-caribbean/honduras/trujillo.md",
+        "url": "https://coral.org/en/where-we-work/western-caribbean/honduras/trujillo/",
+        "last_update": "2024-09-19 00:11:41.231994 -0700 MST m=+167.752269543"
+      },
+      "/en/where-we-work/western-caribbean/honduras/utila/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/western-caribbean/honduras/utila.md",
+        "url": "https://coral.org/en/where-we-work/western-caribbean/honduras/utila/",
+        "last_update": "2024-09-19 00:11:43.41488 -0700 MST m=+169.935133126"
+      },
+      "/en/where-we-work/western-caribbean/mexico/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/western-caribbean/mexico.md",
+        "url": "https://coral.org/en/where-we-work/western-caribbean/mexico/",
+        "last_update": "2024-09-19 00:08:58.443213 -0700 MST m=+4.965682418"
+      },
+      "/en/where-we-work/western-caribbean/mexico/cozumel/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/where-we-work/western-caribbean/mexico/cozumel.md",
+        "url": "https://coral.org/en/where-we-work/western-caribbean/mexico/cozumel/",
+        "last_update": "2024-09-19 00:13:37.291614 -0700 MST m=+283.810726626"
+      },
+      "/en/who-we-are/ambassadors/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/who-we-are/ambassadors.md",
+        "url": "https://coral.org/en/who-we-are/ambassadors/",
+        "last_update": "2024-09-19 00:12:18.809167 -0700 MST m=+205.329065376"
+      },
+      "/en/who-we-are/board/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/who-we-are/board.md",
+        "url": "https://coral.org/en/who-we-are/board/",
+        "last_update": "2024-09-19 00:08:54.491936 -0700 MST m=+1.014605501"
+      },
+      "/en/who-we-are/financial-information/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/who-we-are/financial-information.md",
+        "url": "https://coral.org/en/who-we-are/financial-information/",
+        "last_update": "2024-09-19 00:08:54.774294 -0700 MST m=+1.296947293"
+      },
+      "/en/who-we-are/impact-report/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/who-we-are/impact-report.md",
+        "url": "https://coral.org/en/who-we-are/impact-report/",
+        "last_update": "2024-09-19 00:08:54.6661 -0700 MST m=+1.188759251"
+      },
+      "/en/who-we-are/mission-history/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/who-we-are/mission-history.md",
+        "url": "https://coral.org/en/who-we-are/mission-history/",
+        "last_update": "2024-09-19 00:08:54.215607 -0700 MST m=+0.738292168"
+      },
+      "/en/who-we-are/team/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/en/who-we-are/team.md",
+        "url": "https://coral.org/en/who-we-are/team/",
+        "last_update": "2024-09-19 00:12:18.01908 -0700 MST m=+204.538986876"
+      },
+      "/es/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es.md",
+        "url": "https://coral.org/es/?s=",
+        "last_update": "2024-09-19 00:10:40.802546 -0700 MST m=+107.323427376"
+      },
+      "/es/acerca-de-nosotros/financial-information/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/acerca-de-nosotros/financial-information.md",
+        "url": "https://coral.org/es/acerca-de-nosotros/financial-information/",
+        "last_update": "2024-09-19 00:09:09.964773 -0700 MST m=+16.486831043"
+      },
+      "/es/acerca-de-nosotros/informe-de-impacto/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/acerca-de-nosotros/informe-de-impacto.md",
+        "url": "https://coral.org/es/acerca-de-nosotros/informe-de-impacto/",
+        "last_update": "2024-09-19 00:11:20.106782 -0700 MST m=+146.627268585"
+      },
+      "/es/acerca-de-nosotros/junta/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/acerca-de-nosotros/junta.md",
+        "url": "https://coral.org/es/acerca-de-nosotros/junta/",
+        "last_update": "2024-09-19 00:09:07.255877 -0700 MST m=+13.778012710"
+      },
+      "/es/acerca-de-nosotros/mission-history/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/acerca-de-nosotros/mission-history.md",
+        "url": "https://coral.org/es/acerca-de-nosotros/mission-history/",
+        "last_update": "2024-09-19 00:09:04.457876 -0700 MST m=+10.980102043"
+      },
+      "/es/acerca-de-nosotros/team/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/acerca-de-nosotros/team.md",
+        "url": "https://coral.org/es/acerca-de-nosotros/team/",
+        "last_update": "2024-09-19 00:09:06.3344 -0700 MST m=+12.856564043"
+      },
+      "/es/blanqueamiento-del-coral-herramientas-y-guia-completa/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa.md",
+        "url": "https://coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/",
+        "last_update": "2024-09-19 00:14:54.085546 -0700 MST m=+332.803115210"
+      },
+      "/es/blanqueamiento-del-coral-herramientas-y-guia-completa/blanqueamiento-de-corales/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/blanqueamiento-de-corales.md",
+        "url": "https://coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/blanqueamiento-de-corales/",
+        "last_update": "2024-09-19 00:11:23.829079 -0700 MST m=+150.349529251"
+      },
+      "/es/blanqueamiento-del-coral-herramientas-y-guia-completa/el-futuro-de-los-arrecifes-de-coral-adaptacion-y-evolucion/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/el-futuro-de-los-arrecifes-de-coral-adaptacion-y-evolucion.md",
+        "url": "https://coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/el-futuro-de-los-arrecifes-de-coral-adaptacion-y-evolucion/",
+        "last_update": "2024-09-19 00:11:35.770201 -0700 MST m=+162.290530835"
+      },
+      "/es/blanqueamiento-del-coral-herramientas-y-guia-completa/herramientas-de-monitoreo-in-situ/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/herramientas-de-monitoreo-in-situ.md",
+        "url": "https://coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/herramientas-de-monitoreo-in-situ/",
+        "last_update": "2024-09-19 00:11:32.16619 -0700 MST m=+158.686555918"
+      },
+      "/es/blanqueamiento-del-coral-herramientas-y-guia-completa/lista-de-control-como-movilizarse-y-proteger-los-arrecifes-de-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/lista-de-control-como-movilizarse-y-proteger-los-arrecifes-de-coral.md",
+        "url": "https://coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/lista-de-control-como-movilizarse-y-proteger-los-arrecifes-de-coral/",
+        "last_update": "2024-09-19 00:11:35.717522 -0700 MST m=+162.237852918"
+      },
+      "/es/blanqueamiento-del-coral-herramientas-y-guia-completa/otras-maneras-de-ayudar/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/otras-maneras-de-ayudar.md",
+        "url": "https://coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/otras-maneras-de-ayudar/",
+        "last_update": "2024-09-19 00:14:45.923517 -0700 MST m=+324.642066918"
+      },
+      "/es/blanqueamiento-del-coral-herramientas-y-guia-completa/remote-sensing-tools/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/remote-sensing-tools.md",
+        "url": "https://coral.org/es/blanqueamiento-del-coral-herramientas-y-guia-completa/remote-sensing-tools/",
+        "last_update": "2024-09-19 00:11:31.286945 -0700 MST m=+157.807320293"
+      },
+      "/es/blog/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog.md",
+        "url": "https://coral.org/es/blog/",
+        "last_update": "2024-09-19 00:09:41.827378 -0700 MST m=+48.348883835"
+      },
+      "/es/blog/5-formas-sorprendentes-en-que-los-arrecifes-de-coral-estan-conectados-a-nuestra-vida-cotidiana/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/5-formas-sorprendentes-en-que-los-arrecifes-de-coral-estan-conectados-a-nuestra-vida-cotidiana.md",
+        "url": "https://coral.org/es/blog/5-formas-sorprendentes-en-que-los-arrecifes-de-coral-estan-conectados-a-nuestra-vida-cotidiana/",
+        "last_update": "2024-09-19 00:11:18.340217 -0700 MST m=+144.860721835"
+      },
+      "/es/blog/5-maneras-de-sumergirse-en-el-diadelatierra-con-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/5-maneras-de-sumergirse-en-el-diadelatierra-con-coral.md",
+        "url": "https://coral.org/es/blog/5-maneras-de-sumergirse-en-el-diadelatierra-con-coral/",
+        "last_update": "2024-09-19 00:10:57.371534 -0700 MST m=+123.892249543"
+      },
+      "/es/blog/9-soluciones-para-los-arrecifes-de-coral-que-cambiaran-las-reglas-del-juego/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/9-soluciones-para-los-arrecifes-de-coral-que-cambiaran-las-reglas-del-juego.md",
+        "url": "https://coral.org/es/blog/9-soluciones-para-los-arrecifes-de-coral-que-cambiaran-las-reglas-del-juego/",
+        "last_update": "2024-09-19 00:11:05.779993 -0700 MST m=+132.300623501"
+      },
+      "/es/blog/acuicultura-una-alternativa-a-la-sobrepesca-en-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/acuicultura-una-alternativa-a-la-sobrepesca-en-honduras.md",
+        "url": "https://coral.org/es/blog/acuicultura-una-alternativa-a-la-sobrepesca-en-honduras/",
+        "last_update": "2024-09-19 00:11:50.301776 -0700 MST m=+176.821960501"
+      },
+      "/es/blog/agua-limpia-para-los-arrecifes-como-tu-donacion-marca-la-diferencia/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/agua-limpia-para-los-arrecifes-como-tu-donacion-marca-la-diferencia.md",
+        "url": "https://coral.org/es/blog/agua-limpia-para-los-arrecifes-como-tu-donacion-marca-la-diferencia/",
+        "last_update": "2024-09-19 00:13:09.433928 -0700 MST m=+255.953319710"
+      },
+      "/es/blog/banco-cordelia-esperanza-al-arrecife-mesoamericano/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/banco-cordelia-esperanza-al-arrecife-mesoamericano.md",
+        "url": "https://coral.org/es/blog/banco-cordelia-esperanza-al-arrecife-mesoamericano/",
+        "last_update": "2024-09-19 00:14:39.049572 -0700 MST m=+317.769401418"
+      },
+      "/es/blog/category/case-study/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/case-study.md",
+        "url": "https://coral.org/es/blog/category/case-study/",
+        "last_update": "2024-09-19 00:10:12.322923 -0700 MST m=+78.844093918"
+      },
+      "/es/blog/category/en-las-noticias/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/en-las-noticias.md",
+        "url": "https://coral.org/es/blog/category/en-las-noticias/",
+        "last_update": "2024-09-19 00:10:51.288623 -0700 MST m=+117.809399085"
+      },
+      "/es/blog/category/guide/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/guide.md",
+        "url": "https://coral.org/es/blog/category/guide/",
+        "last_update": "2024-09-19 00:11:27.924236 -0700 MST m=+154.444644501"
+      },
+      "/es/blog/category/local-news-es/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/local-news-es.md",
+        "url": "https://coral.org/es/blog/category/local-news-es/",
+        "last_update": "2024-09-19 00:10:09.279413 -0700 MST m=+75.800615960"
+      },
+      "/es/blog/category/noticias/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/noticias.md",
+        "url": "https://coral.org/es/blog/category/noticias/",
+        "last_update": "2024-09-19 00:09:57.132563 -0700 MST m=+63.653894793"
+      },
+      "/es/blog/category/perfiles-de-donantes/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/perfiles-de-donantes.md",
+        "url": "https://coral.org/es/blog/category/perfiles-de-donantes/",
+        "last_update": "2024-09-19 00:09:59.161266 -0700 MST m=+65.682575668"
+      },
+      "/es/blog/category/presione-soltar/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/presione-soltar.md",
+        "url": "https://coral.org/es/blog/category/presione-soltar/",
+        "last_update": "2024-09-19 00:10:48.360864 -0700 MST m=+114.881669168"
+      },
+      "/es/blog/category/science-news-es/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/science-news-es.md",
+        "url": "https://coral.org/es/blog/category/science-news-es/",
+        "last_update": "2024-09-19 00:10:12.41393 -0700 MST m=+78.935100585"
+      },
+      "/es/blog/category/socios/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/socios.md",
+        "url": "https://coral.org/es/blog/category/socios/",
+        "last_update": "2024-09-19 00:10:05.273942 -0700 MST m=+71.795186043"
+      },
+      "/es/blog/category/staff-profiles-es/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/staff-profiles-es.md",
+        "url": "https://coral.org/es/blog/category/staff-profiles-es/",
+        "last_update": "2024-09-19 00:09:54.193059 -0700 MST m=+60.714422460"
+      },
+      "/es/blog/category/videos-es/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/videos-es.md",
+        "url": "https://coral.org/es/blog/category/videos-es/",
+        "last_update": "2024-09-19 00:10:15.556437 -0700 MST m=+82.077575126"
+      },
+      "/es/blog/category/what-you-can-do-es/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/category/what-you-can-do-es.md",
+        "url": "https://coral.org/es/blog/category/what-you-can-do-es/",
+        "last_update": "2024-09-19 00:10:19.364578 -0700 MST m=+85.885676751"
+      },
+      "/es/blog/celebrando-el-exito-de-los-socios-locales-que-superaron-los-desafios-durante-covid-19/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/celebrando-el-exito-de-los-socios-locales-que-superaron-los-desafios-durante-covid-19.md",
+        "url": "https://coral.org/es/blog/celebrando-el-exito-de-los-socios-locales-que-superaron-los-desafios-durante-covid-19/",
+        "last_update": "2024-09-19 00:13:16.242075 -0700 MST m=+262.761397793"
+      },
+      "/es/blog/cientificos-locales-encuentran-nuevos-arrecifes-de-coral-en-trujillo-honduras-esto-es-lo-que-podria-significar-para-mesoamerica￼/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/cientificos-locales-encuentran-nuevos-arrecifes-de-coral-en-trujillo-honduras-esto-es-lo-que-podria-significar-para-mesoamerica￼.md",
+        "url": "https://coral.org/es/blog/cientificos-locales-encuentran-nuevos-arrecifes-de-coral-en-trujillo-honduras-esto-es-lo-que-podria-significar-para-mesoamerica%ef%bf%bc/",
+        "last_update": "2024-09-19 00:12:02.457814 -0700 MST m=+188.977876585"
+      },
+      "/es/blog/como-proteger-los-arrecifes-de-coral-en-el-dia-de-la-tierra￼/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/como-proteger-los-arrecifes-de-coral-en-el-dia-de-la-tierra￼.md",
+        "url": "https://coral.org/es/blog/como-proteger-los-arrecifes-de-coral-en-el-dia-de-la-tierra%ef%bf%bc/",
+        "last_update": "2024-09-19 00:31:58.501541 -0700 MST m=+381.824840585"
+      },
+      "/es/blog/como-se-reproducen-los-corales-y-que-podemos-hacer-para-mantenerlos-saludables/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/como-se-reproducen-los-corales-y-que-podemos-hacer-para-mantenerlos-saludables.md",
+        "url": "https://coral.org/es/blog/como-se-reproducen-los-corales-y-que-podemos-hacer-para-mantenerlos-saludables/",
+        "last_update": "2024-09-19 00:13:16.656674 -0700 MST m=+263.175992876"
+      },
+      "/es/blog/con-pesquerias-saludables-todos-ganan/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/con-pesquerias-saludables-todos-ganan.md",
+        "url": "https://coral.org/es/blog/con-pesquerias-saludables-todos-ganan/",
+        "last_update": "2024-09-19 00:12:05.664233 -0700 MST m=+192.184263960"
+      },
+      "/es/blog/conferencia-sobre-el-estado-de-los-arrecifes-2023-urge-actuar-para-proteger-los-arrecifes-de-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/conferencia-sobre-el-estado-de-los-arrecifes-2023-urge-actuar-para-proteger-los-arrecifes-de-coral.md",
+        "url": "https://coral.org/es/blog/conferencia-sobre-el-estado-de-los-arrecifes-2023-urge-actuar-para-proteger-los-arrecifes-de-coral/",
+        "last_update": "2024-09-19 00:32:13.39518 -0700 MST m=+396.718174960"
+      },
+      "/es/blog/conoce-a-heather-starck-la-nueva-directora-ejecutiva-de-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/conoce-a-heather-starck-la-nueva-directora-ejecutiva-de-coral.md",
+        "url": "https://coral.org/es/blog/conoce-a-heather-starck-la-nueva-directora-ejecutiva-de-coral/",
+        "last_update": "2024-09-19 00:13:22.789342 -0700 MST m=+269.308599418"
+      },
+      "/es/blog/conoce-a-la-nueva-directora-de-finanzas-y-operaciones-de-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/conoce-a-la-nueva-directora-de-finanzas-y-operaciones-de-coral.md",
+        "url": "https://coral.org/es/blog/conoce-a-la-nueva-directora-de-finanzas-y-operaciones-de-coral/",
+        "last_update": "2024-09-19 00:13:07.548909 -0700 MST m=+254.068319168"
+      },
+      "/es/blog/coral-crea-los-primeros-catalogos-de-peces-de-la-historia-en-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/coral-crea-los-primeros-catalogos-de-peces-de-la-historia-en-honduras.md",
+        "url": "https://coral.org/es/blog/coral-crea-los-primeros-catalogos-de-peces-de-la-historia-en-honduras/",
+        "last_update": "2024-09-19 00:15:10.314117 -0700 MST m=+349.030649668"
+      },
+      "/es/blog/could-satellite-based-technology-save-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/could-satellite-based-technology-save-coral-reefs.md",
+        "url": "https://coral.org/es/blog/could-satellite-based-technology-save-coral-reefs/",
+        "last_update": "2024-09-19 00:13:20.494608 -0700 MST m=+267.013888210"
+      },
+      "/es/blog/de-peces-saludables-a-salsa-picante-asi-es-como-un-sistema-de-acuaponia-podria-fortalecer-a-las-comunidades-costeras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/de-peces-saludables-a-salsa-picante-asi-es-como-un-sistema-de-acuaponia-podria-fortalecer-a-las-comunidades-costeras.md",
+        "url": "https://coral.org/es/blog/de-peces-saludables-a-salsa-picante-asi-es-como-un-sistema-de-acuaponia-podria-fortalecer-a-las-comunidades-costeras/",
+        "last_update": "2024-09-19 00:11:48.330776 -0700 MST m=+174.850979835"
+      },
+      "/es/blog/dentro-de-nuestra-alianza-hilos-limpios-y-frescos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/dentro-de-nuestra-alianza-hilos-limpios-y-frescos.md",
+        "url": "https://coral.org/es/blog/dentro-de-nuestra-alianza-hilos-limpios-y-frescos/",
+        "last_update": "2024-09-19 00:10:00.542739 -0700 MST m=+67.064033960"
+      },
+      "/es/blog/dentro-de-nuestra-alianza-pintando-paisajes-arrecifales-utopicos-con-nikolina-kovalenko/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/dentro-de-nuestra-alianza-pintando-paisajes-arrecifales-utopicos-con-nikolina-kovalenko.md",
+        "url": "https://coral.org/es/blog/dentro-de-nuestra-alianza-pintando-paisajes-arrecifales-utopicos-con-nikolina-kovalenko/",
+        "last_update": "2024-09-19 00:32:07.064751 -0700 MST m=+390.387864543"
+      },
+      "/es/blog/dentro-de-nuestra-alianza-revitalizar-la-tierra-y-el-oceano-con-kipuka-olowalu-2/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/dentro-de-nuestra-alianza-revitalizar-la-tierra-y-el-oceano-con-kipuka-olowalu-2.md",
+        "url": "https://coral.org/es/blog/dentro-de-nuestra-alianza-revitalizar-la-tierra-y-el-oceano-con-kipuka-olowalu-2/",
+        "last_update": "2024-09-19 00:10:06.795885 -0700 MST m=+73.317113501"
+      },
+      "/es/blog/dentro-de-nuestra-alianza-sirviendo-a-la-comunidad-local-con-trudy-hilton-￼/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/dentro-de-nuestra-alianza-sirviendo-a-la-comunidad-local-con-trudy-hilton-￼.md",
+        "url": "https://coral.org/es/blog/dentro-de-nuestra-alianza-sirviendo-a-la-comunidad-local-con-trudy-hilton-%ef%bf%bc/",
+        "last_update": "2024-09-19 00:14:29.983011 -0700 MST m=+308.705595376"
+      },
+      "/es/blog/descifrado-los-corales-animales-o-plantas-mitos-comunes-desmentidos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/descifrado-los-corales-animales-o-plantas-mitos-comunes-desmentidos.md",
+        "url": "https://coral.org/es/blog/descifrado-los-corales-animales-o-plantas-mitos-comunes-desmentidos/",
+        "last_update": "2024-09-19 00:10:51.438895 -0700 MST m=+117.959669418"
+      },
+      "/es/blog/detectada-la-enfermedad-de-perdida-de-tejido-de-coral-duro-en-honduras-que-significa-esto-2/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/detectada-la-enfermedad-de-perdida-de-tejido-de-coral-duro-en-honduras-que-significa-esto-2.md",
+        "url": "https://coral.org/es/blog/detectada-la-enfermedad-de-perdida-de-tejido-de-coral-duro-en-honduras-que-significa-esto-2/",
+        "last_update": "2024-09-19 00:11:59.884125 -0700 MST m=+186.404213626"
+      },
+      "/es/blog/donde-trabajamos-conoce-en-exclusiva-nuestros-sitios-de-conservacion-de-arrecifes/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/donde-trabajamos-conoce-en-exclusiva-nuestros-sitios-de-conservacion-de-arrecifes.md",
+        "url": "https://coral.org/es/blog/donde-trabajamos-conoce-en-exclusiva-nuestros-sitios-de-conservacion-de-arrecifes/",
+        "last_update": "2024-09-19 00:09:58.065437 -0700 MST m=+64.586758418"
+      },
+      "/es/blog/dos-arrecifes-del-caribe-gravemente-afectados-por-el-blanqueamiento-del-coral-y-el-cambio-climatico/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/dos-arrecifes-del-caribe-gravemente-afectados-por-el-blanqueamiento-del-coral-y-el-cambio-climatico.md",
+        "url": "https://coral.org/es/blog/dos-arrecifes-del-caribe-gravemente-afectados-por-el-blanqueamiento-del-coral-y-el-cambio-climatico/",
+        "last_update": "2024-09-19 00:11:23.602489 -0700 MST m=+150.122941001"
+      },
+      "/es/blog/dos-miembros-del-personal-de-coral-han-sido-seleccionados-para-un-programa-de-liderazgo-en-conservacion/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/dos-miembros-del-personal-de-coral-han-sido-seleccionados-para-un-programa-de-liderazgo-en-conservacion.md",
+        "url": "https://coral.org/es/blog/dos-miembros-del-personal-de-coral-han-sido-seleccionados-para-un-programa-de-liderazgo-en-conservacion/",
+        "last_update": "2024-09-19 00:14:59.508833 -0700 MST m=+338.225957085"
+      },
+      "/es/blog/el-cuarto-episodio-mundial-de-blanqueamiento-del-coral-subraya-la-urgencia-de-actuar/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/el-cuarto-episodio-mundial-de-blanqueamiento-del-coral-subraya-la-urgencia-de-actuar.md",
+        "url": "https://coral.org/es/blog/el-cuarto-episodio-mundial-de-blanqueamiento-del-coral-subraya-la-urgencia-de-actuar/",
+        "last_update": "2024-09-19 00:10:48.439679 -0700 MST m=+114.960483418"
+      },
+      "/es/blog/el-fondo-comunitario-de-resiliencia-en-accion/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/el-fondo-comunitario-de-resiliencia-en-accion.md",
+        "url": "https://coral.org/es/blog/el-fondo-comunitario-de-resiliencia-en-accion/",
+        "last_update": "2024-09-19 00:11:21.230996 -0700 MST m=+147.751472043"
+      },
+      "/es/blog/el-hedor-de-la-temporada-de-sargazo-la-amenaza-de-las-algas-en-mesoamerica￼/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/el-hedor-de-la-temporada-de-sargazo-la-amenaza-de-las-algas-en-mesoamerica￼.md",
+        "url": "https://coral.org/es/blog/el-hedor-de-la-temporada-de-sargazo-la-amenaza-de-las-algas-en-mesoamerica%ef%bf%bc/",
+        "last_update": "2024-09-19 00:11:01.818513 -0700 MST m=+128.339183835"
+      },
+      "/es/blog/el-misterio-de-los-rebeldes-arrecifes-de-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/el-misterio-de-los-rebeldes-arrecifes-de-coral.md",
+        "url": "https://coral.org/es/blog/el-misterio-de-los-rebeldes-arrecifes-de-coral/",
+        "last_update": "2024-09-19 00:11:25.295549 -0700 MST m=+151.815984376"
+      },
+      "/es/blog/empoderando-a-los-pescadores-artesanales-de-la-laguna-de-los-micos-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/empoderando-a-los-pescadores-artesanales-de-la-laguna-de-los-micos-honduras.md",
+        "url": "https://coral.org/es/blog/empoderando-a-los-pescadores-artesanales-de-la-laguna-de-los-micos-honduras/",
+        "last_update": "2024-09-19 00:10:10.304597 -0700 MST m=+76.825788501"
+      },
+      "/es/blog/givingtuesday-proteger-los-arrecifes-de-coral-y-la-proxima-generacion/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/givingtuesday-proteger-los-arrecifes-de-coral-y-la-proxima-generacion.md",
+        "url": "https://coral.org/es/blog/givingtuesday-proteger-los-arrecifes-de-coral-y-la-proxima-generacion/",
+        "last_update": "2024-09-19 00:32:00.15769 -0700 MST m=+383.480950501"
+      },
+      "/es/blog/gracias-por-apoyar-a-coral-asi-repercutira-tu-donacion-en-2023/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/gracias-por-apoyar-a-coral-asi-repercutira-tu-donacion-en-2023.md",
+        "url": "https://coral.org/es/blog/gracias-por-apoyar-a-coral-asi-repercutira-tu-donacion-en-2023/",
+        "last_update": "2024-09-19 00:13:53.951099 -0700 MST m=+300.467819043"
+      },
+      "/es/blog/gracias-por-defender-los-arrecifes-de-coral-en-2022/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/gracias-por-defender-los-arrecifes-de-coral-en-2022.md",
+        "url": "https://coral.org/es/blog/gracias-por-defender-los-arrecifes-de-coral-en-2022/",
+        "last_update": "2024-09-19 00:10:19.310535 -0700 MST m=+85.831634668"
+      },
+      "/es/blog/gracias-por-invertir-en-agua-y-saneamiento/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/gracias-por-invertir-en-agua-y-saneamiento.md",
+        "url": "https://coral.org/es/blog/gracias-por-invertir-en-agua-y-saneamiento/",
+        "last_update": "2024-09-19 00:14:38.12277 -0700 MST m=+316.842816126"
+      },
+      "/es/blog/gracias-por-luchar-contra-la-enfermedad-de-perdida-de-tejido-en-corales-duros/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/gracias-por-luchar-contra-la-enfermedad-de-perdida-de-tejido-en-corales-duros.md",
+        "url": "https://coral.org/es/blog/gracias-por-luchar-contra-la-enfermedad-de-perdida-de-tejido-en-corales-duros/",
+        "last_update": "2024-09-19 00:15:05.360232 -0700 MST m=+344.076998710"
+      },
+      "/es/blog/guia-de-la-conservacion-de-los-arrecifes-de-coral-para-ninos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/guia-de-la-conservacion-de-los-arrecifes-de-coral-para-ninos.md",
+        "url": "https://coral.org/es/blog/guia-de-la-conservacion-de-los-arrecifes-de-coral-para-ninos/",
+        "last_update": "2024-09-19 00:31:51.230342 -0700 MST m=+374.553837251"
+      },
+      "/es/blog/heather-starck-se-une-a-coral-como-nueva-directora-ejecutiva/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/heather-starck-se-une-a-coral-como-nueva-directora-ejecutiva.md",
+        "url": "https://coral.org/es/blog/heather-starck-se-une-a-coral-como-nueva-directora-ejecutiva/",
+        "last_update": "2024-09-19 00:13:23.664838 -0700 MST m=+270.184086626"
+      },
+      "/es/blog/impulsando-el-proyecto-de-restauracion-de-la-cuenca-de-maui/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/impulsando-el-proyecto-de-restauracion-de-la-cuenca-de-maui.md",
+        "url": "https://coral.org/es/blog/impulsando-el-proyecto-de-restauracion-de-la-cuenca-de-maui/",
+        "last_update": "2024-09-19 00:13:54.068022 -0700 MST m=+300.584666251"
+      },
+      "/es/blog/la-cumbre-del-personal-de-coral-un-encuentro-lleno-de-accion/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/la-cumbre-del-personal-de-coral-un-encuentro-lleno-de-accion.md",
+        "url": "https://coral.org/es/blog/la-cumbre-del-personal-de-coral-un-encuentro-lleno-de-accion/",
+        "last_update": "2024-09-19 00:13:27.774378 -0700 MST m=+274.293585335"
+      },
+      "/es/blog/la-defensa-de-un-corredor-biologico/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/la-defensa-de-un-corredor-biologico.md",
+        "url": "https://coral.org/es/blog/la-defensa-de-un-corredor-biologico/",
+        "last_update": "2024-09-19 00:12:09.219585 -0700 MST m=+195.739580251"
+      },
+      "/es/blog/la-directora-regional-de-programas-para-mesoamerica-de-coral-fue-seleccionada-como-embajadora-global-de-panorama/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/la-directora-regional-de-programas-para-mesoamerica-de-coral-fue-seleccionada-como-embajadora-global-de-panorama.md",
+        "url": "https://coral.org/es/blog/la-directora-regional-de-programas-para-mesoamerica-de-coral-fue-seleccionada-como-embajadora-global-de-panorama/",
+        "last_update": "2024-09-19 00:15:03.565902 -0700 MST m=+342.282767585"
+      },
+      "/es/blog/la-importancia-de-las-areas-marinas-protegidas-amp/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/la-importancia-de-las-areas-marinas-protegidas-amp.md",
+        "url": "https://coral.org/es/blog/la-importancia-de-las-areas-marinas-protegidas-amp/",
+        "last_update": "2024-09-19 00:11:19.198066 -0700 MST m=+145.718562251"
+      },
+      "/es/blog/la-restauracion-de-los-corales-probablemente-no-sera-suficiente-para-salvar-los-arrecifes-de-coral-por-eso-nos-centramos-en-reducir-las-amenazas-marinas/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/la-restauracion-de-los-corales-probablemente-no-sera-suficiente-para-salvar-los-arrecifes-de-coral-por-eso-nos-centramos-en-reducir-las-amenazas-marinas.md",
+        "url": "https://coral.org/es/blog/la-restauracion-de-los-corales-probablemente-no-sera-suficiente-para-salvar-los-arrecifes-de-coral-por-eso-nos-centramos-en-reducir-las-amenazas-marinas/",
+        "last_update": "2024-09-19 00:13:25.815904 -0700 MST m=+272.335131085"
+      },
+      "/es/blog/la-veda-de-la-bahia-de-tela-2021-es-un-exito/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/la-veda-de-la-bahia-de-tela-2021-es-un-exito.md",
+        "url": "https://coral.org/es/blog/la-veda-de-la-bahia-de-tela-2021-es-un-exito/",
+        "last_update": "2024-09-19 00:11:53.443486 -0700 MST m=+179.963638585"
+      },
+      "/es/blog/la-veda-de-la-bahia-de-tela-incrementa-la-biomasa-de-peces-en-las-lagunas-costeras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/la-veda-de-la-bahia-de-tela-incrementa-la-biomasa-de-peces-en-las-lagunas-costeras.md",
+        "url": "https://coral.org/es/blog/la-veda-de-la-bahia-de-tela-incrementa-la-biomasa-de-peces-en-las-lagunas-costeras/",
+        "last_update": "2024-09-19 00:11:51.065321 -0700 MST m=+177.585497960"
+      },
+      "/es/blog/las-mujeres-detras-de-la-ciencia/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/las-mujeres-detras-de-la-ciencia.md",
+        "url": "https://coral.org/es/blog/las-mujeres-detras-de-la-ciencia/",
+        "last_update": "2024-09-19 00:12:14.129928 -0700 MST m=+200.649873418"
+      },
+      "/es/blog/los-arrecifes-de-coral-pueden-adaptarse-al-cambio-climatico-asi-es-como-lo-hacen/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/los-arrecifes-de-coral-pueden-adaptarse-al-cambio-climatico-asi-es-como-lo-hacen.md",
+        "url": "https://coral.org/es/blog/los-arrecifes-de-coral-pueden-adaptarse-al-cambio-climatico-asi-es-como-lo-hacen/",
+        "last_update": "2024-09-19 00:11:38.132087 -0700 MST m=+164.652393710"
+      },
+      "/es/blog/los-principales-problemas-de-calidad-del-agua-que-afectan-hoy-a-los-arrecifes-de-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/los-principales-problemas-de-calidad-del-agua-que-afectan-hoy-a-los-arrecifes-de-coral.md",
+        "url": "https://coral.org/es/blog/los-principales-problemas-de-calidad-del-agua-que-afectan-hoy-a-los-arrecifes-de-coral/",
+        "last_update": "2024-09-19 00:13:10.770222 -0700 MST m=+257.289600085"
+      },
+      "/es/blog/maricultura-un-enfoque-innovador-para-la-conservacion-del-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/maricultura-un-enfoque-innovador-para-la-conservacion-del-coral.md",
+        "url": "https://coral.org/es/blog/maricultura-un-enfoque-innovador-para-la-conservacion-del-coral/",
+        "last_update": "2024-09-19 00:10:15.486242 -0700 MST m=+82.007380293"
+      },
+      "/es/blog/nuevos-videos-educativos-que-se-centran-en-la-proteccion-de-los-arrecifes-de-coral￼/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/nuevos-videos-educativos-que-se-centran-en-la-proteccion-de-los-arrecifes-de-coral￼.md",
+        "url": "https://coral.org/es/blog/nuevos-videos-educativos-que-se-centran-en-la-proteccion-de-los-arrecifes-de-coral%ef%bf%bc/",
+        "last_update": "2024-09-19 00:15:07.771105 -0700 MST m=+346.487751376"
+      },
+      "/es/blog/podria-el-agua-mas-limpia-significar-el-fin-de-las-enfermedades-del-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/podria-el-agua-mas-limpia-significar-el-fin-de-las-enfermedades-del-coral.md",
+        "url": "https://coral.org/es/blog/podria-el-agua-mas-limpia-significar-el-fin-de-las-enfermedades-del-coral/",
+        "last_update": "2024-09-19 00:14:31.293447 -0700 MST m=+310.015531918"
+      },
+      "/es/blog/por-que-el-agua-limpia-es-vital-para-el-futuro-de-nuestros-oceanos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/por-que-el-agua-limpia-es-vital-para-el-futuro-de-nuestros-oceanos.md",
+        "url": "https://coral.org/es/blog/por-que-el-agua-limpia-es-vital-para-el-futuro-de-nuestros-oceanos/",
+        "last_update": "2024-09-19 00:13:12.098838 -0700 MST m=+258.618202751"
+      },
+      "/es/blog/presentamos-al-equipo-de-conservacion-de-los-arrecifes-de-hawai/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/presentamos-al-equipo-de-conservacion-de-los-arrecifes-de-hawai.md",
+        "url": "https://coral.org/es/blog/presentamos-al-equipo-de-conservacion-de-los-arrecifes-de-hawai/",
+        "last_update": "2024-09-19 00:10:59.59758 -0700 MST m=+126.118273043"
+      },
+      "/es/blog/protocolo-de-calidad-del-agua-marina-ahora-disponible-para-el-sistema-arrecifal-mesoamericano-comprehensive-guide/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/protocolo-de-calidad-del-agua-marina-ahora-disponible-para-el-sistema-arrecifal-mesoamericano-comprehensive-guide.md",
+        "url": "https://coral.org/es/blog/protocolo-de-calidad-del-agua-marina-ahora-disponible-para-el-sistema-arrecifal-mesoamericano-comprehensive-guide/",
+        "last_update": "2024-09-19 00:11:28.775285 -0700 MST m=+155.295685335"
+      },
+      "/es/blog/que-es-el-blanqueamiento-del-coral-y-por-que-deberia-preocuparte/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/que-es-el-blanqueamiento-del-coral-y-por-que-deberia-preocuparte.md",
+        "url": "https://coral.org/es/blog/que-es-el-blanqueamiento-del-coral-y-por-que-deberia-preocuparte/",
+        "last_update": "2024-09-19 00:13:52.234558 -0700 MST m=+298.752488585"
+      },
+      "/es/blog/que-es-la-restauracion-del-coral-y-puede-salvar-los-arrecifes-de-coral/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/que-es-la-restauracion-del-coral-y-puede-salvar-los-arrecifes-de-coral.md",
+        "url": "https://coral.org/es/blog/que-es-la-restauracion-del-coral-y-puede-salvar-los-arrecifes-de-coral/",
+        "last_update": "2024-09-19 00:11:39.354742 -0700 MST m=+165.875036501"
+      },
+      "/es/blog/que-es-un-area-marina-protegida-amp/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/que-es-un-area-marina-protegida-amp.md",
+        "url": "https://coral.org/es/blog/que-es-un-area-marina-protegida-amp/",
+        "last_update": "2024-09-19 00:11:26.062632 -0700 MST m=+152.583059043"
+      },
+      "/es/blog/que-es-un-organo-de-gestion-del-destino-y-como-puede-un-ogd-proteger-los-arrecifes-de-coral-en-cozumel/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/que-es-un-organo-de-gestion-del-destino-y-como-puede-un-ogd-proteger-los-arrecifes-de-coral-en-cozumel.md",
+        "url": "https://coral.org/es/blog/que-es-un-organo-de-gestion-del-destino-y-como-puede-un-ogd-proteger-los-arrecifes-de-coral-en-cozumel/",
+        "last_update": "2024-09-19 00:13:27.915604 -0700 MST m=+274.434809835"
+      },
+      "/es/blog/quieres-proteger-las-pesquerias-involucra-a-la-comunidad/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/quieres-proteger-las-pesquerias-involucra-a-la-comunidad.md",
+        "url": "https://coral.org/es/blog/quieres-proteger-las-pesquerias-involucra-a-la-comunidad/",
+        "last_update": "2024-09-19 00:12:17.101804 -0700 MST m=+203.621719918"
+      },
+      "/es/blog/reflexiones-y-resiliencia-un-ano-despues-del-incendio-de-lahaina/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/reflexiones-y-resiliencia-un-ano-despues-del-incendio-de-lahaina.md",
+        "url": "https://coral.org/es/blog/reflexiones-y-resiliencia-un-ano-despues-del-incendio-de-lahaina/",
+        "last_update": "2024-09-19 00:09:55.075876 -0700 MST m=+61.597229585"
+      },
+      "/es/blog/roatan-marine-park-a-year-of-strength/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/roatan-marine-park-a-year-of-strength.md",
+        "url": "https://coral.org/es/blog/roatan-marine-park-a-year-of-strength/",
+        "last_update": "2024-09-19 00:14:40.817753 -0700 MST m=+319.537200668"
+      },
+      "/es/blog/sunscreen-101-protecting-your-skin-and-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/sunscreen-101-protecting-your-skin-and-coral-reefs.md",
+        "url": "https://coral.org/es/blog/sunscreen-101-protecting-your-skin-and-coral-reefs/",
+        "last_update": "2024-09-19 00:14:47.726301 -0700 MST m=+326.444592085"
+      },
+      "/es/blog/this-global-recycling-day-consider-the-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/this-global-recycling-day-consider-the-coral-reefs.md",
+        "url": "https://coral.org/es/blog/this-global-recycling-day-consider-the-coral-reefs/",
+        "last_update": "2024-09-19 00:10:21.41294 -0700 MST m=+87.934017710"
+      },
+      "/es/blog/un-comite-local-hondureno-toma-medidas-para-proteger-los-ecosistemas-marinos-costeros/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/un-comite-local-hondureno-toma-medidas-para-proteger-los-ecosistemas-marinos-costeros.md",
+        "url": "https://coral.org/es/blog/un-comite-local-hondureno-toma-medidas-para-proteger-los-ecosistemas-marinos-costeros/",
+        "last_update": "2024-09-19 00:12:03.768154 -0700 MST m=+190.288203251"
+      },
+      "/es/blog/un-informe-confirma-que-los-arrecifes-de-coral-estan-en-peligro-pero-todavia-hay-esperanza/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/un-informe-confirma-que-los-arrecifes-de-coral-estan-en-peligro-pero-todavia-hay-esperanza.md",
+        "url": "https://coral.org/es/blog/un-informe-confirma-que-los-arrecifes-de-coral-estan-en-peligro-pero-todavia-hay-esperanza/",
+        "last_update": "2024-09-19 00:32:00.422434 -0700 MST m=+383.745688626"
+      },
+      "/es/blog/un-nuevo-plan-de-gestion-protegera-los-arrecifes-de-coral-de-la-bahia-de-tela-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/un-nuevo-plan-de-gestion-protegera-los-arrecifes-de-coral-de-la-bahia-de-tela-honduras.md",
+        "url": "https://coral.org/es/blog/un-nuevo-plan-de-gestion-protegera-los-arrecifes-de-coral-de-la-bahia-de-tela-honduras/",
+        "last_update": "2024-09-19 00:11:45.82975 -0700 MST m=+172.349978793"
+      },
+      "/es/blog/un-proyecto-local-liderado-por-mujeres-combate-la-sobrepesca-en-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/un-proyecto-local-liderado-por-mujeres-combate-la-sobrepesca-en-honduras.md",
+        "url": "https://coral.org/es/blog/un-proyecto-local-liderado-por-mujeres-combate-la-sobrepesca-en-honduras/",
+        "last_update": "2024-09-19 00:15:01.476528 -0700 MST m=+340.193519543"
+      },
+      "/es/blog/unidos-por-los-arrecifes-de-coral-la-poderosa-alianza-entre-coral-reef-alliance-y-aside-honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/unidos-por-los-arrecifes-de-coral-la-poderosa-alianza-entre-coral-reef-alliance-y-aside-honduras.md",
+        "url": "https://coral.org/es/blog/unidos-por-los-arrecifes-de-coral-la-poderosa-alianza-entre-coral-reef-alliance-y-aside-honduras/",
+        "last_update": "2024-09-19 00:14:56.707442 -0700 MST m=+335.424779418"
+      },
+      "/es/blog/unir-una-red-mundial-de-respuesta-al-blanqueamiento-del-coral￼/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/blog/unir-una-red-mundial-de-respuesta-al-blanqueamiento-del-coral￼.md",
+        "url": "https://coral.org/es/blog/unir-una-red-mundial-de-respuesta-al-blanqueamiento-del-coral%ef%bf%bc/",
+        "last_update": "2024-09-19 00:13:19.672384 -0700 MST m=+266.191672918"
+      },
+      "/es/boletin-informativo/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/boletin-informativo.md",
+        "url": "https://coral.org/es/boletin-informativo/",
+        "last_update": "2024-09-19 00:09:03.295182 -0700 MST m=+9.817450043"
+      },
+      "/es/como-puedes-ayudar/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/como-puedes-ayudar.md",
+        "url": "https://coral.org/es/como-puedes-ayudar/",
+        "last_update": "2024-09-19 00:09:33.602287 -0700 MST m=+40.123899126"
+      },
+      "/es/como-trabajamos/community-engagement/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/como-trabajamos/community-engagement.md",
+        "url": "https://coral.org/es/como-trabajamos/community-engagement/",
+        "last_update": "2024-09-19 00:09:22.003482 -0700 MST m=+28.525274668"
+      },
+      "/es/como-trabajamos/key-alliances/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/como-trabajamos/key-alliances.md",
+        "url": "https://coral.org/es/como-trabajamos/key-alliances/",
+        "last_update": "2024-09-19 00:09:30.156481 -0700 MST m=+36.678142001"
+      },
+      "/es/como-trabajamos/scientific-leadership/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/como-trabajamos/scientific-leadership.md",
+        "url": "https://coral.org/es/como-trabajamos/scientific-leadership/",
+        "last_update": "2024-09-19 00:09:20.474485 -0700 MST m=+26.996306085"
+      },
+      "/es/contact/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/contact.md",
+        "url": "https://coral.org/es/contact/",
+        "last_update": "2024-09-19 00:10:38.285134 -0700 MST m=+104.806041126"
+      },
+      "/es/coral-reefs-101/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101.md",
+        "url": "https://coral.org/es/coral-reefs-101/",
+        "last_update": "2024-09-19 00:09:31.095776 -0700 MST m=+37.617423876"
+      },
+      "/es/coral-reefs-101/coral-polyps/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/coral-polyps.md",
+        "url": "https://coral.org/es/coral-reefs-101/coral-polyps/",
+        "last_update": "2024-09-19 00:10:23.027287 -0700 MST m=+89.548348126"
+      },
+      "/es/coral-reefs-101/direct-threats/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/direct-threats.md",
+        "url": "https://coral.org/es/coral-reefs-101/direct-threats/",
+        "last_update": "2024-09-19 00:10:29.455452 -0700 MST m=+95.976448210"
+      },
+      "/es/coral-reefs-101/global-threats/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/global-threats.md",
+        "url": "https://coral.org/es/coral-reefs-101/global-threats/",
+        "last_update": "2024-09-19 00:10:22.913383 -0700 MST m=+89.434445501"
+      },
+      "/es/coral-reefs-101/hard-corals/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/hard-corals.md",
+        "url": "https://coral.org/es/coral-reefs-101/hard-corals/",
+        "last_update": "2024-09-19 00:10:25.168745 -0700 MST m=+91.689785210"
+      },
+      "/es/coral-reefs-101/how-coral-reefs-grow/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/how-coral-reefs-grow.md",
+        "url": "https://coral.org/es/coral-reefs-101/how-coral-reefs-grow/",
+        "last_update": "2024-09-19 00:09:31.875338 -0700 MST m=+38.396974835"
+      },
+      "/es/coral-reefs-101/how-corals-reproduce/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/how-corals-reproduce.md",
+        "url": "https://coral.org/es/coral-reefs-101/how-corals-reproduce/",
+        "last_update": "2024-09-19 00:10:28.14565 -0700 MST m=+94.666659293"
+      },
+      "/es/coral-reefs-101/how-reefs-are-made/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/how-reefs-are-made.md",
+        "url": "https://coral.org/es/coral-reefs-101/how-reefs-are-made/",
+        "last_update": "2024-09-19 00:10:26.076098 -0700 MST m=+92.597128835"
+      },
+      "/es/coral-reefs-101/reef-threats/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/reef-threats.md",
+        "url": "https://coral.org/es/coral-reefs-101/reef-threats/",
+        "last_update": "2024-09-19 00:09:32.364244 -0700 MST m=+38.885873335"
+      },
+      "/es/coral-reefs-101/soft-corals/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/soft-corals.md",
+        "url": "https://coral.org/es/coral-reefs-101/soft-corals/",
+        "last_update": "2024-09-19 00:10:25.415814 -0700 MST m=+91.936851376"
+      },
+      "/es/coral-reefs-101/types-of-coral-reef-formations/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/types-of-coral-reef-formations.md",
+        "url": "https://coral.org/es/coral-reefs-101/types-of-coral-reef-formations/",
+        "last_update": "2024-09-19 00:10:28.250789 -0700 MST m=+94.771797001"
+      },
+      "/es/coral-reefs-101/what-do-corals-reefs-need-to-survive/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/what-do-corals-reefs-need-to-survive.md",
+        "url": "https://coral.org/es/coral-reefs-101/what-do-corals-reefs-need-to-survive/",
+        "last_update": "2024-09-19 00:09:32.153989 -0700 MST m=+38.675621418"
+      },
+      "/es/coral-reefs-101/where-are-coral-reefs-located/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/where-are-coral-reefs-located.md",
+        "url": "https://coral.org/es/coral-reefs-101/where-are-coral-reefs-located/",
+        "last_update": "2024-09-19 00:10:27.027821 -0700 MST m=+93.548841335"
+      },
+      "/es/coral-reefs-101/why-care-about-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/why-care-about-reefs.md",
+        "url": "https://coral.org/es/coral-reefs-101/why-care-about-reefs/",
+        "last_update": "2024-09-19 00:10:29.586239 -0700 MST m=+96.107233543"
+      },
+      "/es/coral-reefs-101/why-care-about-reefs/biodiversity/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/why-care-about-reefs/biodiversity.md",
+        "url": "https://coral.org/es/coral-reefs-101/why-care-about-reefs/biodiversity/",
+        "last_update": "2024-09-19 00:10:30.095787 -0700 MST m=+96.616777126"
+      },
+      "/es/coral-reefs-101/why-care-about-reefs/coastal-protection/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/why-care-about-reefs/coastal-protection.md",
+        "url": "https://coral.org/es/coral-reefs-101/why-care-about-reefs/coastal-protection/",
+        "last_update": "2024-09-19 00:10:31.221201 -0700 MST m=+97.742178918"
+      },
+      "/es/coral-reefs-101/why-care-about-reefs/food/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/why-care-about-reefs/food.md",
+        "url": "https://coral.org/es/coral-reefs-101/why-care-about-reefs/food/",
+        "last_update": "2024-09-19 00:10:32.344396 -0700 MST m=+98.865363418"
+      },
+      "/es/coral-reefs-101/why-care-about-reefs/medicine/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/why-care-about-reefs/medicine.md",
+        "url": "https://coral.org/es/coral-reefs-101/why-care-about-reefs/medicine/",
+        "last_update": "2024-09-19 00:10:33.194246 -0700 MST m=+99.715203960"
+      },
+      "/es/coral-reefs-101/why-care-about-reefs/tourism/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/coral-reefs-101/why-care-about-reefs/tourism.md",
+        "url": "https://coral.org/es/coral-reefs-101/why-care-about-reefs/tourism/",
+        "last_update": "2024-09-19 00:10:34.290409 -0700 MST m=+100.811355835"
+      },
+      "/es/donar/donacion-directa/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donar/donacion-directa.md",
+        "url": "https://coral.org/es/donar/donacion-directa/",
+        "last_update": "2024-09-19 00:09:46.930532 -0700 MST m=+53.451977668"
+      },
+      "/es/donar/otras-formas-de-donar/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donar/otras-formas-de-donar.md",
+        "url": "https://coral.org/es/donar/otras-formas-de-donar/",
+        "last_update": "2024-09-19 00:09:44.04343 -0700 MST m=+50.564909710"
+      },
+      "/es/donar/planned-giving/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donar/planned-giving.md",
+        "url": "https://coral.org/es/donar/planned-giving/",
+        "last_update": "2024-09-19 00:09:43.220159 -0700 MST m=+49.741648460"
+      },
+      "/es/donate/community-resilience-fund/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donate/community-resilience-fund.md",
+        "url": "https://coral.org/es/donate/community-resilience-fund/",
+        "last_update": "2024-09-19 00:09:46.142686 -0700 MST m=+52.664140418"
+      },
+      "/es/donde-trabajamos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos.md",
+        "url": "https://coral.org/es/donde-trabajamos/",
+        "last_update": "2024-09-19 00:09:49.828222 -0700 MST m=+56.349633918"
+      },
+      "/es/donde-trabajamos/hawaiian-islands/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/hawaiian-islands.md",
+        "url": "https://coral.org/es/donde-trabajamos/hawaiian-islands/",
+        "last_update": "2024-09-19 00:09:25.079827 -0700 MST m=+31.601567335"
+      },
+      "/es/donde-trabajamos/hawaiian-islands/hawaii-island/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/hawaiian-islands/hawaii-island.md",
+        "url": "https://coral.org/es/donde-trabajamos/hawaiian-islands/hawaii-island/",
+        "last_update": "2024-09-19 00:09:25.925167 -0700 MST m=+32.446893168"
+      },
+      "/es/donde-trabajamos/hawaiian-islands/maui/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/hawaiian-islands/maui.md",
+        "url": "https://coral.org/es/donde-trabajamos/hawaiian-islands/maui/",
+        "last_update": "2024-09-19 00:09:27.531949 -0700 MST m=+34.053649835"
+      },
+      "/es/donde-trabajamos/mesoamerican-region/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/mesoamerican-region.md",
+        "url": "https://coral.org/es/donde-trabajamos/mesoamerican-region/",
+        "last_update": "2024-09-19 00:09:29.476392 -0700 MST m=+35.998063460"
+      },
+      "/es/donde-trabajamos/mesoamerican-region/honduras/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/mesoamerican-region/honduras.md",
+        "url": "https://coral.org/es/donde-trabajamos/mesoamerican-region/honduras/",
+        "last_update": "2024-09-19 00:09:29.544643 -0700 MST m=+36.066313543"
+      },
+      "/es/donde-trabajamos/mesoamerican-region/honduras/roatan/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/mesoamerican-region/honduras/roatan.md",
+        "url": "https://coral.org/es/donde-trabajamos/mesoamerican-region/honduras/roatan/",
+        "last_update": "2024-09-19 00:11:39.602128 -0700 MST m=+166.122419460"
+      },
+      "/es/donde-trabajamos/mesoamerican-region/honduras/tela/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/mesoamerican-region/honduras/tela.md",
+        "url": "https://coral.org/es/donde-trabajamos/mesoamerican-region/honduras/tela/",
+        "last_update": "2024-09-19 00:11:43.842714 -0700 MST m=+170.362962918"
+      },
+      "/es/donde-trabajamos/mesoamerican-region/honduras/trujillo/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/mesoamerican-region/honduras/trujillo.md",
+        "url": "https://coral.org/es/donde-trabajamos/mesoamerican-region/honduras/trujillo/",
+        "last_update": "2024-09-19 00:11:41.286699 -0700 MST m=+167.806973543"
+      },
+      "/es/donde-trabajamos/mesoamerican-region/honduras/utila/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/mesoamerican-region/honduras/utila.md",
+        "url": "https://coral.org/es/donde-trabajamos/mesoamerican-region/honduras/utila/",
+        "last_update": "2024-09-19 00:11:42.346812 -0700 MST m=+168.867076501"
+      },
+      "/es/donde-trabajamos/mesoamerican-region/mexico/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/mesoamerican-region/mexico.md",
+        "url": "https://coral.org/es/donde-trabajamos/mesoamerican-region/mexico/",
+        "last_update": "2024-09-19 00:09:29.702029 -0700 MST m=+36.223696835"
+      },
+      "/es/donde-trabajamos/mesoamerican-region/mexico/cozumel/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/donde-trabajamos/mesoamerican-region/mexico/cozumel.md",
+        "url": "https://coral.org/es/donde-trabajamos/mesoamerican-region/mexico/cozumel/",
+        "last_update": "2024-09-19 00:13:29.194216 -0700 MST m=+275.713409210"
+      },
+      "/es/informeanual/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/informeanual.md",
+        "url": "https://coral.org/es/informeanual/",
+        "last_update": "2024-09-19 00:09:08.357456 -0700 MST m=+14.879559085"
+      },
+      "/es/instrumentos/articulos-cientificos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/instrumentos/articulos-cientificos.md",
+        "url": "https://coral.org/es/instrumentos/articulos-cientificos/",
+        "last_update": "2024-09-19 00:09:36.814378 -0700 MST m=+43.335947501"
+      },
+      "/es/instrumentos/capacitaciones/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/instrumentos/capacitaciones.md",
+        "url": "https://coral.org/es/instrumentos/capacitaciones/",
+        "last_update": "2024-09-19 00:09:37.713119 -0700 MST m=+44.234677085"
+      },
+      "/es/instrumentos/estudios-de-caso/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/instrumentos/estudios-de-caso.md",
+        "url": "https://coral.org/es/instrumentos/estudios-de-caso/",
+        "last_update": "2024-09-19 00:09:34.703278 -0700 MST m=+41.224875376"
+      },
+      "/es/instrumentos/guides/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/instrumentos/guides.md",
+        "url": "https://coral.org/es/instrumentos/guides/",
+        "last_update": "2024-09-19 00:09:35.811417 -0700 MST m=+42.332999793"
+      },
+      "/es/instrumentos/videos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/instrumentos/videos.md",
+        "url": "https://coral.org/es/instrumentos/videos/",
+        "last_update": "2024-09-19 00:09:37.830631 -0700 MST m=+44.352186960"
+      },
+      "/es/job-opportunities/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/job-opportunities.md",
+        "url": "https://coral.org/es/job-opportunities/",
+        "last_update": "2024-09-19 00:10:35.971381 -0700 MST m=+102.492311793"
+      },
+      "/es/job-opportunities/copy-strategic-director/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/job-opportunities/copy-strategic-director.md",
+        "url": "https://coral.org/es/job-opportunities/copy-strategic-director/",
+        "last_update": "2024-09-19 00:10:37.455835 -0700 MST m=+103.976750126"
+      },
+      "/es/job-opportunities/maui-nui-field-service-technician/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/job-opportunities/maui-nui-field-service-technician.md",
+        "url": "https://coral.org/es/job-opportunities/maui-nui-field-service-technician/",
+        "last_update": "2024-09-19 00:10:43.444904 -0700 MST m=+109.965759210"
+      },
+      "/es/los-arrecifes-de-coral-pueden-adaptarse-al-cambio-climatico/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/los-arrecifes-de-coral-pueden-adaptarse-al-cambio-climatico.md",
+        "url": "https://coral.org/es/los-arrecifes-de-coral-pueden-adaptarse-al-cambio-climatico/",
+        "last_update": "2024-09-19 00:13:38.913652 -0700 MST m=+285.432748251"
+      },
+      "/es/noticias-y-eventos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/noticias-y-eventos.md",
+        "url": "https://coral.org/es/noticias-y-eventos/",
+        "last_update": "2024-09-19 00:10:35.159127 -0700 MST m=+101.680065918"
+      },
+      "/es/noticias-y-eventos/anuncios/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/noticias-y-eventos/anuncios.md",
+        "url": "https://coral.org/es/noticias-y-eventos/anuncios/",
+        "last_update": "2024-09-19 00:09:39.361518 -0700 MST m=+45.883054293"
+      },
+      "/es/noticias-y-eventos/comunicados-de-prensa/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/noticias-y-eventos/comunicados-de-prensa.md",
+        "url": "https://coral.org/es/noticias-y-eventos/comunicados-de-prensa/",
+        "last_update": "2024-09-19 00:09:41.764713 -0700 MST m=+48.286220293"
+      },
+      "/es/noticias-y-eventos/en-las-noticias/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/noticias-y-eventos/en-las-noticias.md",
+        "url": "https://coral.org/es/noticias-y-eventos/en-las-noticias/",
+        "last_update": "2024-09-19 00:09:40.436837 -0700 MST m=+46.958360001"
+      },
+      "/es/politicasdivulgaciones/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/politicasdivulgaciones.md",
+        "url": "https://coral.org/es/politicasdivulgaciones/",
+        "last_update": "2024-09-19 00:10:41.55652 -0700 MST m=+108.077394210"
+      },
+      "/es/programas/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/programas.md",
+        "url": "https://coral.org/es/programas/",
+        "last_update": "2024-09-19 00:09:48.624112 -0700 MST m=+55.145537543"
+      },
+      "/es/que-hacemos/compromiso-local/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/que-hacemos/compromiso-local.md",
+        "url": "https://coral.org/es/que-hacemos/compromiso-local/",
+        "last_update": "2024-09-19 00:09:14.041978 -0700 MST m=+20.563933460"
+      },
+      "/es/que-hacemos/compromiso-local/agua-limpia-para-los-arrecifes/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/que-hacemos/compromiso-local/agua-limpia-para-los-arrecifes.md",
+        "url": "https://coral.org/es/que-hacemos/compromiso-local/agua-limpia-para-los-arrecifes/",
+        "last_update": "2024-09-19 00:09:10.190677 -0700 MST m=+16.712728085"
+      },
+      "/es/que-hacemos/compromiso-local/pesquerias-saludables/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/que-hacemos/compromiso-local/pesquerias-saludables.md",
+        "url": "https://coral.org/es/que-hacemos/compromiso-local/pesquerias-saludables/",
+        "last_update": "2024-09-19 00:09:11.264352 -0700 MST m=+17.786375335"
+      },
+      "/es/que-hacemos/compromiso-local/proteccion-del-habitat/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/que-hacemos/compromiso-local/proteccion-del-habitat.md",
+        "url": "https://coral.org/es/que-hacemos/compromiso-local/proteccion-del-habitat/",
+        "last_update": "2024-09-19 00:09:11.940116 -0700 MST m=+18.462121501"
+      },
+      "/es/que-hacemos/global-conservation/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/que-hacemos/global-conservation.md",
+        "url": "https://coral.org/es/que-hacemos/global-conservation/",
+        "last_update": "2024-09-19 00:09:16.520145 -0700 MST m=+23.042044960"
+      },
+      "/es/que-hacemos/global-conservation/coral-bleaching/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/que-hacemos/global-conservation/coral-bleaching.md",
+        "url": "https://coral.org/es/que-hacemos/global-conservation/coral-bleaching/",
+        "last_update": "2024-09-19 00:13:45.439736 -0700 MST m=+291.958766001"
+      },
+      "/es/que-hacemos/regional-coordination/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/que-hacemos/regional-coordination.md",
+        "url": "https://coral.org/es/que-hacemos/regional-coordination/",
+        "last_update": "2024-09-19 00:09:15.134742 -0700 MST m=+21.656672460"
+      },
+      "/es/resource/assessing-the-potential-for-demographic-restoration-and-assisted-evolution-to-build-climate-resilience-in-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/resource/assessing-the-potential-for-demographic-restoration-and-assisted-evolution-to-build-climate-resilience-in-coral-reefs.md",
+        "url": "https://coral.org/es/resource/assessing-the-potential-for-demographic-restoration-and-assisted-evolution-to-build-climate-resilience-in-coral-reefs/",
+        "last_update": "2024-09-19 00:13:41.376344 -0700 MST m=+287.895415001"
+      },
+      "/es/resource/can-the-allen-coral-atlas-indicate-adaptive-capacity-of-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/resource/can-the-allen-coral-atlas-indicate-adaptive-capacity-of-coral-reefs.md",
+        "url": "https://coral.org/es/resource/can-the-allen-coral-atlas-indicate-adaptive-capacity-of-coral-reefs/",
+        "last_update": "2024-09-19 00:13:49.41634 -0700 MST m=+295.935330793"
+      },
+      "/es/resource/ciclos-estacionales-de-la-biomasa-del-fitoplancton-y-de-la-produccion-primaria-en-una-laguna-estuarina-tropical-temporalmente-abierta-cerrada-el-efecto-de-un-evento-climatico-extremo/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/resource/ciclos-estacionales-de-la-biomasa-del-fitoplancton-y-de-la-produccion-primaria-en-una-laguna-estuarina-tropical-temporalmente-abierta-cerrada-el-efecto-de-un-evento-climatico-extremo.md",
+        "url": "https://coral.org/es/resource/ciclos-estacionales-de-la-biomasa-del-fitoplancton-y-de-la-produccion-primaria-en-una-laguna-estuarina-tropical-temporalmente-abierta-cerrada-el-efecto-de-un-evento-climatico-extremo/",
+        "last_update": "2024-09-19 00:11:54.668324 -0700 MST m=+181.188464751"
+      },
+      "/es/resource/coral-conservation-in-a-warming-world-must-harness-evolutionary-adaptation/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/resource/coral-conservation-in-a-warming-world-must-harness-evolutionary-adaptation.md",
+        "url": "https://coral.org/es/resource/coral-conservation-in-a-warming-world-must-harness-evolutionary-adaptation/",
+        "last_update": "2024-09-19 00:13:39.739224 -0700 MST m=+286.258311293"
+      },
+      "/es/resource/participation-and-patrols-promote-sustainable-fisheries-in-the-mesoamerican-reef-region/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/resource/participation-and-patrols-promote-sustainable-fisheries-in-the-mesoamerican-reef-region.md",
+        "url": "https://coral.org/es/resource/participation-and-patrols-promote-sustainable-fisheries-in-the-mesoamerican-reef-region/",
+        "last_update": "2024-09-19 00:13:47.417856 -0700 MST m=+293.936866418"
+      },
+      "/es/resource/trainthetrainers/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/resource/trainthetrainers.md",
+        "url": "https://coral.org/es/resource/trainthetrainers/",
+        "last_update": "2024-09-19 00:13:31.395042 -0700 MST m=+277.914213668"
+      },
+      "/es/resource/whitepaper-forecasting-climate-sanctuaries-for-securing-the-future-of-coral-reefs/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/resource/whitepaper-forecasting-climate-sanctuaries-for-securing-the-future-of-coral-reefs.md",
+        "url": "https://coral.org/es/resource/whitepaper-forecasting-climate-sanctuaries-for-securing-the-future-of-coral-reefs/",
+        "last_update": "2024-09-19 00:13:43.732014 -0700 MST m=+290.251061668"
+      },
+      "/es/resources/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/resources.md",
+        "url": "https://coral.org/es/resources/",
+        "last_update": "2024-09-19 00:09:30.265015 -0700 MST m=+36.786674293"
+      },
+      "/es/science-of-adaptation/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/science-of-adaptation.md",
+        "url": "https://coral.org/es/science-of-adaptation/",
+        "last_update": "2024-09-19 00:10:44.438291 -0700 MST m=+110.959135960"
+      },
+      "/es/socios-corporativos/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/socios-corporativos.md",
+        "url": "https://coral.org/es/socios-corporativos/",
+        "last_update": "2024-09-19 00:09:45.237133 -0700 MST m=+51.758598043"
+      },
+      "/es/team/allison-coleman/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/allison-coleman.md",
+        "url": "https://coral.org/es/team/allison-coleman/",
+        "last_update": "2024-09-19 00:13:01.41717 -0700 MST m=+247.936641293"
+      },
+      "/es/team/ana-bessy-valdes-martinez/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/ana-bessy-valdes-martinez.md",
+        "url": "https://coral.org/es/team/ana-bessy-valdes-martinez/",
+        "last_update": "2024-09-19 00:12:46.49412 -0700 MST m=+233.013741001"
+      },
+      "/es/team/andrea-rivera-sosa/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/andrea-rivera-sosa.md",
+        "url": "https://coral.org/es/team/andrea-rivera-sosa/",
+        "last_update": "2024-09-19 00:12:55.811783 -0700 MST m=+242.331311001"
+      },
+      "/es/team/ben-charo/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/ben-charo.md",
+        "url": "https://coral.org/es/team/ben-charo/",
+        "last_update": "2024-09-19 00:12:54.57399 -0700 MST m=+241.093530626"
+      },
+      "/es/team/brian-kastl/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/brian-kastl.md",
+        "url": "https://coral.org/es/team/brian-kastl/",
+        "last_update": "2024-09-19 00:12:53.644084 -0700 MST m=+240.163633168"
+      },
+      "/es/team/dr-antonella-rivera/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/dr-antonella-rivera.md",
+        "url": "https://coral.org/es/team/dr-antonella-rivera/",
+        "last_update": "2024-09-19 00:12:39.322717 -0700 MST m=+225.842410418"
+      },
+      "/es/team/dr-helen-fox/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/dr-helen-fox.md",
+        "url": "https://coral.org/es/team/dr-helen-fox/",
+        "last_update": "2024-09-19 00:12:21.074634 -0700 MST m=+207.594509460"
+      },
+      "/es/team/emilio-pacheco/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/emilio-pacheco.md",
+        "url": "https://coral.org/es/team/emilio-pacheco/",
+        "last_update": "2024-09-19 00:12:36.454649 -0700 MST m=+222.974370918"
+      },
+      "/es/team/erica-perez/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/erica-perez.md",
+        "url": "https://coral.org/es/team/erica-perez/",
+        "last_update": "2024-09-19 00:12:48.438664 -0700 MST m=+234.958265668"
+      },
+      "/es/team/greissi-villatoro/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/greissi-villatoro.md",
+        "url": "https://coral.org/es/team/greissi-villatoro/",
+        "last_update": "2024-09-19 00:12:44.548705 -0700 MST m=+231.068345460"
+      },
+      "/es/team/heather-rowan/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/heather-rowan.md",
+        "url": "https://coral.org/es/team/heather-rowan/",
+        "last_update": "2024-09-19 00:13:04.719102 -0700 MST m=+251.238540335"
+      },
+      "/es/team/heather-starck/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/heather-starck.md",
+        "url": "https://coral.org/es/team/heather-starck/",
+        "last_update": "2024-09-19 00:12:20.042582 -0700 MST m=+206.562468793"
+      },
+      "/es/team/javier-pizana-alonso/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/javier-pizana-alonso.md",
+        "url": "https://coral.org/es/team/javier-pizana-alonso/",
+        "last_update": "2024-09-19 00:12:37.684486 -0700 MST m=+224.204195126"
+      },
+      "/es/team/jenny-myton/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/jenny-myton.md",
+        "url": "https://coral.org/es/team/jenny-myton/",
+        "last_update": "2024-09-19 00:12:22.803666 -0700 MST m=+209.323524335"
+      },
+      "/es/team/julio-san-martin-chicas/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/julio-san-martin-chicas.md",
+        "url": "https://coral.org/es/team/julio-san-martin-chicas/",
+        "last_update": "2024-09-19 00:12:41.000128 -0700 MST m=+227.519804418"
+      },
+      "/es/team/kate-beebe/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/kate-beebe.md",
+        "url": "https://coral.org/es/team/kate-beebe/",
+        "last_update": "2024-09-19 00:12:57.388178 -0700 MST m=+243.907690210"
+      },
+      "/es/team/kathryn-kelly/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/kathryn-kelly.md",
+        "url": "https://coral.org/es/team/kathryn-kelly/",
+        "last_update": "2024-09-19 00:13:03.426798 -0700 MST m=+249.946249418"
+      },
+      "/es/team/kristi-jones/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/kristi-jones.md",
+        "url": "https://coral.org/es/team/kristi-jones/",
+        "last_update": "2024-09-19 00:13:05.779784 -0700 MST m=+252.299211793"
+      },
+      "/es/team/kristy-ives/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/kristy-ives.md",
+        "url": "https://coral.org/es/team/kristy-ives/",
+        "last_update": "2024-09-19 00:12:25.487318 -0700 MST m=+212.007149543"
+      },
+      "/es/team/makayla-richmond/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/makayla-richmond.md",
+        "url": "https://coral.org/es/team/makayla-richmond/",
+        "last_update": "2024-09-19 00:12:50.050443 -0700 MST m=+236.570028126"
+      },
+      "/es/team/mandy-norman/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/mandy-norman.md",
+        "url": "https://coral.org/es/team/mandy-norman/",
+        "last_update": "2024-09-19 00:12:24.543416 -0700 MST m=+211.063257043"
+      },
+      "/es/team/manuel-mejia/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/manuel-mejia.md",
+        "url": "https://coral.org/es/team/manuel-mejia/",
+        "last_update": "2024-09-19 00:12:58.518362 -0700 MST m=+245.037862876"
+      },
+      "/es/team/maria-mcdonough/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/maria-mcdonough.md",
+        "url": "https://coral.org/es/team/maria-mcdonough/",
+        "last_update": "2024-09-19 00:12:59.596489 -0700 MST m=+246.115979168"
+      },
+      "/es/team/mayra-johnson/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/mayra-johnson.md",
+        "url": "https://coral.org/es/team/mayra-johnson/",
+        "last_update": "2024-09-19 00:12:28.278311 -0700 MST m=+214.798114793"
+      },
+      "/es/team/mayra-nunez/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/mayra-nunez.md",
+        "url": "https://coral.org/es/team/mayra-nunez/",
+        "last_update": "2024-09-19 00:12:33.948954 -0700 MST m=+220.468701251"
+      },
+      "/es/team/monica-urrutia/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/monica-urrutia.md",
+        "url": "https://coral.org/es/team/monica-urrutia/",
+        "last_update": "2024-09-19 00:12:42.6995 -0700 MST m=+229.219159335"
+      },
+      "/es/team/pamela-ortega/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/pamela-ortega.md",
+        "url": "https://coral.org/es/team/pamela-ortega/",
+        "last_update": "2024-09-19 00:12:35.257919 -0700 MST m=+221.777653043"
+      },
+      "/es/team/paolo-guardiola/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/paolo-guardiola.md",
+        "url": "https://coral.org/es/team/paolo-guardiola/",
+        "last_update": "2024-09-19 00:12:30.109233 -0700 MST m=+216.629018960"
+      },
+      "/es/team/sarah-severino/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/sarah-severino.md",
+        "url": "https://coral.org/es/team/sarah-severino/",
+        "last_update": "2024-09-19 00:12:51.920461 -0700 MST m=+238.440027460"
+      },
+      "/es/team/sheyla-maldonado/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/sheyla-maldonado.md",
+        "url": "https://coral.org/es/team/sheyla-maldonado/",
+        "last_update": "2024-09-19 00:12:31.975899 -0700 MST m=+218.495665251"
+      },
+      "/es/team/tanya-amaya/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/team/tanya-amaya.md",
+        "url": "https://coral.org/es/team/tanya-amaya/",
+        "last_update": "2024-09-19 00:12:27.210579 -0700 MST m=+213.730393335"
+      },
+      "/es/terminos-condiciones/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/terminos-condiciones.md",
+        "url": "https://coral.org/es/terminos-condiciones/",
+        "last_update": "2024-09-19 00:10:42.443386 -0700 MST m=+108.964250751"
+      },
+      "/es/ubicaciones/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/ubicaciones.md",
+        "url": "https://coral.org/es/ubicaciones/",
+        "last_update": "2024-09-19 00:09:50.695713 -0700 MST m=+57.217115001"
+      },
+      "/es/what-we-do/global-conservation/coral-bleaching/": {
+        "path": "/Users/daishan/work/knowledge-website-integration/coral.org/es/what-we-do/global-conservation/coral-bleaching.md",
+        "url": "https://coral.org/es/what-we-do/global-conservation/coral-bleaching/",
+        "last_update": "2024-09-19 00:13:45.372892 -0700 MST m=+291.891922835"
+      },
+      "/events": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/events.md",
+        "url": "https://www.acorn.io/events",
+        "last_update": "2024-09-19 00:06:52.419525 -0700 MST m=+4.331143126"
+      },
+      "/events/kubecon-north-america-2024": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/events/kubecon-north-america-2024.md",
+        "url": "https://www.acorn.io/events/kubecon-north-america-2024?fromOther=true",
+        "last_update": "2024-09-19 00:07:31.561268 -0700 MST m=+43.472966126"
+      },
+      "/events/meetup-mlops-community-2024-09-12": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/events/meetup-mlops-community-2024-09-12.md",
+        "url": "https://www.acorn.io/events/meetup-mlops-community-2024-09-12",
+        "last_update": "2024-09-19 00:07:22.965009 -0700 MST m=+34.876689626"
+      },
+      "/events/microsoft-ignite-2024": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/events/microsoft-ignite-2024.md",
+        "url": "https://www.acorn.io/events/microsoft-ignite-2024",
+        "last_update": "2024-09-19 00:07:23.368626 -0700 MST m=+35.280308126"
+      },
+      "/privacy-policy": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/privacy-policy.md",
+        "url": "https://www.acorn.io/privacy-policy",
+        "last_update": "2024-09-19 00:07:12.641068 -0700 MST m=+24.552727376"
+      },
+      "/resources": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources.md",
+        "url": "https://www.acorn.io/resources",
+        "last_update": "2024-09-19 00:06:51.633559 -0700 MST m=+3.545176251"
+      },
+      "/resources/blog": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog.md",
+        "url": "https://www.acorn.io/resources/blog",
+        "last_update": "2024-09-19 00:07:32.074069 -0700 MST m=+43.985768626"
+      },
+      "/resources/blog/enabling-faster-dev-flows-with-clio": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/enabling-faster-dev-flows-with-clio.md",
+        "url": "https://www.acorn.io/resources/blog/enabling-faster-dev-flows-with-clio?fromOther=true",
+        "last_update": "2024-09-19 00:07:11.08463 -0700 MST m=+22.996286626"
+      },
+      "/resources/blog/function-calling-test-suite-for-fun-and-profit": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/function-calling-test-suite-for-fun-and-profit.md",
+        "url": "https://www.acorn.io/resources/blog/function-calling-test-suite-for-fun-and-profit?fromOther=true",
+        "last_update": "2024-09-19 00:07:11.999456 -0700 MST m=+23.911114918"
+      },
+      "/resources/blog/gptscript-knowledge-tool-v0-3-introduces-one-time-configuration-for-embedding-model-providers": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/gptscript-knowledge-tool-v0-3-introduces-one-time-configuration-for-embedding-model-providers.md",
+        "url": "https://www.acorn.io/resources/blog/gptscript-knowledge-tool-v0-3-introduces-one-time-configuration-for-embedding-model-providers?fromOther=true",
+        "last_update": "2024-09-19 00:07:14.058289 -0700 MST m=+25.969951960"
+      },
+      "/resources/blog/introducing-clio-your-dev-ops-assistant": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/introducing-clio-your-dev-ops-assistant.md",
+        "url": "https://www.acorn.io/resources/blog/introducing-clio-your-dev-ops-assistant?fromOther=true",
+        "last_update": "2024-09-19 00:07:14.561092 -0700 MST m=+26.472756001"
+      },
+      "/resources/blog/managing-aws-costs-with-your-grumpy-but-friendly-assistant-clio": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/managing-aws-costs-with-your-grumpy-but-friendly-assistant-clio.md",
+        "url": "https://www.acorn.io/resources/blog/managing-aws-costs-with-your-grumpy-but-friendly-assistant-clio?fromOther=true",
+        "last_update": "2024-09-19 00:07:09.863747 -0700 MST m=+21.775400710"
+      },
+      "/resources/blog/my-clio-review-a-week-with-the-ai-devops-copilot": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/my-clio-review-a-week-with-the-ai-devops-copilot.md",
+        "url": "https://www.acorn.io/resources/blog/my-clio-review-a-week-with-the-ai-devops-copilot?fromOther=true",
+        "last_update": "2024-09-19 00:07:08.898641 -0700 MST m=+20.810292835"
+      },
+      "/resources/blog/open-source": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/open-source.md",
+        "url": "https://www.acorn.io/resources/blog/open-source",
+        "last_update": "2024-09-19 00:07:07.702417 -0700 MST m=+19.614066460"
+      },
+      "/resources/blog/rubra-v0-1-introducing-tool-calling-to-top-open-weight-llms": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/rubra-v0-1-introducing-tool-calling-to-top-open-weight-llms.md",
+        "url": "https://www.acorn.io/resources/blog/rubra-v0-1-introducing-tool-calling-to-top-open-weight-llms?fromOther=true",
+        "last_update": "2024-09-19 00:07:15.799402 -0700 MST m=+27.711067835"
+      },
+      "/resources/blog/the-anatomy-of-a-gptscript-chatbot-assistant": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/the-anatomy-of-a-gptscript-chatbot-assistant.md",
+        "url": "https://www.acorn.io/resources/blog/the-anatomy-of-a-gptscript-chatbot-assistant?fromOther=true",
+        "last_update": "2024-09-19 00:07:15.202025 -0700 MST m=+27.113690085"
+      },
+      "/resources/learning-center": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center.md",
+        "url": "https://www.acorn.io/resources/learning-center?category=25",
+        "last_update": "2024-09-19 00:07:04.195894 -0700 MST m=+16.107536793"
+      },
+      "/resources/learning-center/ai-for-summarizing-articles": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/ai-for-summarizing-articles.md",
+        "url": "https://www.acorn.io/resources/learning-center/ai-for-summarizing-articles",
+        "last_update": "2024-09-19 00:07:16.659107 -0700 MST m=+28.570775043"
+      },
+      "/resources/learning-center/ai-image-generation": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/ai-image-generation.md",
+        "url": "https://www.acorn.io/resources/learning-center/ai-image-generation",
+        "last_update": "2024-09-19 00:07:05.653664 -0700 MST m=+17.565309293"
+      },
+      "/resources/learning-center/ai-summarization": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/ai-summarization.md",
+        "url": "https://www.acorn.io/resources/learning-center/ai-summarization",
+        "last_update": "2024-09-19 00:07:05.151724 -0700 MST m=+17.063368793"
+      },
+      "/resources/learning-center/anthropic-claude": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/anthropic-claude.md",
+        "url": "https://www.acorn.io/resources/learning-center/anthropic-claude",
+        "last_update": "2024-09-19 00:06:56.147953 -0700 MST m=+8.059579668"
+      },
+      "/resources/learning-center/anthropic-claude-3": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/anthropic-claude-3.md",
+        "url": "https://www.acorn.io/resources/learning-center/anthropic-claude-3",
+        "last_update": "2024-09-19 00:07:21.029019 -0700 MST m=+32.940696085"
+      },
+      "/resources/learning-center/best-llm": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/best-llm.md",
+        "url": "https://www.acorn.io/resources/learning-center/best-llm",
+        "last_update": "2024-09-19 00:07:20.567268 -0700 MST m=+32.478944293"
+      },
+      "/resources/learning-center/cohere-ai": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/cohere-ai.md",
+        "url": "https://www.acorn.io/resources/learning-center/cohere-ai",
+        "last_update": "2024-09-19 00:07:00.025046 -0700 MST m=+11.936680460"
+      },
+      "/resources/learning-center/fine-tuning-llm": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/fine-tuning-llm.md",
+        "url": "https://www.acorn.io/resources/learning-center/fine-tuning-llm",
+        "last_update": "2024-09-19 00:07:02.34544 -0700 MST m=+14.257078543"
+      },
+      "/resources/learning-center/generative-ai-applications": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/generative-ai-applications.md",
+        "url": "https://www.acorn.io/resources/learning-center/generative-ai-applications",
+        "last_update": "2024-09-19 00:07:01.743678 -0700 MST m=+13.655315626"
+      },
+      "/resources/learning-center/google-gemini": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/google-gemini.md",
+        "url": "https://www.acorn.io/resources/learning-center/google-gemini",
+        "last_update": "2024-09-19 00:06:56.961101 -0700 MST m=+8.872729376"
+      },
+      "/resources/learning-center/google-gemini-pro": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/google-gemini-pro.md",
+        "url": "https://www.acorn.io/resources/learning-center/google-gemini-pro",
+        "last_update": "2024-09-19 00:07:18.402633 -0700 MST m=+30.314304460"
+      },
+      "/resources/learning-center/llm-application-development": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/llm-application-development.md",
+        "url": "https://www.acorn.io/resources/learning-center/llm-application-development",
+        "last_update": "2024-09-19 00:07:03.132581 -0700 MST m=+15.044221626"
+      },
+      "/resources/learning-center/llm-security": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/llm-security.md",
+        "url": "https://www.acorn.io/resources/learning-center/llm-security",
+        "last_update": "2024-09-19 00:07:03.667836 -0700 MST m=+15.579477668"
+      },
+      "/resources/learning-center/meta-llama": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/meta-llama.md",
+        "url": "https://www.acorn.io/resources/learning-center/meta-llama",
+        "last_update": "2024-09-19 00:06:59.190628 -0700 MST m=+11.102260293"
+      },
+      "/resources/learning-center/meta-llama-3": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/meta-llama-3.md",
+        "url": "https://www.acorn.io/resources/learning-center/meta-llama-3",
+        "last_update": "2024-09-19 00:07:19.280642 -0700 MST m=+31.192315710"
+      },
+      "/resources/learning-center/mistral-7b": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/mistral-7b.md",
+        "url": "https://www.acorn.io/resources/learning-center/mistral-7b",
+        "last_update": "2024-09-19 00:06:58.686536 -0700 MST m=+10.598167543"
+      },
+      "/resources/learning-center/mistral-7b-instruct": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/mistral-7b-instruct.md",
+        "url": "https://www.acorn.io/resources/learning-center/mistral-7b-instruct",
+        "last_update": "2024-09-19 00:07:22.151987 -0700 MST m=+34.063666626"
+      },
+      "/resources/learning-center/mistral-ai": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/mistral-ai.md",
+        "url": "https://www.acorn.io/resources/learning-center/mistral-ai",
+        "last_update": "2024-09-19 00:06:57.79243 -0700 MST m=+9.704059126"
+      },
+      "/resources/learning-center/open-llm-leaderboard": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/open-llm-leaderboard.md",
+        "url": "https://www.acorn.io/resources/learning-center/open-llm-leaderboard",
+        "last_update": "2024-09-19 00:07:19.701514 -0700 MST m=+31.613187835"
+      },
+      "/resources/learning-center/openai": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/openai.md",
+        "url": "https://www.acorn.io/resources/learning-center/openai",
+        "last_update": "2024-09-19 00:06:54.443002 -0700 MST m=+6.354625001"
+      },
+      "/resources/learning-center/prompt-engineering": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/prompt-engineering.md",
+        "url": "https://www.acorn.io/resources/learning-center/prompt-engineering",
+        "last_update": "2024-09-19 00:07:01.251913 -0700 MST m=+13.163550168"
+      },
+      "/resources/learning-center/prompt-engineering-in-chatgpt": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/prompt-engineering-in-chatgpt.md",
+        "url": "https://www.acorn.io/resources/learning-center/prompt-engineering-in-chatgpt",
+        "last_update": "2024-09-19 00:07:17.762437 -0700 MST m=+29.674106918"
+      },
+      "/resources/learning-center/rag-vs-fine-tuning": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/rag-vs-fine-tuning.md",
+        "url": "https://www.acorn.io/resources/learning-center/rag-vs-fine-tuning",
+        "last_update": "2024-09-19 00:07:17.226334 -0700 MST m=+29.138003085"
+      },
+      "/resources/learning-center/retrieval-augmented-generation": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/retrieval-augmented-generation.md",
+        "url": "https://www.acorn.io/resources/learning-center/retrieval-augmented-generation",
+        "last_update": "2024-09-19 00:07:04.648917 -0700 MST m=+16.560561043"
+      },
+      "/resources/tutorials": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials.md",
+        "url": "https://www.acorn.io/resources/tutorials",
+        "last_update": "2024-09-19 00:07:32.483891 -0700 MST m=+44.395591501"
+      },
+      "/resources/tutorials/ai-powered-devops-building-a-gcp-assistant": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/ai-powered-devops-building-a-gcp-assistant.md",
+        "url": "https://www.acorn.io/resources/tutorials/ai-powered-devops-building-a-gcp-assistant?fromOther=true",
+        "last_update": "2024-09-19 00:07:30.474675 -0700 MST m=+42.386370751"
+      },
+      "/resources/tutorials/deploying-a-static-site-to-aws-how-clio-helps-me-as-a-developer-part-2": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/deploying-a-static-site-to-aws-how-clio-helps-me-as-a-developer-part-2.md",
+        "url": "https://www.acorn.io/resources/tutorials/deploying-a-static-site-to-aws-how-clio-helps-me-as-a-developer-part-2?fromOther=true",
+        "last_update": "2024-09-19 00:07:29.926144 -0700 MST m=+41.837839293"
+      },
+      "/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-1": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-1.md",
+        "url": "https://www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-1",
+        "last_update": "2024-09-19 00:07:29.518772 -0700 MST m=+41.430466626"
+      },
+      "/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-2": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-2.md",
+        "url": "https://www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-2",
+        "last_update": "2024-09-19 00:07:28.849146 -0700 MST m=+40.760839001"
+      },
+      "/resources/tutorials/gptreview-integrate-your-own-ai-based-code-reviewer-with-jenkins-part-3": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/gptreview-integrate-your-own-ai-based-code-reviewer-with-jenkins-part-3.md",
+        "url": "https://www.acorn.io/resources/tutorials/gptreview-integrate-your-own-ai-based-code-reviewer-with-jenkins-part-3",
+        "last_update": "2024-09-19 00:07:26.464579 -0700 MST m=+38.376267293"
+      },
+      "/resources/tutorials/how-can-clio-help-me-as-a-developer": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/how-can-clio-help-me-as-a-developer.md",
+        "url": "https://www.acorn.io/resources/tutorials/how-can-clio-help-me-as-a-developer?fromOther=true",
+        "last_update": "2024-09-19 00:07:31.059171 -0700 MST m=+42.970868335"
+      },
+      "/resources/tutorials/use-gpt-4-to-build-your-own-habit-tracker": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/use-gpt-4-to-build-your-own-habit-tracker.md",
+        "url": "https://www.acorn.io/resources/tutorials/use-gpt-4-to-build-your-own-habit-tracker",
+        "last_update": "2024-09-19 00:07:27.126618 -0700 MST m=+39.038306918"
+      },
+      "/resources/tutorials/using-openai-api-to-track-calories-and-build-a-health-coach": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/using-openai-api-to-track-calories-and-build-a-health-coach.md",
+        "url": "https://www.acorn.io/resources/tutorials/using-openai-api-to-track-calories-and-build-a-health-coach",
+        "last_update": "2024-09-19 00:07:27.933583 -0700 MST m=+39.845274293"
+      },
+      "/terms-of-use": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/terms-of-use.md",
+        "url": "https://www.acorn.io/terms-of-use",
+        "last_update": "2024-09-19 00:07:13.342927 -0700 MST m=+25.254588210"
+      }
+    }
+  }
+}
