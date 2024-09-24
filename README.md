@@ -17,7 +17,21 @@ provide a .metadata.json file to specify the website to be scraped and the local
 ```json
 {
   "input": {
-    "urls": ["https://coral.org"]
+    "urls": ["https://www.acorn.io"]
   }
 }
 ```
+
+### Mode
+
+There are two modes to run the tool, `colly` and `firecrawl`.
+
+```bash
+MODE=colly go run main.go
+```
+
+```bash
+MODE=firecrawl go run main.go
+```
+
+By default, the mode is `colly`.
