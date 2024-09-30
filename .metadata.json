@@ -5,376 +5,414 @@
     ]
   },
   "output": {
-    "status": "done",
+    "status": "",
     "error": "",
-    "scrape_job_ids": {
-      "https://www.acorn.io": "7cbbaede-c22c-443f-ad51-3359757adfd1"
-    },
+    "scrape_job_ids": null,
     "pages": {
       "https://www.acorn.io/": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/index.md",
         "url": "https://www.acorn.io/",
-        "last_update": "2024-09-24 11:29:35.754468 -0700 MST m=+23.227995376"
+        "last_update": "2024-09-30 15:32:13.881772 -0700 MST m=+2.880738084"
       },
       "https://www.acorn.io/about-us": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/about-us.md",
         "url": "https://www.acorn.io/about-us",
-        "last_update": "2024-09-24 11:29:35.763037 -0700 MST m=+23.236563584"
+        "last_update": "2024-09-30 15:32:31.385011 -0700 MST m=+20.384158376"
+      },
+      "https://www.acorn.io/cdn-cgi/l/email-protection": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/cdn-cgi/l/email-protection.md",
+        "url": "https://www.acorn.io/cdn-cgi/l/email-protection",
+        "last_update": "2024-09-30 15:32:31.715331 -0700 MST m=+20.714482459"
       },
       "https://www.acorn.io/contact": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/contact.md",
         "url": "https://www.acorn.io/contact",
-        "last_update": "2024-09-24 11:29:35.779074 -0700 MST m=+23.252601709"
+        "last_update": "2024-09-30 15:32:31.686475 -0700 MST m=+20.685625709"
       },
       "https://www.acorn.io/events": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/events.md",
         "url": "https://www.acorn.io/events",
-        "last_update": "2024-09-24 11:29:35.775257 -0700 MST m=+23.248784084"
+        "last_update": "2024-09-30 15:32:15.683063 -0700 MST m=+4.682048042"
       },
       "https://www.acorn.io/events/kubecon-north-america-2024": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/events/kubecon-north-america-2024.md",
         "url": "https://www.acorn.io/events/kubecon-north-america-2024",
-        "last_update": "2024-09-24 11:29:35.774018 -0700 MST m=+23.247545543"
+        "last_update": "2024-09-30 15:33:07.657627 -0700 MST m=+56.657151417"
+      },
+      "https://www.acorn.io/events/kubecon-north-america-2024?fromOther=true": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/events/kubecon-north-america-2024.md",
+        "url": "https://www.acorn.io/events/kubecon-north-america-2024?fromOther=true",
+        "last_update": "2024-09-30 15:33:16.162533 -0700 MST m=+65.162144959"
       },
       "https://www.acorn.io/events/meetup-mlops-community-2024-09-12": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/events/meetup-mlops-community-2024-09-12.md",
         "url": "https://www.acorn.io/events/meetup-mlops-community-2024-09-12",
-        "last_update": "2024-09-24 11:29:35.783571 -0700 MST m=+23.257098751"
+        "last_update": "2024-09-30 15:33:07.907874 -0700 MST m=+56.907400792"
       },
       "https://www.acorn.io/events/microsoft-ignite-2024": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/events/microsoft-ignite-2024.md",
         "url": "https://www.acorn.io/events/microsoft-ignite-2024",
-        "last_update": "2024-09-24 11:29:35.774481 -0700 MST m=+23.248007834"
-      },
-      "https://www.acorn.io/opensource": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/opensource.md",
-        "url": "https://www.acorn.io/opensource",
-        "last_update": "2024-09-24 11:29:35.781029 -0700 MST m=+23.254556209"
-      },
-      "https://www.acorn.io/pricing": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/pricing.md",
-        "url": "https://www.acorn.io/pricing",g
-        "last_update": "2024-09-24 11:29:35.777593 -0700 MST m=+23.251120251"
+        "last_update": "2024-09-30 15:33:08.178099 -0700 MST m=+57.177628667"
       },
       "https://www.acorn.io/privacy-policy": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/privacy-policy.md",
         "url": "https://www.acorn.io/privacy-policy",
-        "last_update": "2024-09-24 11:29:35.780686 -0700 MST m=+23.254212751"
-      },
-      "https://www.acorn.io/product": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/product.md",
-        "url": "https://www.acorn.io/product",
-        "last_update": "2024-09-24 11:29:35.784339 -0700 MST m=+23.257866793"
+        "last_update": "2024-09-30 15:32:39.678012 -0700 MST m=+28.677245501"
       },
       "https://www.acorn.io/resources": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources.md",
         "url": "https://www.acorn.io/resources",
-        "last_update": "2024-09-24 11:29:35.774845 -0700 MST m=+23.248371709"
+        "last_update": "2024-09-30 15:32:14.769337 -0700 MST m=+3.768312501"
       },
       "https://www.acorn.io/resources/blog": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog.md",
         "url": "https://www.acorn.io/resources/blog",
-        "last_update": "2024-09-24 11:29:35.778718 -0700 MST m=+23.252245584"
+        "last_update": "2024-09-30 15:32:16.097434 -0700 MST m=+5.096422959"
       },
-      "https://www.acorn.io/resources/blog/building-a-kubernetes-home-lab-from-the-ground-up": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/building-a-kubernetes-home-lab-from-the-ground-up.md",
-        "url": "https://www.acorn.io/resources/blog/building-a-kubernetes-home-lab-from-the-ground-up",
-        "last_update": "2024-09-24 11:29:35.754853 -0700 MST m=+23.228379584"
-      },
-      "https://www.acorn.io/resources/blog/chat-with-your-scripts-in-gpt-script-v0-6": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/chat-with-your-scripts-in-gpt-script-v0-6.md",
-        "url": "https://www.acorn.io/resources/blog/chat-with-your-scripts-in-gpt-script-v0-6",
-        "last_update": "2024-09-24 11:29:35.77105 -0700 MST m=+23.244577459"
-      },
-      "https://www.acorn.io/resources/blog/comparing-nextcloud-and-own-cloud-for-self-hosted-cloud-storage": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/comparing-nextcloud-and-own-cloud-for-self-hosted-cloud-storage.md",
-        "url": "https://www.acorn.io/resources/blog/comparing-nextcloud-and-own-cloud-for-self-hosted-cloud-storage",
-        "last_update": "2024-09-24 11:29:35.772065 -0700 MST m=+23.245591793"
-      },
-      "https://www.acorn.io/resources/blog/embrace-your-developer-superpower-instead-of-chasing-the-10x-engineer-dream-1": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/embrace-your-developer-superpower-instead-of-chasing-the-10x-engineer-dream-1.md",
-        "url": "https://www.acorn.io/resources/blog/embrace-your-developer-superpower-instead-of-chasing-the-10x-engineer-dream-1",
-        "last_update": "2024-09-24 11:29:35.768903 -0700 MST m=+23.242429668"
-      },
-      "https://www.acorn.io/resources/blog/enabling-faster-dev-flows-with-clio": {
+      "https://www.acorn.io/resources/blog/enabling-faster-dev-flows-with-clio?fromOther=true": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/enabling-faster-dev-flows-with-clio.md",
-        "url": "https://www.acorn.io/resources/blog/enabling-faster-dev-flows-with-clio",
-        "last_update": "2024-09-24 11:29:35.769677 -0700 MST m=+23.243204251"
+        "url": "https://www.acorn.io/resources/blog/enabling-faster-dev-flows-with-clio?fromOther=true",
+        "last_update": "2024-09-30 15:32:54.317108 -0700 MST m=+43.316493751"
       },
-      "https://www.acorn.io/resources/blog/five-tips-for-engineers-on-conference-booth-duty": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/five-tips-for-engineers-on-conference-booth-duty.md",
-        "url": "https://www.acorn.io/resources/blog/five-tips-for-engineers-on-conference-booth-duty",
-        "last_update": "2024-09-24 11:29:35.776328 -0700 MST m=+23.249855126"
-      },
-      "https://www.acorn.io/resources/blog/function-calling-test-suite-for-fun-and-profit": {
+      "https://www.acorn.io/resources/blog/function-calling-test-suite-for-fun-and-profit?fromOther=true": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/function-calling-test-suite-for-fun-and-profit.md",
-        "url": "https://www.acorn.io/resources/blog/function-calling-test-suite-for-fun-and-profit",
-        "last_update": "2024-09-24 11:29:35.773091 -0700 MST m=+23.246618251"
-      },
-      "https://www.acorn.io/resources/blog/gpt-script-v0-8-introduces-new-ui-and-features-for-building-ai-assistants": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/gpt-script-v0-8-introduces-new-ui-and-features-for-building-ai-assistants.md",
-        "url": "https://www.acorn.io/resources/blog/gpt-script-v0-8-introduces-new-ui-and-features-for-building-ai-assistants",
-        "last_update": "2024-09-24 11:29:35.757852 -0700 MST m=+23.231379209"
-      },
-      "https://www.acorn.io/resources/blog/gpt-script-v0-9-brings-a-simplified-ai-assistant-builder-experience": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/gpt-script-v0-9-brings-a-simplified-ai-assistant-builder-experience.md",
-        "url": "https://www.acorn.io/resources/blog/gpt-script-v0-9-brings-a-simplified-ai-assistant-builder-experience",
-        "last_update": "2024-09-24 11:29:35.760424 -0700 MST m=+23.233950876"
+        "url": "https://www.acorn.io/resources/blog/function-calling-test-suite-for-fun-and-profit?fromOther=true",
+        "last_update": "2024-09-30 15:32:55.020622 -0700 MST m=+44.020014667"
       },
       "https://www.acorn.io/resources/blog/gptscript-knowledge-tool-v0-3-introduces-one-time-configuration-for-embedding-model-providers": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/gptscript-knowledge-tool-v0-3-introduces-one-time-configuration-for-embedding-model-providers.md",
         "url": "https://www.acorn.io/resources/blog/gptscript-knowledge-tool-v0-3-introduces-one-time-configuration-for-embedding-model-providers",
-        "last_update": "2024-09-24 11:29:35.765202 -0700 MST m=+23.238729001"
+        "last_update": "2024-09-30 15:33:02.041424 -0700 MST m=+51.040889542"
       },
-      "https://www.acorn.io/resources/blog/introducing-clio-your-dev-ops-assistant": {
+      "https://www.acorn.io/resources/blog/gptscript-knowledge-tool-v0-3-introduces-one-time-configuration-for-embedding-model-providers?fromOther=true": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/gptscript-knowledge-tool-v0-3-introduces-one-time-configuration-for-embedding-model-providers.md",
+        "url": "https://www.acorn.io/resources/blog/gptscript-knowledge-tool-v0-3-introduces-one-time-configuration-for-embedding-model-providers?fromOther=true",
+        "last_update": "2024-09-30 15:32:36.786396 -0700 MST m=+25.785600084"
+      },
+      "https://www.acorn.io/resources/blog/introducing-clio-your-dev-ops-assistant?fromOther=true": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/introducing-clio-your-dev-ops-assistant.md",
-        "url": "https://www.acorn.io/resources/blog/introducing-clio-your-dev-ops-assistant",
-        "last_update": "2024-09-24 11:29:35.78397 -0700 MST m=+23.257497751"
-      },
-      "https://www.acorn.io/resources/blog/introducing-credential-management-in-gpt-script-v0-5": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/introducing-credential-management-in-gpt-script-v0-5.md",
-        "url": "https://www.acorn.io/resources/blog/introducing-credential-management-in-gpt-script-v0-5",
-        "last_update": "2024-09-24 11:29:35.780237 -0700 MST m=+23.253764001"
-      },
-      "https://www.acorn.io/resources/blog/introducing-gpt-script-v0-7": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/introducing-gpt-script-v0-7.md",
-        "url": "https://www.acorn.io/resources/blog/introducing-gpt-script-v0-7",
-        "last_update": "2024-09-24 11:29:35.784716 -0700 MST m=+23.258243543"
+        "url": "https://www.acorn.io/resources/blog/introducing-clio-your-dev-ops-assistant?fromOther=true",
+        "last_update": "2024-09-30 15:32:35.34907 -0700 MST m=+24.348258292"
       },
       "https://www.acorn.io/resources/blog/introducing-gptscript": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/introducing-gptscript.md",
         "url": "https://www.acorn.io/resources/blog/introducing-gptscript",
-        "last_update": "2024-09-24 11:29:35.775957 -0700 MST m=+23.249484459"
+        "last_update": "2024-09-30 15:32:37.287208 -0700 MST m=+26.286416376"
       },
-      "https://www.acorn.io/resources/blog/introducing-rubra": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/introducing-rubra.md",
-        "url": "https://www.acorn.io/resources/blog/introducing-rubra",
-        "last_update": "2024-09-24 11:29:35.767329 -0700 MST m=+23.240855626"
-      },
-      "https://www.acorn.io/resources/blog/introducing-the-gpt-script-knowledge-tool": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/introducing-the-gpt-script-knowledge-tool.md",
-        "url": "https://www.acorn.io/resources/blog/introducing-the-gpt-script-knowledge-tool",
-        "last_update": "2024-09-24 11:29:35.758193 -0700 MST m=+23.231719459"
-      },
-      "https://www.acorn.io/resources/blog/introducing-tools-gptscript-ai-simplifying-documentation-for-gpt-script-tools": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/introducing-tools-gptscript-ai-simplifying-documentation-for-gpt-script-tools.md",
-        "url": "https://www.acorn.io/resources/blog/introducing-tools-gptscript-ai-simplifying-documentation-for-gpt-script-tools",
-        "last_update": "2024-09-24 11:29:35.781709 -0700 MST m=+23.255236459"
-      },
-      "https://www.acorn.io/resources/blog/managing-aws-costs-with-your-grumpy-but-friendly-assistant-clio": {
+      "https://www.acorn.io/resources/blog/managing-aws-costs-with-your-grumpy-but-friendly-assistant-clio?fromOther=true": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/managing-aws-costs-with-your-grumpy-but-friendly-assistant-clio.md",
-        "url": "https://www.acorn.io/resources/blog/managing-aws-costs-with-your-grumpy-but-friendly-assistant-clio",
-        "last_update": "2024-09-24 11:29:35.771418 -0700 MST m=+23.244944709"
+        "url": "https://www.acorn.io/resources/blog/managing-aws-costs-with-your-grumpy-but-friendly-assistant-clio?fromOther=true",
+        "last_update": "2024-09-30 15:32:53.265963 -0700 MST m=+42.265337626"
       },
       "https://www.acorn.io/resources/blog/my-clio-review-a-week-with-the-ai-devops-copilot": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/my-clio-review-a-week-with-the-ai-devops-copilot.md",
         "url": "https://www.acorn.io/resources/blog/my-clio-review-a-week-with-the-ai-devops-copilot",
-        "last_update": "2024-09-24 11:29:35.766875 -0700 MST m=+23.240401751"
+        "last_update": "2024-09-30 15:33:12.32517 -0700 MST m=+61.324742959"
+      },
+      "https://www.acorn.io/resources/blog/my-clio-review-a-week-with-the-ai-devops-copilot?fromOther=true": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/my-clio-review-a-week-with-the-ai-devops-copilot.md",
+        "url": "https://www.acorn.io/resources/blog/my-clio-review-a-week-with-the-ai-devops-copilot?fromOther=true",
+        "last_update": "2024-09-30 15:32:34.125756 -0700 MST m=+23.124932209"
       },
       "https://www.acorn.io/resources/blog/open-source": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/open-source.md",
         "url": "https://www.acorn.io/resources/blog/open-source",
-        "last_update": "2024-09-24 11:29:35.761697 -0700 MST m=+23.235224001"
+        "last_update": "2024-09-30 15:32:33.502746 -0700 MST m=+22.501916042"
       },
-      "https://www.acorn.io/resources/blog/our-new-focus-developing-an-llm-app-platform-based-on-gpt-script-technology": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/our-new-focus-developing-an-llm-app-platform-based-on-gpt-script-technology.md",
-        "url": "https://www.acorn.io/resources/blog/our-new-focus-developing-an-llm-app-platform-based-on-gpt-script-technology",
-        "last_update": "2024-09-24 11:29:35.766451 -0700 MST m=+23.239978501"
-      },
-      "https://www.acorn.io/resources/blog/rubra-v0-1-introducing-tool-calling-to-top-open-weight-llms": {
+      "https://www.acorn.io/resources/blog/rubra-v0-1-introducing-tool-calling-to-top-open-weight-llms?fromOther=true": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/rubra-v0-1-introducing-tool-calling-to-top-open-weight-llms.md",
-        "url": "https://www.acorn.io/resources/blog/rubra-v0-1-introducing-tool-calling-to-top-open-weight-llms",
-        "last_update": "2024-09-24 11:29:35.763434 -0700 MST m=+23.236961418"
+        "url": "https://www.acorn.io/resources/blog/rubra-v0-1-introducing-tool-calling-to-top-open-weight-llms?fromOther=true",
+        "last_update": "2024-09-30 15:32:55.390694 -0700 MST m=+44.390090501"
       },
-      "https://www.acorn.io/resources/blog/sailing-towards-standardization-open-container-initiative-oci-explained": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/sailing-towards-standardization-open-container-initiative-oci-explained.md",
-        "url": "https://www.acorn.io/resources/blog/sailing-towards-standardization-open-container-initiative-oci-explained",
-        "last_update": "2024-09-24 11:29:35.76087 -0700 MST m=+23.234396793"
-      },
-      "https://www.acorn.io/resources/blog/selecting-between-docker-desktop-rancher-desktop-and-podman-desktop": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/selecting-between-docker-desktop-rancher-desktop-and-podman-desktop.md",
-        "url": "https://www.acorn.io/resources/blog/selecting-between-docker-desktop-rancher-desktop-and-podman-desktop",
-        "last_update": "2024-09-24 11:29:35.764108 -0700 MST m=+23.237635251"
-      },
-      "https://www.acorn.io/resources/blog/the-anatomy-of-a-gptscript-chatbot-assistant": {
+      "https://www.acorn.io/resources/blog/the-anatomy-of-a-gptscript-chatbot-assistant?fromOther=true": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/the-anatomy-of-a-gptscript-chatbot-assistant.md",
-        "url": "https://www.acorn.io/resources/blog/the-anatomy-of-a-gptscript-chatbot-assistant",
-        "last_update": "2024-09-24 11:29:35.767747 -0700 MST m=+23.241274459"
+        "url": "https://www.acorn.io/resources/blog/the-anatomy-of-a-gptscript-chatbot-assistant?fromOther=true",
+        "last_update": "2024-09-30 15:32:35.959778 -0700 MST m=+24.958973459"
       },
-      "https://www.acorn.io/resources/blog/what-s-new-in-gpt-script-v0-3": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/what-s-new-in-gpt-script-v0-3.md",
-        "url": "https://www.acorn.io/resources/blog/what-s-new-in-gpt-script-v0-3",
-        "last_update": "2024-09-24 11:29:35.755661 -0700 MST m=+23.229187501"
+      "https://www.acorn.io/resources/learning-center": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center.md",
+        "url": "https://www.acorn.io/resources/learning-center",
+        "last_update": "2024-09-30 15:32:16.73137 -0700 MST m=+5.730365209"
       },
-      "https://www.acorn.io/resources/blog/what-s-new-in-gpt-script-v0-4": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/blog/what-s-new-in-gpt-script-v0-4.md",
-        "url": "https://www.acorn.io/resources/blog/what-s-new-in-gpt-script-v0-4",
-        "last_update": "2024-09-24 11:29:35.772408 -0700 MST m=+23.245935543"
+      "https://www.acorn.io/resources/learning-center/ai-for-summarizing-articles": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/ai-for-summarizing-articles.md",
+        "url": "https://www.acorn.io/resources/learning-center/ai-for-summarizing-articles",
+        "last_update": "2024-09-30 15:32:41.979476 -0700 MST m=+30.978733209"
       },
-      "https://www.acorn.io/resources/library": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/library.md",
-        "url": "https://www.acorn.io/resources/library",
-        "last_update": "2024-09-24 11:29:35.757516 -0700 MST m=+23.231042668"
+      "https://www.acorn.io/resources/learning-center/ai-image-generation": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/ai-image-generation.md",
+        "url": "https://www.acorn.io/resources/learning-center/ai-image-generation",
+        "last_update": "2024-09-30 15:32:29.779021 -0700 MST m=+18.778151542"
+      },
+      "https://www.acorn.io/resources/learning-center/ai-summarization": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/ai-summarization.md",
+        "url": "https://www.acorn.io/resources/learning-center/ai-summarization",
+        "last_update": "2024-09-30 15:32:29.26704 -0700 MST m=+18.266165584"
+      },
+      "https://www.acorn.io/resources/learning-center/ai-video-generators": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/ai-video-generators.md",
+        "url": "https://www.acorn.io/resources/learning-center/ai-video-generators",
+        "last_update": "2024-09-30 15:32:30.348135 -0700 MST m=+19.347272292"
+      },
+      "https://www.acorn.io/resources/learning-center/aisera": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/aisera.md",
+        "url": "https://www.acorn.io/resources/learning-center/aisera",
+        "last_update": "2024-09-30 15:33:05.81975 -0700 MST m=+54.819255834"
+      },
+      "https://www.acorn.io/resources/learning-center/anthropic-claude": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/anthropic-claude.md",
+        "url": "https://www.acorn.io/resources/learning-center/anthropic-claude",
+        "last_update": "2024-09-30 15:32:20.615278 -0700 MST m=+9.614314167"
+      },
+      "https://www.acorn.io/resources/learning-center/anthropic-claude-3": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/anthropic-claude-3.md",
+        "url": "https://www.acorn.io/resources/learning-center/anthropic-claude-3",
+        "last_update": "2024-09-30 15:33:00.342772 -0700 MST m=+49.342220084"
+      },
+      "https://www.acorn.io/resources/learning-center/best-llm": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/best-llm.md",
+        "url": "https://www.acorn.io/resources/learning-center/best-llm",
+        "last_update": "2024-09-30 15:32:37.906086 -0700 MST m=+26.905301251"
+      },
+      "https://www.acorn.io/resources/learning-center/code-interpreter": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/code-interpreter.md",
+        "url": "https://www.acorn.io/resources/learning-center/code-interpreter",
+        "last_update": "2024-09-30 15:32:31.000136 -0700 MST m=+19.999279501"
+      },
+      "https://www.acorn.io/resources/learning-center/cohere-ai": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/cohere-ai.md",
+        "url": "https://www.acorn.io/resources/learning-center/cohere-ai",
+        "last_update": "2024-09-30 15:32:24.372413 -0700 MST m=+13.371488167"
+      },
+      "https://www.acorn.io/resources/learning-center/fine-tuning-llama-2": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/fine-tuning-llama-2.md",
+        "url": "https://www.acorn.io/resources/learning-center/fine-tuning-llama-2",
+        "last_update": "2024-09-30 15:33:03.105121 -0700 MST m=+52.104598167"
+      },
+      "https://www.acorn.io/resources/learning-center/fine-tuning-llm": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/fine-tuning-llm.md",
+        "url": "https://www.acorn.io/resources/learning-center/fine-tuning-llm",
+        "last_update": "2024-09-30 15:32:26.959517 -0700 MST m=+15.958618584"
+      },
+      "https://www.acorn.io/resources/learning-center/generative-ai-applications": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/generative-ai-applications.md",
+        "url": "https://www.acorn.io/resources/learning-center/generative-ai-applications",
+        "last_update": "2024-09-30 15:32:26.458829 -0700 MST m=+15.457925251"
+      },
+      "https://www.acorn.io/resources/learning-center/google-gemini": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/google-gemini.md",
+        "url": "https://www.acorn.io/resources/learning-center/google-gemini",
+        "last_update": "2024-09-30 15:32:21.479616 -0700 MST m=+10.478660709"
+      },
+      "https://www.acorn.io/resources/learning-center/google-gemini-pro": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/google-gemini-pro.md",
+        "url": "https://www.acorn.io/resources/learning-center/google-gemini-pro",
+        "last_update": "2024-09-30 15:33:03.731543 -0700 MST m=+52.731026459"
+      },
+      "https://www.acorn.io/resources/learning-center/gpt3-vs-gpt4": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/gpt3-vs-gpt4.md",
+        "url": "https://www.acorn.io/resources/learning-center/gpt3-vs-gpt4",
+        "last_update": "2024-09-30 15:33:02.56417 -0700 MST m=+51.563640751"
+      },
+      "https://www.acorn.io/resources/learning-center/llm-application-development": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/llm-application-development.md",
+        "url": "https://www.acorn.io/resources/learning-center/llm-application-development",
+        "last_update": "2024-09-30 15:32:27.541407 -0700 MST m=+16.540514709"
+      },
+      "https://www.acorn.io/resources/learning-center/llm-leaderboards": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/llm-leaderboards.md",
+        "url": "https://www.acorn.io/resources/learning-center/llm-leaderboards",
+        "last_update": "2024-09-30 15:32:38.687277 -0700 MST m=+27.686500001"
+      },
+      "https://www.acorn.io/resources/learning-center/llm-platform": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/llm-platform.md",
+        "url": "https://www.acorn.io/resources/learning-center/llm-platform",
+        "last_update": "2024-09-30 15:33:05.441019 -0700 MST m=+54.440519667"
+      },
+      "https://www.acorn.io/resources/learning-center/llm-security": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/llm-security.md",
+        "url": "https://www.acorn.io/resources/learning-center/llm-security",
+        "last_update": "2024-09-30 15:32:28.007157 -0700 MST m=+17.006269417"
+      },
+      "https://www.acorn.io/resources/learning-center/meta-llama": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/meta-llama.md",
+        "url": "https://www.acorn.io/resources/learning-center/meta-llama",
+        "last_update": "2024-09-30 15:32:23.40613 -0700 MST m=+12.405195167"
+      },
+      "https://www.acorn.io/resources/learning-center/meta-llama-3": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/meta-llama-3.md",
+        "url": "https://www.acorn.io/resources/learning-center/meta-llama-3",
+        "last_update": "2024-09-30 15:33:06.391365 -0700 MST m=+55.390875542"
+      },
+      "https://www.acorn.io/resources/learning-center/mistral-7b": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/mistral-7b.md",
+        "url": "https://www.acorn.io/resources/learning-center/mistral-7b",
+        "last_update": "2024-09-30 15:32:22.909889 -0700 MST m=+11.908948751"
+      },
+      "https://www.acorn.io/resources/learning-center/mistral-7b-instruct": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/mistral-7b-instruct.md",
+        "url": "https://www.acorn.io/resources/learning-center/mistral-7b-instruct",
+        "last_update": "2024-09-30 15:33:07.234741 -0700 MST m=+56.234260459"
+      },
+      "https://www.acorn.io/resources/learning-center/mistral-ai": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/mistral-ai.md",
+        "url": "https://www.acorn.io/resources/learning-center/mistral-ai",
+        "last_update": "2024-09-30 15:32:22.134421 -0700 MST m=+11.133472876"
+      },
+      "https://www.acorn.io/resources/learning-center/open-interpreter": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/open-interpreter.md",
+        "url": "https://www.acorn.io/resources/learning-center/open-interpreter",
+        "last_update": "2024-09-30 15:32:57.268109 -0700 MST m=+46.267525709"
+      },
+      "https://www.acorn.io/resources/learning-center/open-llm-leaderboard": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/open-llm-leaderboard.md",
+        "url": "https://www.acorn.io/resources/learning-center/open-llm-leaderboard",
+        "last_update": "2024-09-30 15:32:39.10819 -0700 MST m=+28.107417626"
+      },
+      "https://www.acorn.io/resources/learning-center/openai": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/openai.md",
+        "url": "https://www.acorn.io/resources/learning-center/openai",
+        "last_update": "2024-09-30 15:32:19.561507 -0700 MST m=+8.560532001"
+      },
+      "https://www.acorn.io/resources/learning-center/prompt-engineering": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/prompt-engineering.md",
+        "url": "https://www.acorn.io/resources/learning-center/prompt-engineering",
+        "last_update": "2024-09-30 15:32:26.038756 -0700 MST m=+15.037847751"
+      },
+      "https://www.acorn.io/resources/learning-center/prompt-engineering-examples": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/prompt-engineering-examples.md",
+        "url": "https://www.acorn.io/resources/learning-center/prompt-engineering-examples",
+        "last_update": "2024-09-30 15:33:05.016163 -0700 MST m=+54.015660001"
+      },
+      "https://www.acorn.io/resources/learning-center/prompt-engineering-in-chatgpt": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/prompt-engineering-in-chatgpt.md",
+        "url": "https://www.acorn.io/resources/learning-center/prompt-engineering-in-chatgpt",
+        "last_update": "2024-09-30 15:33:04.341186 -0700 MST m=+53.340675667"
+      },
+      "https://www.acorn.io/resources/learning-center/rag-tutorial": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/rag-tutorial.md",
+        "url": "https://www.acorn.io/resources/learning-center/rag-tutorial",
+        "last_update": "2024-09-30 15:33:01.173467 -0700 MST m=+50.172924292"
+      },
+      "https://www.acorn.io/resources/learning-center/rag-vs-fine-tuning": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/rag-vs-fine-tuning.md",
+        "url": "https://www.acorn.io/resources/learning-center/rag-vs-fine-tuning",
+        "last_update": "2024-09-30 15:33:01.567629 -0700 MST m=+50.567090001"
+      },
+      "https://www.acorn.io/resources/learning-center/retrieval-augmented-generation": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center/retrieval-augmented-generation.md",
+        "url": "https://www.acorn.io/resources/learning-center/retrieval-augmented-generation",
+        "last_update": "2024-09-30 15:32:28.899275 -0700 MST m=+17.898397334"
+      },
+      "https://www.acorn.io/resources/learning-center?category=23": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center.md",
+        "url": "https://www.acorn.io/resources/learning-center?category=23",
+        "last_update": "2024-09-30 15:32:17.733776 -0700 MST m=+6.732782251"
+      },
+      "https://www.acorn.io/resources/learning-center?category=24": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center.md",
+        "url": "https://www.acorn.io/resources/learning-center?category=24",
+        "last_update": "2024-09-30 15:32:25.005681 -0700 MST m=+14.004762876"
+      },
+      "https://www.acorn.io/resources/learning-center?category=25": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/learning-center.md",
+        "url": "https://www.acorn.io/resources/learning-center?category=25",
+        "last_update": "2024-09-30 15:32:28.544604 -0700 MST m=+17.543722626"
       },
       "https://www.acorn.io/resources/tutorials": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials.md",
         "url": "https://www.acorn.io/resources/tutorials",
-        "last_update": "2024-09-24 11:29:35.782422 -0700 MST m=+23.255949501"
+        "last_update": "2024-09-30 15:32:15.279583 -0700 MST m=+4.278563501"
       },
       "https://www.acorn.io/resources/tutorials/ai-powered-devops-building-a-gcp-assistant": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/ai-powered-devops-building-a-gcp-assistant.md",
         "url": "https://www.acorn.io/resources/tutorials/ai-powered-devops-building-a-gcp-assistant",
-        "last_update": "2024-09-24 11:29:35.764433 -0700 MST m=+23.237959668"
+        "last_update": "2024-09-30 15:33:11.790539 -0700 MST m=+60.790105626"
       },
       "https://www.acorn.io/resources/tutorials/ai-powered-kubernetes-testing-using-gptscript-and-testkube": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/ai-powered-kubernetes-testing-using-gptscript-and-testkube.md",
         "url": "https://www.acorn.io/resources/tutorials/ai-powered-kubernetes-testing-using-gptscript-and-testkube",
-        "last_update": "2024-09-24 11:29:35.771761 -0700 MST m=+23.245288501"
+        "last_update": "2024-09-30 15:33:11.001925 -0700 MST m=+60.001483626"
       },
-      "https://www.acorn.io/resources/tutorials/boostrapping-a-kubernetes-cluster-using-gpt-script": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/boostrapping-a-kubernetes-cluster-using-gpt-script.md",
-        "url": "https://www.acorn.io/resources/tutorials/boostrapping-a-kubernetes-cluster-using-gpt-script",
-        "last_update": "2024-09-24 11:29:35.762105 -0700 MST m=+23.235632251"
-      },
-      "https://www.acorn.io/resources/tutorials/build-your-own-web-development-assistant-using-open-ai-api": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/build-your-own-web-development-assistant-using-open-ai-api.md",
-        "url": "https://www.acorn.io/resources/tutorials/build-your-own-web-development-assistant-using-open-ai-api",
-        "last_update": "2024-09-24 11:29:35.769307 -0700 MST m=+23.242834168"
-      },
-      "https://www.acorn.io/resources/tutorials/build-your-own-web-development-assistant-using-openai-api-part-2": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/build-your-own-web-development-assistant-using-openai-api-part-2.md",
-        "url": "https://www.acorn.io/resources/tutorials/build-your-own-web-development-assistant-using-openai-api-part-2",
-        "last_update": "2024-09-24 11:29:35.756851 -0700 MST m=+23.230378126"
-      },
-      "https://www.acorn.io/resources/tutorials/building-a-gen-ai-treasure-hunt-app-for-the-curious-explorers": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/building-a-gen-ai-treasure-hunt-app-for-the-curious-explorers.md",
-        "url": "https://www.acorn.io/resources/tutorials/building-a-gen-ai-treasure-hunt-app-for-the-curious-explorers",
-        "last_update": "2024-09-24 11:29:35.775598 -0700 MST m=+23.249124709"
-      },
-      "https://www.acorn.io/resources/tutorials/building-a-generative-story-book-app-using-gpt-script-nuxt-3-and-gpt-4-part-2": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/building-a-generative-story-book-app-using-gpt-script-nuxt-3-and-gpt-4-part-2.md",
-        "url": "https://www.acorn.io/resources/tutorials/building-a-generative-story-book-app-using-gpt-script-nuxt-3-and-gpt-4-part-2",
-        "last_update": "2024-09-24 11:29:35.759856 -0700 MST m=+23.233382709"
-      },
-      "https://www.acorn.io/resources/tutorials/building-a-generative-story-book-app-with-gpt-script-nuxt-3-and-gpt-4-part-1": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/building-a-generative-story-book-app-with-gpt-script-nuxt-3-and-gpt-4-part-1.md",
-        "url": "https://www.acorn.io/resources/tutorials/building-a-generative-story-book-app-with-gpt-script-nuxt-3-and-gpt-4-part-1",
-        "last_update": "2024-09-24 11:29:35.762601 -0700 MST m=+23.236128293"
-      },
-      "https://www.acorn.io/resources/tutorials/building-an-ai-powered-script-to-manage-digital-ocean": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/building-an-ai-powered-script-to-manage-digital-ocean.md",
-        "url": "https://www.acorn.io/resources/tutorials/building-an-ai-powered-script-to-manage-digital-ocean",
-        "last_update": "2024-09-24 11:29:35.770721 -0700 MST m=+23.244248126"
+      "https://www.acorn.io/resources/tutorials/ai-powered-kubernetes-testing-using-gptscript-and-testkube?fromOther=true": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/ai-powered-kubernetes-testing-using-gptscript-and-testkube.md",
+        "url": "https://www.acorn.io/resources/tutorials/ai-powered-kubernetes-testing-using-gptscript-and-testkube?fromOther=true",
+        "last_update": "2024-09-30 15:33:15.304139 -0700 MST m=+64.303742376"
       },
       "https://www.acorn.io/resources/tutorials/building-an-ai-powered-you-tube-title-and-thumbnail-generator-part-1": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/building-an-ai-powered-you-tube-title-and-thumbnail-generator-part-1.md",
         "url": "https://www.acorn.io/resources/tutorials/building-an-ai-powered-you-tube-title-and-thumbnail-generator-part-1",
-        "last_update": "2024-09-24 11:29:35.768528 -0700 MST m=+23.242055043"
+        "last_update": "2024-09-30 15:32:59.696665 -0700 MST m=+48.696107126"
       },
       "https://www.acorn.io/resources/tutorials/building-an-ai-powered-you-tube-title-and-thumbnail-generator-part-2": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/building-an-ai-powered-you-tube-title-and-thumbnail-generator-part-2.md",
         "url": "https://www.acorn.io/resources/tutorials/building-an-ai-powered-you-tube-title-and-thumbnail-generator-part-2",
-        "last_update": "2024-09-24 11:29:35.755287 -0700 MST m=+23.228813584"
-      },
-      "https://www.acorn.io/resources/tutorials/building-an-llm-powered-cron-job-to-monitor-craigslist-using-gpt-script-and-render": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/building-an-llm-powered-cron-job-to-monitor-craigslist-using-gpt-script-and-render.md",
-        "url": "https://www.acorn.io/resources/tutorials/building-an-llm-powered-cron-job-to-monitor-craigslist-using-gpt-script-and-render",
-        "last_update": "2024-09-24 11:29:35.764789 -0700 MST m=+23.238316251"
+        "last_update": "2024-09-30 15:32:58.60335 -0700 MST m=+47.602780459"
       },
       "https://www.acorn.io/resources/tutorials/building-and-deploying-a-blog-to-aws-how-clio-helps-me-as-a-developer-part-3": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/building-and-deploying-a-blog-to-aws-how-clio-helps-me-as-a-developer-part-3.md",
         "url": "https://www.acorn.io/resources/tutorials/building-and-deploying-a-blog-to-aws-how-clio-helps-me-as-a-developer-part-3",
-        "last_update": "2024-09-24 11:29:35.77039 -0700 MST m=+23.243917376"
+        "last_update": "2024-09-30 15:33:08.573695 -0700 MST m=+57.573228167"
       },
-      "https://www.acorn.io/resources/tutorials/can-ai-help-me-find-the-perfect-breed-of-dog": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/can-ai-help-me-find-the-perfect-breed-of-dog.md",
-        "url": "https://www.acorn.io/resources/tutorials/can-ai-help-me-find-the-perfect-breed-of-dog",
-        "last_update": "2024-09-24 11:29:35.772739 -0700 MST m=+23.246266501"
-      },
-      "https://www.acorn.io/resources/tutorials/chat-with-google-maps-using-gpt-script": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/chat-with-google-maps-using-gpt-script.md",
-        "url": "https://www.acorn.io/resources/tutorials/chat-with-google-maps-using-gpt-script",
-        "last_update": "2024-09-24 11:29:35.77715 -0700 MST m=+23.250677209"
+      "https://www.acorn.io/resources/tutorials/building-and-deploying-a-blog-to-aws-how-clio-helps-me-as-a-developer-part-3?fromOther=true": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/building-and-deploying-a-blog-to-aws-how-clio-helps-me-as-a-developer-part-3.md",
+        "url": "https://www.acorn.io/resources/tutorials/building-and-deploying-a-blog-to-aws-how-clio-helps-me-as-a-developer-part-3?fromOther=true",
+        "last_update": "2024-09-30 15:33:14.577333 -0700 MST m=+63.576928709"
       },
       "https://www.acorn.io/resources/tutorials/deploying-a-static-site-to-aws-how-clio-helps-me-as-a-developer-part-2": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/deploying-a-static-site-to-aws-how-clio-helps-me-as-a-developer-part-2.md",
         "url": "https://www.acorn.io/resources/tutorials/deploying-a-static-site-to-aws-how-clio-helps-me-as-a-developer-part-2",
-        "last_update": "2024-09-24 11:29:35.777981 -0700 MST m=+23.251508584"
+        "last_update": "2024-09-30 15:33:09.17984 -0700 MST m=+58.179380334"
+      },
+      "https://www.acorn.io/resources/tutorials/deploying-a-static-site-to-aws-how-clio-helps-me-as-a-developer-part-2?fromOther=true": {
+        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/deploying-a-static-site-to-aws-how-clio-helps-me-as-a-developer-part-2.md",
+        "url": "https://www.acorn.io/resources/tutorials/deploying-a-static-site-to-aws-how-clio-helps-me-as-a-developer-part-2?fromOther=true",
+        "last_update": "2024-09-30 15:33:15.804526 -0700 MST m=+64.804134709"
       },
       "https://www.acorn.io/resources/tutorials/document-summarization-using-gptscript-building-a-legal-document-simplifier-app": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/document-summarization-using-gptscript-building-a-legal-document-simplifier-app.md",
         "url": "https://www.acorn.io/resources/tutorials/document-summarization-using-gptscript-building-a-legal-document-simplifier-app",
-        "last_update": "2024-09-24 11:29:35.781351 -0700 MST m=+23.254878209"
-      },
-      "https://www.acorn.io/resources/tutorials/enhancing-home-assistant-usage-with-gptscript": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/enhancing-home-assistant-usage-with-gptscript.md",
-        "url": "https://www.acorn.io/resources/tutorials/enhancing-home-assistant-usage-with-gptscript",
-        "last_update": "2024-09-24 11:29:35.75721 -0700 MST m=+23.230736793"
+        "last_update": "2024-09-30 15:32:43.032645 -0700 MST m=+32.031913251"
       },
       "https://www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-1": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-1.md",
         "url": "https://www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-1",
-        "last_update": "2024-09-24 11:29:35.776685 -0700 MST m=+23.250212043"
+        "last_update": "2024-09-30 15:32:56.791934 -0700 MST m=+45.791346001"
       },
       "https://www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-2": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-2.md",
         "url": "https://www.acorn.io/resources/tutorials/gptreview-build-your-own-ai-based-code-reviewer-part-2",
-        "last_update": "2024-09-24 11:29:35.759017 -0700 MST m=+23.232544168"
+        "last_update": "2024-09-30 15:32:56.147404 -0700 MST m=+45.146809209"
       },
       "https://www.acorn.io/resources/tutorials/gptreview-integrate-your-own-ai-based-code-reviewer-with-jenkins-part-3": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/gptreview-integrate-your-own-ai-based-code-reviewer-with-jenkins-part-3.md",
         "url": "https://www.acorn.io/resources/tutorials/gptreview-integrate-your-own-ai-based-code-reviewer-with-jenkins-part-3",
-        "last_update": "2024-09-24 11:29:35.768131 -0700 MST m=+23.241658001"
+        "last_update": "2024-09-30 15:33:13.002075 -0700 MST m=+62.001654917"
       },
       "https://www.acorn.io/resources/tutorials/how-can-clio-help-me-as-a-developer": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/how-can-clio-help-me-as-a-developer.md",
         "url": "https://www.acorn.io/resources/tutorials/how-can-clio-help-me-as-a-developer",
-        "last_update": "2024-09-24 11:29:35.765875 -0700 MST m=+23.239401709"
-      },
-      "https://www.acorn.io/resources/tutorials/mongo-db-acorn-service": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/mongo-db-acorn-service.md",
-        "url": "https://www.acorn.io/resources/tutorials/mongo-db-acorn-service",
-        "last_update": "2024-09-24 11:29:35.758545 -0700 MST m=+23.232071918"
-      },
-      "https://www.acorn.io/resources/tutorials/music-festival-recommendations-with-open-ai-spotify-and-gpt-script": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/music-festival-recommendations-with-open-ai-spotify-and-gpt-script.md",
-        "url": "https://www.acorn.io/resources/tutorials/music-festival-recommendations-with-open-ai-spotify-and-gpt-script",
-        "last_update": "2024-09-24 11:29:35.763779 -0700 MST m=+23.237306459"
+        "last_update": "2024-09-30 15:33:10.100838 -0700 MST m=+59.100387959"
       },
       "https://www.acorn.io/resources/tutorials/use-gpt-4-to-build-your-own-habit-tracker": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/use-gpt-4-to-build-your-own-habit-tracker.md",
         "url": "https://www.acorn.io/resources/tutorials/use-gpt-4-to-build-your-own-habit-tracker",
-        "last_update": "2024-09-24 11:29:35.770045 -0700 MST m=+23.243572126"
-      },
-      "https://www.acorn.io/resources/tutorials/using-gptscript-to-build-a-wordpress-assistant": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/using-gptscript-to-build-a-wordpress-assistant.md",
-        "url": "https://www.acorn.io/resources/tutorials/using-gptscript-to-build-a-wordpress-assistant",
-        "last_update": "2024-09-24 11:29:35.756307 -0700 MST m=+23.229833834"
-      },
-      "https://www.acorn.io/resources/tutorials/using-open-ai-and-gpt-script-for-kubectl-automation": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/using-open-ai-and-gpt-script-for-kubectl-automation.md",
-        "url": "https://www.acorn.io/resources/tutorials/using-open-ai-and-gpt-script-for-kubectl-automation",
-        "last_update": "2024-09-24 11:29:35.755949 -0700 MST m=+23.229475918"
-      },
-      "https://www.acorn.io/resources/tutorials/using-open-api-definitions-with-ll-ms-through-gpt-script-tools": {
-        "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/using-open-api-definitions-with-ll-ms-through-gpt-script-tools.md",
-        "url": "https://www.acorn.io/resources/tutorials/using-open-api-definitions-with-ll-ms-through-gpt-script-tools",
-        "last_update": "2024-09-24 11:29:35.77836 -0700 MST m=+23.251887293"
+        "last_update": "2024-09-30 15:33:13.551015 -0700 MST m=+62.550600667"
       },
       "https://www.acorn.io/resources/tutorials/using-openai-api-to-track-calories-and-build-a-health-coach": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/using-openai-api-to-track-calories-and-build-a-health-coach.md",
         "url": "https://www.acorn.io/resources/tutorials/using-openai-api-to-track-calories-and-build-a-health-coach",
-        "last_update": "2024-09-24 11:29:35.76131 -0700 MST m=+23.234837043"
+        "last_update": "2024-09-30 15:33:14.043763 -0700 MST m=+63.043353667"
       },
       "https://www.acorn.io/resources/tutorials/what-should-i-cook-today-using-gptscript-to-build-an-ai-recipe-generator": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/resources/tutorials/what-should-i-cook-today-using-gptscript-to-build-an-ai-recipe-generator.md",
         "url": "https://www.acorn.io/resources/tutorials/what-should-i-cook-today-using-gptscript-to-build-an-ai-recipe-generator",
-        "last_update": "2024-09-24 11:29:35.782073 -0700 MST m=+23.255600751"
+        "last_update": "2024-09-30 15:32:34.937325 -0700 MST m=+23.936509001"
       },
       "https://www.acorn.io/terms-of-use": {
         "path": "/Users/daishan/work/knowledge-website-integration/www.acorn.io/terms-of-use.md",
         "url": "https://www.acorn.io/terms-of-use",
-        "last_update": "2024-09-24 11:29:35.750982 -0700 MST m=+23.224509293"
+        "last_update": "2024-09-30 15:32:40.196496 -0700 MST m=+29.195735417"
       }
     },
     "folders": {

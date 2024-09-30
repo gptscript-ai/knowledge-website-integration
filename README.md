@@ -17,7 +17,7 @@ provide a .metadata.json file to specify the website to be scraped and the local
 ```json
 {
   "input": {
-    "urls": ["https://www.acorn.io"]
+    "urls": ["https://coral.org"]
   }
 }
 ```
@@ -33,5 +33,3 @@ MODE=colly go run main.go
 ```bash
 MODE=firecrawl go run main.go
 ```
-
-By default, the mode is `colly`.

@@ -9,6 +9,8 @@ import (
 	"strings"
 	"time"
 
+	"fmt"
+
 	md "github.com/JohannesKaufmann/html-to-markdown"
 	"github.com/gocolly/colly"
 	"github.com/sirupsen/logrus"
@@ -76,12 +78,14 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 			folders[path.Join(workingDir, hostname)] = struct{}{}
 			metadata.Output.Folders = folders
 
+			metadata.Output.Status = fmt.Sprintf("scraped %d pages", len(visited))
 			if err := writeMetadata(metadata, metadataPath); err != nil {
 				logrus.Fatalf("Failed to write metadata: %v", err)
 			}
 		})
 
 		c.collector.OnHTML("a[href]", func(e *colly.HTMLElement) {
+
 			link := e.Attr("href")
 			baseURL, err := url2.Parse(url)
 			if err != nil {
@@ -91,6 +95,9 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 			linkURL, err := url2.Parse(link)
 			if err != nil {
 				logrus.Errorf("Invalid link URL %s: %v", link, err)
+				return
+			}
+			if visited[linkURL.String()] {
 				return
 			}
 			if strings.ToLower(path.Ext(linkURL.Path)) == ".pdf" {
@@ -124,12 +131,15 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 					logrus.Errorf("Failed to save PDF to %s: %v", filePath, err)
 					return
 				}
+				visited[linkURL.String()] = true
 
+				metadata.Output.Status = fmt.Sprintf("scraped %d pages", len(visited))
 				metadata.Output.Pages[linkURL.String()] = PageDetails{
 					Path:       filePath,
 					URL:        linkURL.String(),
 					LastUpdate: time.Now().String(),
 				}
+
 				if err := writeMetadata(metadata, metadataPath); err != nil {
 					logrus.Fatalf("Failed to write metadata: %v", err)
 				}
@@ -164,6 +174,8 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 		}
 	}
 
+	metadata.Output.Status = ""
+	metadata.Output.Error = ""
 	if err := writeMetadata(metadata, metadataPath); err != nil {
 		logrus.Fatalf("Failed to write metadata: %v", err)
 	}
