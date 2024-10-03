@@ -31,10 +31,18 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 
 	visited := make(map[string]bool)
 	folders := make(map[string]struct{})
+	exclude := make(map[string]bool)
+
+	for _, url := range metadata.Input.Exclude {
+		exclude[url] = true
+	}
 
 	for _, url := range metadata.Input.WebsiteCrawlingConfig.URLs {
 		c.collector.OnHTML("body", func(e *colly.HTMLElement) {
 			if visited[e.Request.URL.String()] {
+				return
+			}
+			if exclude[e.Request.URL.String()] {
 				return
 			}
 			logrus.Infof("scraping %s", e.Request.URL.String())
@@ -86,8 +94,8 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 		})
 
 		c.collector.OnHTML("a[href]", func(e *colly.HTMLElement) {
-
 			link := e.Attr("href")
+
 			baseURL, err := url2.Parse(url)
 			if err != nil {
 				logrus.Errorf("Invalid base URL: %v", err)
@@ -103,6 +111,9 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 			}
 			if strings.ToLower(path.Ext(linkURL.Path)) == ".pdf" {
 				logrus.Infof("downloading PDF %s", linkURL.String())
+				if exclude[linkURL.String()] {
+					return
+				}
 				filePath := path.Join(workingDir, baseURL.Host, linkURL.Host, strings.TrimPrefix(linkURL.Path, "/"))
 				dirPath := path.Dir(filePath)
 				resp, err := http.Get(linkURL.String())
@@ -157,7 +168,7 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 		}
 	}
 	for url, file := range metadata.Output.Files {
-		if !visited[url] {
+		if !visited[url] || exclude[url] {
 			logrus.Infof("removing file %s", file.FilePath)
 			if err := os.RemoveAll(file.FilePath); err != nil {
 				logrus.Errorf("Failed to remove %s: %v", file.FilePath, err)

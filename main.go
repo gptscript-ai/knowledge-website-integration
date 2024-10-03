@@ -16,6 +16,7 @@ type Metadata struct {
 
 type MetadataInput struct {
 	WebsiteCrawlingConfig WebsiteCrawlingConfig `json:"websiteCrawlingConfig"`
+	Exclude               []string              `json:"exclude"`
 }
 
 type WebsiteCrawlingConfig struct {
