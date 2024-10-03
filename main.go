@@ -9,26 +9,39 @@ import (
 )
 
 type Metadata struct {
-	Input  MetadataInput  `json:"input"`
-	Output MetadataOutput `json:"output"`
+	Input     MetadataInput  `json:"input"`
+	Output    MetadataOutput `json:"output"`
+	OutputDir string         `json:"outputDir"`
 }
 
 type MetadataInput struct {
+	WebsiteCrawlingConfig WebsiteCrawlingConfig `json:"websiteCrawlingConfig"`
+}
+
+type WebsiteCrawlingConfig struct {
 	URLs []string `json:"urls"`
 }
 
 type MetadataOutput struct {
-	Status       string                 `json:"status"`
-	Error        string                 `json:"error"`
-	ScrapeJobIds map[string]string      `json:"scrape_job_ids"`
-	Pages        map[string]PageDetails `json:"pages"`
-	Folders      map[string]struct{}    `json:"folders"`
+	Status string                 `json:"status"`
+	Error  string                 `json:"error"`
+	State  State                  `json:"state"`
+	Files  map[string]FileDetails `json:"files"`
 }
 
-type PageDetails struct {
-	Path       string `json:"path"`
-	URL        string `json:"url"`
-	LastUpdate string `json:"last_update"`
+type State struct {
+	WebsiteCrawlingState WebsiteCrawlingState `json:"websiteCrawlingState"`
+}
+
+type WebsiteCrawlingState struct {
+	ScrapeJobIds map[string]string   `json:"scrapeJobIds"`
+	Folders      map[string]struct{} `json:"folders"`
+}
+
+type FileDetails struct {
+	FilePath  string `json:"filePath,omitempty"`
+	URL       string `json:"url,omitempty"`
+	UpdatedAt string `json:"updatedAt,omitempty"`
 }
 
 func main() {
@@ -62,8 +75,16 @@ func main() {
 		logrus.Fatal(err)
 	}
 
-	if metadata.Output.Pages == nil {
-		metadata.Output.Pages = make(map[string]PageDetails)
+	if metadata.Output.Files == nil {
+		metadata.Output.Files = make(map[string]FileDetails)
+	}
+
+	if metadata.OutputDir != "" {
+		workingDir = metadata.OutputDir
+	}
+
+	if err := os.MkdirAll(workingDir, 0755); err != nil {
+		logrus.Fatal(err)
 	}
 
 	if mode == "colly" {

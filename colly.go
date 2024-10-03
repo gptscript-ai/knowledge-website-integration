@@ -32,7 +32,7 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 	visited := make(map[string]bool)
 	folders := make(map[string]struct{})
 
-	for _, url := range metadata.Input.URLs {
+	for _, url := range metadata.Input.WebsiteCrawlingConfig.URLs {
 		c.collector.OnHTML("body", func(e *colly.HTMLElement) {
 			if visited[e.Request.URL.String()] {
 				return
@@ -48,12 +48,13 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 				filePath = path.Join(workingDir, hostname, "index.md")
 			} else {
 				trimmedPath := strings.Trim(urlPath, "/")
-				segments := strings.Split(trimmedPath, "/")
-				if segments[len(segments)-1] == "" {
-					return
+				if trimmedPath == "" {
+					filePath = path.Join(workingDir, hostname, "index.md")
+				} else {
+					segments := strings.Split(trimmedPath, "/")
+					fileName := segments[len(segments)-1] + ".md"
+					filePath = path.Join(path.Join(workingDir, hostname, strings.Join(segments[:len(segments)-1], "/")), fileName)
 				}
-				fileName := segments[len(segments)-1] + ".md"
-				filePath = path.Join(path.Join(workingDir, hostname, strings.Join(segments[:len(segments)-1], "/")), fileName)
 			}
 			dirPath := path.Dir(filePath)
 			err := os.MkdirAll(dirPath, os.ModePerm)
@@ -69,14 +70,14 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 			}
 			visited[e.Request.URL.String()] = true
 
-			metadata.Output.Pages[e.Request.URL.String()] = PageDetails{
-				Path:       filePath,
-				URL:        e.Request.URL.String(),
-				LastUpdate: time.Now().String(),
+			metadata.Output.Files[e.Request.URL.String()] = FileDetails{
+				FilePath:  filePath,
+				URL:       e.Request.URL.String(),
+				UpdatedAt: time.Now().String(),
 			}
 
 			folders[path.Join(workingDir, hostname)] = struct{}{}
-			metadata.Output.Folders = folders
+			metadata.Output.State.WebsiteCrawlingState.Folders = folders
 
 			metadata.Output.Status = fmt.Sprintf("scraped %d pages", len(visited))
 			if err := writeMetadata(metadata, metadataPath); err != nil {
@@ -134,10 +135,10 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 				visited[linkURL.String()] = true
 
 				metadata.Output.Status = fmt.Sprintf("scraped %d pages", len(visited))
-				metadata.Output.Pages[linkURL.String()] = PageDetails{
-					Path:       filePath,
-					URL:        linkURL.String(),
-					LastUpdate: time.Now().String(),
+				metadata.Output.Files[linkURL.String()] = FileDetails{
+					FilePath:  filePath,
+					URL:       linkURL.String(),
+					UpdatedAt: time.Now().String(),
 				}
 
 				if err := writeMetadata(metadata, metadataPath); err != nil {
@@ -155,22 +156,23 @@ func (c *Colly) Crawl(metadata *Metadata, metadataPath string, workingDir string
 			metadata.Output.Error = err.Error()
 		}
 	}
-	for url, page := range metadata.Output.Pages {
+	for url, file := range metadata.Output.Files {
 		if !visited[url] {
-			if err := os.RemoveAll(page.Path); err != nil {
-				logrus.Errorf("Failed to remove %s: %v", page.Path, err)
+			logrus.Infof("removing file %s", file.FilePath)
+			if err := os.RemoveAll(file.FilePath); err != nil {
+				logrus.Errorf("Failed to remove %s: %v", file.FilePath, err)
 			}
-			delete(metadata.Output.Pages, url)
+			delete(metadata.Output.Files, url)
 		}
 	}
 
-	for folder := range metadata.Output.Folders {
+	for folder := range metadata.Output.State.WebsiteCrawlingState.Folders {
 		if _, ok := folders[folder]; !ok {
 			logrus.Infof("removing folder %s", folder)
 			if err := os.RemoveAll(folder); err != nil {
 				logrus.Errorf("Failed to remove %s: %v", folder, err)
 			}
-			delete(metadata.Output.Folders, folder)
+			delete(metadata.Output.State.WebsiteCrawlingState.Folders, folder)
 		}
 	}
 

@@ -37,31 +37,31 @@ func NewFirecrawl() *Firecrawl {
 }
 
 func (f *Firecrawl) Crawl(metadata *Metadata, metadataPath string, workingDir string) {
-	if metadata.Output.ScrapeJobIds == nil {
-		metadata.Output.ScrapeJobIds = make(map[string]string)
+	if metadata.Output.State.WebsiteCrawlingState.ScrapeJobIds == nil {
+		metadata.Output.State.WebsiteCrawlingState.ScrapeJobIds = make(map[string]string)
 	}
-	if metadata.Output.Folders == nil {
-		metadata.Output.Folders = make(map[string]struct{})
+	if metadata.Output.State.WebsiteCrawlingState.Folders == nil {
+		metadata.Output.State.WebsiteCrawlingState.Folders = make(map[string]struct{})
 	}
 
-	for url := range metadata.Output.ScrapeJobIds {
+	for url := range metadata.Output.State.WebsiteCrawlingState.ScrapeJobIds {
 		found := false
-		for _, inputURL := range metadata.Input.URLs {
+		for _, inputURL := range metadata.Input.WebsiteCrawlingConfig.URLs {
 			if inputURL == url {
 				found = true
 				break
 			}
 		}
 		if !found {
-			delete(metadata.Output.ScrapeJobIds, url)
+			delete(metadata.Output.State.WebsiteCrawlingState.ScrapeJobIds, url)
 		}
 	}
 
 	folders := make(map[string]struct{})
 	visitedPages := make(map[string]struct{})
 
-	for _, url := range metadata.Input.URLs {
-		if metadata.Output.ScrapeJobIds[url] == "" {
+	for _, url := range metadata.Input.WebsiteCrawlingConfig.URLs {
+		if metadata.Output.State.WebsiteCrawlingState.ScrapeJobIds[url] == "" {
 			crawlStatus, err := f.app.AsyncCrawlURL(url, &firecrawl.CrawlParams{
 				Limit: &[]int{100}[0],
 				ScrapeOptions: firecrawl.ScrapeParams{
@@ -71,14 +71,14 @@ func (f *Firecrawl) Crawl(metadata *Metadata, metadataPath string, workingDir st
 			if err != nil {
 				log.Fatalf("Failed to send crawl request: %v", err)
 			}
-			metadata.Output.ScrapeJobIds[url] = crawlStatus.ID
+			metadata.Output.State.WebsiteCrawlingState.ScrapeJobIds[url] = crawlStatus.ID
 			if err := writeMetadata(metadata, metadataPath); err != nil {
 				log.Fatalf("Failed to write metadata: %v", err)
 			}
 		}
 	}
 
-	for _, scrapeJobId := range metadata.Output.ScrapeJobIds {
+	for _, scrapeJobId := range metadata.Output.State.WebsiteCrawlingState.ScrapeJobIds {
 		fileWritten := 0
 	OuterLoop:
 		for {
@@ -111,8 +111,8 @@ func (f *Firecrawl) Crawl(metadata *Metadata, metadataPath string, workingDir st
 							urlPath = parsedURL.Path
 						}
 
-						existingPage, ok := metadata.Output.Pages[source]
-						if ok && existingPage.LastUpdate == lastModified && lastModified != "" {
+						existingPage, ok := metadata.Output.Files[source]
+						if ok && existingPage.UpdatedAt == lastModified && lastModified != "" {
 							continue
 						}
 
@@ -128,15 +128,15 @@ func (f *Firecrawl) Crawl(metadata *Metadata, metadataPath string, workingDir st
 							continue
 						}
 
-						metadata.Output.Pages[source] = PageDetails{
-							LastUpdate: lastModified,
-							Path:       markdownPath,
-							URL:        source,
+						metadata.Output.Files[source] = FileDetails{
+							UpdatedAt: lastModified,
+							FilePath:  markdownPath,
+							URL:       source,
 						}
 						visitedPages[source] = struct{}{}
 
 						folders[filepath.Join(workingDir, parsedURL.Host)] = struct{}{}
-						metadata.Output.Folders[filepath.Join(workingDir, parsedURL.Host)] = struct{}{}
+						metadata.Output.State.WebsiteCrawlingState.Folders[filepath.Join(workingDir, parsedURL.Host)] = struct{}{}
 
 						fileWritten++
 						logrus.Infof("wrote %d webpages to disk", fileWritten)
@@ -194,21 +194,21 @@ func (f *Firecrawl) Crawl(metadata *Metadata, metadataPath string, workingDir st
 		}
 	}
 
-	for folder := range metadata.Output.Folders {
+	for folder := range metadata.Output.State.WebsiteCrawlingState.Folders {
 		if _, ok := folders[folder]; !ok {
 			if err := os.RemoveAll(folder); err != nil {
 				logrus.Errorf("Failed to remove folder %s: %v", folder, err)
 			}
-			delete(metadata.Output.Folders, folder)
+			delete(metadata.Output.State.WebsiteCrawlingState.Folders, folder)
 		}
 	}
 
-	for page, detail := range metadata.Output.Pages {
+	for page, detail := range metadata.Output.Files {
 		if _, ok := visitedPages[page]; !ok {
-			if err := os.RemoveAll(detail.Path); err != nil {
+			if err := os.RemoveAll(detail.FilePath); err != nil {
 				logrus.Errorf("Failed to remove page %s: %v", page, err)
 			}
-			delete(metadata.Output.Pages, page)
+			delete(metadata.Output.Files, page)
 		}
 	}
 
