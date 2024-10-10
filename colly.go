@@ -207,10 +207,13 @@ func scrapePDF(workingDir string, metadata *Metadata, metadataPath string, visit
 			return fmt.Errorf("invalid link URL %s: %v", fullLink, err)
 		}
 	}
-	logrus.Infof("downloading PDF %s", linkURL.String())
+	if _, ok := visited[linkURL.String()]; ok {
+		return nil
+	}
 	if exclude[linkURL.String()] {
 		return nil
 	}
+	logrus.Infof("downloading PDF %s", linkURL.String())
 	filePath := path.Join(workingDir, baseURL.Host, linkURL.Host, strings.TrimPrefix(linkURL.Path, "/"))
 	dirPath := path.Dir(filePath)
 	resp, err := http.Get(linkURL.String())
