@@ -37,12 +37,14 @@ type State struct {
 type WebsiteCrawlingState struct {
 	ScrapeJobIds map[string]string   `json:"scrapeJobIds"`
 	Folders      map[string]struct{} `json:"folders"`
+	Pages        map[string]struct{} `json:"pages"`
 }
 
 type FileDetails struct {
 	FilePath  string `json:"filePath,omitempty"`
 	URL       string `json:"url,omitempty"`
 	UpdatedAt string `json:"updatedAt,omitempty"`
+	Checksum  string `json:"checksum,omitempty"`
 }
 
 func main() {
